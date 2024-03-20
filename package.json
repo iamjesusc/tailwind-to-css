@@ -1,13 +1,14 @@
 {
   "name": "twindcss",
-  "publisher": "twindcss",
+  "publisher": "dangerus",
   "displayName": "TwindCSS",
   "description": "Speed up your CSS styling by instantly converting Tailwind classes into CSS code.",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/imjesusc/tailwind-to-css"
   },
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -21,7 +22,9 @@
   "keywords": [
     "snippets",
     "css",
-    "tailwind"
+    "tailwind",
+    "transform",
+    "convert"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",

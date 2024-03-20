@@ -1,6 +1,6 @@
 <div align="center">
     <div>
-    <img src="tailwind.png" width=200/>
+    <img src="src/assets/tailwind.png" width=200/>
     </div>
 
    <div>
@@ -8,7 +8,7 @@
     <p>Tailwind to CSS</p>
     </div>
 
-**[Install via the Visual Studio Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**
+<a href="https://marketplace.visualstudio.com/items?itemName=twindcss.twindcss">Install via the Visual Studio Code Marketplace →</a>
 
 </div>
 
@@ -21,7 +21,7 @@
 #### Convert cursor position line
 
  <div>
-    <img src="inline.gif" width=300 style="	aspect-ratio: 16 / 9;
+    <img src="src/assets/inline.gif" width=300 style="	aspect-ratio: 16 / 9;
 	object-fit: cover;
 	object-position: center;
 	height: 100%;"/>
@@ -30,7 +30,16 @@
 #### Convert multiple CSS blocks
 
  <div>
-    <img src="multiple.gif" width=300 style="	aspect-ratio: 16 / 9;
+    <img src="src/assets//multiple.gif" width=300 style="	aspect-ratio: 16 / 9;
 	object-fit: cover;
 		object-position: center;	height: 100%;"/>
 </div>
+
+## Usage
+
+### Convert to CSS
+
+- Select the text containing Tailwind CSS shorthand notation in your code editor.
+- Open the Command Palette by pressing Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
+- Type "[TwindCSS] Convert Tailwind ➔ CSS".
+- Press Enter.
