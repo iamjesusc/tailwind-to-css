@@ -1,0 +1,171 @@
+{
+  "name": "twindcss",
+  "displayName": "TwindCSS",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Snippets",
+    "Formatters",
+    "Other"
+  ],
+  "preview": true,
+  "keywords": [
+    "snippets",
+    "css",
+    "tailwind"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "twindcss.convertTailwindToCSS",
+        "title": "[TwindCSS] Convert Tailwind ➔ CSS."
+      }
+    ],
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./src/snippeds/typografy.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/transform.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/tables.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/svg.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/sizes.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/layout.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/interactivity.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/flex-grid.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/filters.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/spacing.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/effects.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/borders.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/backgrounds.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/animation.json"
+      },
+      {
+        "language": "css",
+        "path": "./src/snippeds/accesibility.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/typografy.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/transform.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/tables.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/svg.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/sizes.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/layout.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/interactivity.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/flex-grid.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/filters.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/effects.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/borders.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/backgrounds.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/animation.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/accesibility.json"
+      },
+      {
+        "language": "scss",
+        "path": "./src/snippeds/spacing.json"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "pnpm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "pnpm run compile && pnpm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.87.0",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "18.x",
+    "@typescript-eslint/eslint-plugin": "^7.0.2",
+    "@typescript-eslint/parser": "^7.0.2",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3",
+    "@vscode/test-cli": "^0.0.6",
+    "@vscode/test-electron": "^2.3.9"
+  }
+}
