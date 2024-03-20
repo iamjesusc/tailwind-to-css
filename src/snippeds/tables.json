@@ -1,0 +1,446 @@
+{
+  "border-collapse": {
+    "prefix": "border-collapse",
+    "body": "border-collapse"
+  },
+  "border-separate": {
+    "prefix": "border-separate",
+    "body": "border-separate"
+  },
+  "border-spacing-0": {
+    "prefix": "border-spacing-0",
+    "body": "border-spacing-0"
+  },
+  "border-spacing-x-0": {
+    "prefix": "border-spacing-x-0",
+    "body": "border-spacing-x-0"
+  },
+  "border-spacing-y-0": {
+    "prefix": "border-spacing-y-0",
+    "body": "border-spacing-y-0"
+  },
+  "border-spacing-px": {
+    "prefix": "border-spacing-px",
+    "body": "border-spacing-px"
+  },
+  "border-spacing-x-px": {
+    "prefix": "border-spacing-x-px",
+    "body": "border-spacing-x-px"
+  },
+  "border-spacing-y-px": {
+    "prefix": "border-spacing-y-px",
+    "body": "border-spacing-y-px"
+  },
+  "border-spacing-0.5": {
+    "prefix": "border-spacing-0.5",
+    "body": "border-spacing-0.5"
+  },
+  "border-spacing-x-0.5": {
+    "prefix": "border-spacing-x-0.5",
+    "body": "border-spacing-x-0.5"
+  },
+  "border-spacing-y-0.5": {
+    "prefix": "border-spacing-y-0.5",
+    "body": "border-spacing-y-0.5"
+  },
+  "border-spacing-1": {
+    "prefix": "border-spacing-1",
+    "body": "border-spacing-1"
+  },
+  "border-spacing-x-1": {
+    "prefix": "border-spacing-x-1",
+    "body": "border-spacing-x-1"
+  },
+  "border-spacing-y-1": {
+    "prefix": "border-spacing-y-1",
+    "body": "border-spacing-y-1"
+  },
+  "border-spacing-1.5": {
+    "prefix": "border-spacing-1.5",
+    "body": "border-spacing-1.5"
+  },
+  "border-spacing-x-1.5": {
+    "prefix": "border-spacing-x-1.5",
+    "body": "border-spacing-x-1.5"
+  },
+  "border-spacing-y-1.5": {
+    "prefix": "border-spacing-y-1.5",
+    "body": "border-spacing-y-1.5"
+  },
+  "border-spacing-2": {
+    "prefix": "border-spacing-2",
+    "body": "border-spacing-2"
+  },
+  "border-spacing-x-2": {
+    "prefix": "border-spacing-x-2",
+    "body": "border-spacing-x-2"
+  },
+  "border-spacing-y-2": {
+    "prefix": "border-spacing-y-2",
+    "body": "border-spacing-y-2"
+  },
+  "border-spacing-2.5": {
+    "prefix": "border-spacing-2.5",
+    "body": "border-spacing-2.5"
+  },
+  "border-spacing-x-2.5": {
+    "prefix": "border-spacing-x-2.5",
+    "body": "border-spacing-x-2.5"
+  },
+  "border-spacing-y-2.5": {
+    "prefix": "border-spacing-y-2.5",
+    "body": "border-spacing-y-2.5"
+  },
+  "border-spacing-3": {
+    "prefix": "border-spacing-3",
+    "body": "border-spacing-3"
+  },
+  "border-spacing-x-3": {
+    "prefix": "border-spacing-x-3",
+    "body": "border-spacing-x-3"
+  },
+  "border-spacing-y-3": {
+    "prefix": "border-spacing-y-3",
+    "body": "border-spacing-y-3"
+  },
+  "border-spacing-3.5": {
+    "prefix": "border-spacing-3.5",
+    "body": "border-spacing-3.5"
+  },
+  "border-spacing-x-3.5": {
+    "prefix": "border-spacing-x-3.5",
+    "body": "border-spacing-x-3.5"
+  },
+  "border-spacing-y-3.5": {
+    "prefix": "border-spacing-y-3.5",
+    "body": "border-spacing-y-3.5"
+  },
+  "border-spacing-4": {
+    "prefix": "border-spacing-4",
+    "body": "border-spacing-4"
+  },
+  "border-spacing-x-4": {
+    "prefix": "border-spacing-x-4",
+    "body": "border-spacing-x-4"
+  },
+  "border-spacing-y-4": {
+    "prefix": "border-spacing-y-4",
+    "body": "border-spacing-y-4"
+  },
+  "border-spacing-5": {
+    "prefix": "border-spacing-5",
+    "body": "border-spacing-5"
+  },
+  "border-spacing-x-5": {
+    "prefix": "border-spacing-x-5",
+    "body": "border-spacing-x-5"
+  },
+  "border-spacing-y-5": {
+    "prefix": "border-spacing-y-5",
+    "body": "border-spacing-y-5"
+  },
+  "border-spacing-6": {
+    "prefix": "border-spacing-6",
+    "body": "border-spacing-6"
+  },
+  "border-spacing-x-6": {
+    "prefix": "border-spacing-x-6",
+    "body": "border-spacing-x-6"
+  },
+  "border-spacing-y-6": {
+    "prefix": "border-spacing-y-6",
+    "body": "border-spacing-y-6"
+  },
+  "border-spacing-7": {
+    "prefix": "border-spacing-7",
+    "body": "border-spacing-7"
+  },
+  "border-spacing-x-7": {
+    "prefix": "border-spacing-x-7",
+    "body": "border-spacing-x-7"
+  },
+  "border-spacing-y-7": {
+    "prefix": "border-spacing-y-7",
+    "body": "border-spacing-y-7"
+  },
+  "border-spacing-8": {
+    "prefix": "border-spacing-8",
+    "body": "border-spacing-8"
+  },
+  "border-spacing-x-8": {
+    "prefix": "border-spacing-x-8",
+    "body": "border-spacing-x-8"
+  },
+  "border-spacing-y-8": {
+    "prefix": "border-spacing-y-8",
+    "body": "border-spacing-y-8"
+  },
+  "border-spacing-9": {
+    "prefix": "border-spacing-9",
+    "body": "border-spacing-9"
+  },
+  "border-spacing-x-9": {
+    "prefix": "border-spacing-x-9",
+    "body": "border-spacing-x-9"
+  },
+  "border-spacing-y-9": {
+    "prefix": "border-spacing-y-9",
+    "body": "border-spacing-y-9"
+  },
+  "border-spacing-10": {
+    "prefix": "border-spacing-10",
+    "body": "border-spacing-10"
+  },
+  "border-spacing-x-10": {
+    "prefix": "border-spacing-x-10",
+    "body": "border-spacing-x-10"
+  },
+  "border-spacing-y-10": {
+    "prefix": "border-spacing-y-10",
+    "body": "border-spacing-y-10"
+  },
+  "border-spacing-11": {
+    "prefix": "border-spacing-11",
+    "body": "border-spacing-11"
+  },
+  "border-spacing-x-11": {
+    "prefix": "border-spacing-x-11",
+    "body": "border-spacing-x-11"
+  },
+  "border-spacing-y-11": {
+    "prefix": "border-spacing-y-11",
+    "body": "border-spacing-y-11"
+  },
+  "border-spacing-12": {
+    "prefix": "border-spacing-12",
+    "body": "border-spacing-12"
+  },
+  "border-spacing-x-12": {
+    "prefix": "border-spacing-x-12",
+    "body": "border-spacing-x-12"
+  },
+  "border-spacing-y-12": {
+    "prefix": "border-spacing-y-12",
+    "body": "border-spacing-y-12"
+  },
+  "border-spacing-14": {
+    "prefix": "border-spacing-14",
+    "body": "border-spacing-14"
+  },
+  "border-spacing-x-14": {
+    "prefix": "border-spacing-x-14",
+    "body": "border-spacing-x-14"
+  },
+  "border-spacing-y-14": {
+    "prefix": "border-spacing-y-14",
+    "body": "border-spacing-y-14"
+  },
+  "border-spacing-16": {
+    "prefix": "border-spacing-16",
+    "body": "border-spacing-16"
+  },
+  "border-spacing-x-16": {
+    "prefix": "border-spacing-x-16",
+    "body": "border-spacing-x-16"
+  },
+  "border-spacing-y-16": {
+    "prefix": "border-spacing-y-16",
+    "body": "border-spacing-y-16"
+  },
+  "border-spacing-20": {
+    "prefix": "border-spacing-20",
+    "body": "border-spacing-20"
+  },
+  "border-spacing-x-20": {
+    "prefix": "border-spacing-x-20",
+    "body": "border-spacing-x-20"
+  },
+  "border-spacing-y-20": {
+    "prefix": "border-spacing-y-20",
+    "body": "border-spacing-y-20"
+  },
+  "border-spacing-24": {
+    "prefix": "border-spacing-24",
+    "body": "border-spacing-24"
+  },
+  "border-spacing-x-24": {
+    "prefix": "border-spacing-x-24",
+    "body": "border-spacing-x-24"
+  },
+  "border-spacing-y-24": {
+    "prefix": "border-spacing-y-24",
+    "body": "border-spacing-y-24"
+  },
+  "border-spacing-28": {
+    "prefix": "border-spacing-28",
+    "body": "border-spacing-28"
+  },
+  "border-spacing-x-28": {
+    "prefix": "border-spacing-x-28",
+    "body": "border-spacing-x-28"
+  },
+  "border-spacing-y-28": {
+    "prefix": "border-spacing-y-28",
+    "body": "border-spacing-y-28"
+  },
+  "border-spacing-32": {
+    "prefix": "border-spacing-32",
+    "body": "border-spacing-32"
+  },
+  "border-spacing-x-32": {
+    "prefix": "border-spacing-x-32",
+    "body": "border-spacing-x-32"
+  },
+  "border-spacing-y-32": {
+    "prefix": "border-spacing-y-32",
+    "body": "border-spacing-y-32"
+  },
+  "border-spacing-36": {
+    "prefix": "border-spacing-36",
+    "body": "border-spacing-36"
+  },
+  "border-spacing-x-36": {
+    "prefix": "border-spacing-x-36",
+    "body": "border-spacing-x-36"
+  },
+  "border-spacing-y-36": {
+    "prefix": "border-spacing-y-36",
+    "body": "border-spacing-y-36"
+  },
+  "border-spacing-40": {
+    "prefix": "border-spacing-40",
+    "body": "border-spacing-40"
+  },
+  "border-spacing-x-40": {
+    "prefix": "border-spacing-x-40",
+    "body": "border-spacing-x-40"
+  },
+  "border-spacing-y-40": {
+    "prefix": "border-spacing-y-40",
+    "body": "border-spacing-y-40"
+  },
+  "border-spacing-44": {
+    "prefix": "border-spacing-44",
+    "body": "border-spacing-44"
+  },
+  "border-spacing-x-44": {
+    "prefix": "border-spacing-x-44",
+    "body": "border-spacing-x-44"
+  },
+  "border-spacing-y-44": {
+    "prefix": "border-spacing-y-44",
+    "body": "border-spacing-y-44"
+  },
+  "border-spacing-48": {
+    "prefix": "border-spacing-48",
+    "body": "border-spacing-48"
+  },
+  "border-spacing-x-48": {
+    "prefix": "border-spacing-x-48",
+    "body": "border-spacing-x-48"
+  },
+  "border-spacing-y-48": {
+    "prefix": "border-spacing-y-48",
+    "body": "border-spacing-y-48"
+  },
+  "border-spacing-52": {
+    "prefix": "border-spacing-52",
+    "body": "border-spacing-52"
+  },
+  "border-spacing-x-52": {
+    "prefix": "border-spacing-x-52",
+    "body": "border-spacing-x-52"
+  },
+  "border-spacing-y-52": {
+    "prefix": "border-spacing-y-52",
+    "body": "border-spacing-y-52"
+  },
+  "border-spacing-56": {
+    "prefix": "border-spacing-56",
+    "body": "border-spacing-56"
+  },
+  "border-spacing-x-56": {
+    "prefix": "border-spacing-x-56",
+    "body": "border-spacing-x-56"
+  },
+  "border-spacing-y-56": {
+    "prefix": "border-spacing-y-56",
+    "body": "border-spacing-y-56"
+  },
+  "border-spacing-60": {
+    "prefix": "border-spacing-60",
+    "body": "border-spacing-60"
+  },
+  "border-spacing-x-60": {
+    "prefix": "border-spacing-x-60",
+    "body": "border-spacing-x-60"
+  },
+  "border-spacing-y-60": {
+    "prefix": "border-spacing-y-60",
+    "body": "border-spacing-y-60"
+  },
+  "border-spacing-64": {
+    "prefix": "border-spacing-64",
+    "body": "border-spacing-64"
+  },
+  "border-spacing-x-64": {
+    "prefix": "border-spacing-x-64",
+    "body": "border-spacing-x-64"
+  },
+  "border-spacing-y-64": {
+    "prefix": "border-spacing-y-64",
+    "body": "border-spacing-y-64"
+  },
+  "border-spacing-72": {
+    "prefix": "border-spacing-72",
+    "body": "border-spacing-72"
+  },
+  "border-spacing-x-72": {
+    "prefix": "border-spacing-x-72",
+    "body": "border-spacing-x-72"
+  },
+  "border-spacing-y-72": {
+    "prefix": "border-spacing-y-72",
+    "body": "border-spacing-y-72"
+  },
+  "border-spacing-80": {
+    "prefix": "border-spacing-80",
+    "body": "border-spacing-80"
+  },
+  "border-spacing-x-80": {
+    "prefix": "border-spacing-x-80",
+    "body": "border-spacing-x-80"
+  },
+  "border-spacing-y-80": {
+    "prefix": "border-spacing-y-80",
+    "body": "border-spacing-y-80"
+  },
+  "border-spacing-96": {
+    "prefix": "border-spacing-96",
+    "body": "border-spacing-96"
+  },
+  "border-spacing-x-96": {
+    "prefix": "border-spacing-x-96",
+    "body": "border-spacing-x-96"
+  },
+  "border-spacing-y-96": {
+    "prefix": "border-spacing-y-96",
+    "body": "border-spacing-y-96"
+  },
+  "table-auto": {
+    "prefix": "table-auto",
+    "body": "table-auto"
+  },
+  "table-fixed": {
+    "prefix": "table-fixed",
+    "body": "table-fixed"
+  },
+  "caption-top": {
+    "prefix": "caption-top",
+    "body": "caption-top"
+  },
+  "caption-bottom": {
+    "prefix": "caption-bottom",
+    "body": "caption-bottom"
+  }
+}

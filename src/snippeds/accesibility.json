@@ -1,0 +1,18 @@
+{
+  "sr-only": {
+    "prefix": "sr-only",
+    "body": "sr-only"
+  },
+  "not-sr-only": {
+    "prefix": "not-sr-only",
+    "body": "not-sr-only"
+  },
+  "forced-color-adjust-auto": {
+    "prefix": "forced-color-adjust-auto",
+    "body": "forced-color-adjust-auto"
+  },
+  "forced-color-adjust-none": {
+    "prefix": "forced-color-adjust-none",
+    "body": "forced-color-adjust-none"
+  }
+}

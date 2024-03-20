@@ -1,0 +1,4354 @@
+{
+  "bg-fixed": {
+    "prefix": "bg-fixed",
+    "body": "bg-fixed"
+  },
+  "bg-local": {
+    "prefix": "bg-local",
+    "body": "bg-local"
+  },
+  "bg-scroll": {
+    "prefix": "bg-scroll",
+    "body": "bg-scroll"
+  },
+  "bg-clip-border": {
+    "prefix": "bg-clip-border",
+    "body": "bg-clip-border"
+  },
+  "bg-clip-padding": {
+    "prefix": "bg-clip-padding",
+    "body": "bg-clip-padding"
+  },
+  "bg-clip-content": {
+    "prefix": "bg-clip-content",
+    "body": "bg-clip-content"
+  },
+  "bg-clip-text": {
+    "prefix": "bg-clip-text",
+    "body": "bg-clip-text"
+  },
+  "bg-inherit": {
+    "prefix": "bg-inherit",
+    "body": "bg-inherit"
+  },
+  "bg-current": {
+    "prefix": "bg-current",
+    "body": "bg-current"
+  },
+  "bg-transparent": {
+    "prefix": "bg-transparent",
+    "body": "bg-transparent"
+  },
+  "bg-black": {
+    "prefix": "bg-black",
+    "body": "bg-black"
+  },
+  "bg-white": {
+    "prefix": "bg-white",
+    "body": "bg-white"
+  },
+  "bg-slate-50": {
+    "prefix": "bg-slate-50",
+    "body": "bg-slate-50"
+  },
+  "bg-slate-100": {
+    "prefix": "bg-slate-100",
+    "body": "bg-slate-100"
+  },
+  "bg-slate-200": {
+    "prefix": "bg-slate-200",
+    "body": "bg-slate-200"
+  },
+  "bg-slate-300": {
+    "prefix": "bg-slate-300",
+    "body": "bg-slate-300"
+  },
+  "bg-slate-400": {
+    "prefix": "bg-slate-400",
+    "body": "bg-slate-400"
+  },
+  "bg-slate-500": {
+    "prefix": "bg-slate-500",
+    "body": "bg-slate-500"
+  },
+  "bg-slate-600": {
+    "prefix": "bg-slate-600",
+    "body": "bg-slate-600"
+  },
+  "bg-slate-700": {
+    "prefix": "bg-slate-700",
+    "body": "bg-slate-700"
+  },
+  "bg-slate-800": {
+    "prefix": "bg-slate-800",
+    "body": "bg-slate-800"
+  },
+  "bg-slate-900": {
+    "prefix": "bg-slate-900",
+    "body": "bg-slate-900"
+  },
+  "bg-slate-950": {
+    "prefix": "bg-slate-950",
+    "body": "bg-slate-950"
+  },
+  "bg-gray-50": {
+    "prefix": "bg-gray-50",
+    "body": "bg-gray-50"
+  },
+  "bg-gray-100": {
+    "prefix": "bg-gray-100",
+    "body": "bg-gray-100"
+  },
+  "bg-gray-200": {
+    "prefix": "bg-gray-200",
+    "body": "bg-gray-200"
+  },
+  "bg-gray-300": {
+    "prefix": "bg-gray-300",
+    "body": "bg-gray-300"
+  },
+  "bg-gray-400": {
+    "prefix": "bg-gray-400",
+    "body": "bg-gray-400"
+  },
+  "bg-gray-500": {
+    "prefix": "bg-gray-500",
+    "body": "bg-gray-500"
+  },
+  "bg-gray-600": {
+    "prefix": "bg-gray-600",
+    "body": "bg-gray-600"
+  },
+  "bg-gray-700": {
+    "prefix": "bg-gray-700",
+    "body": "bg-gray-700"
+  },
+  "bg-gray-800": {
+    "prefix": "bg-gray-800",
+    "body": "bg-gray-800"
+  },
+  "bg-gray-900": {
+    "prefix": "bg-gray-900",
+    "body": "bg-gray-900"
+  },
+  "bg-gray-950": {
+    "prefix": "bg-gray-950",
+    "body": "bg-gray-950"
+  },
+  "bg-zinc-50": {
+    "prefix": "bg-zinc-50",
+    "body": "bg-zinc-50"
+  },
+  "bg-zinc-100": {
+    "prefix": "bg-zinc-100",
+    "body": "bg-zinc-100"
+  },
+  "bg-zinc-200": {
+    "prefix": "bg-zinc-200",
+    "body": "bg-zinc-200"
+  },
+  "bg-zinc-300": {
+    "prefix": "bg-zinc-300",
+    "body": "bg-zinc-300"
+  },
+  "bg-zinc-400": {
+    "prefix": "bg-zinc-400",
+    "body": "bg-zinc-400"
+  },
+  "bg-zinc-500": {
+    "prefix": "bg-zinc-500",
+    "body": "bg-zinc-500"
+  },
+  "bg-zinc-600": {
+    "prefix": "bg-zinc-600",
+    "body": "bg-zinc-600"
+  },
+  "bg-zinc-700": {
+    "prefix": "bg-zinc-700",
+    "body": "bg-zinc-700"
+  },
+  "bg-zinc-800": {
+    "prefix": "bg-zinc-800",
+    "body": "bg-zinc-800"
+  },
+  "bg-zinc-900": {
+    "prefix": "bg-zinc-900",
+    "body": "bg-zinc-900"
+  },
+  "bg-zinc-950": {
+    "prefix": "bg-zinc-950",
+    "body": "bg-zinc-950"
+  },
+  "bg-neutral-50": {
+    "prefix": "bg-neutral-50",
+    "body": "bg-neutral-50"
+  },
+  "bg-neutral-100": {
+    "prefix": "bg-neutral-100",
+    "body": "bg-neutral-100"
+  },
+  "bg-neutral-200": {
+    "prefix": "bg-neutral-200",
+    "body": "bg-neutral-200"
+  },
+  "bg-neutral-300": {
+    "prefix": "bg-neutral-300",
+    "body": "bg-neutral-300"
+  },
+  "bg-neutral-400": {
+    "prefix": "bg-neutral-400",
+    "body": "bg-neutral-400"
+  },
+  "bg-neutral-500": {
+    "prefix": "bg-neutral-500",
+    "body": "bg-neutral-500"
+  },
+  "bg-neutral-600": {
+    "prefix": "bg-neutral-600",
+    "body": "bg-neutral-600"
+  },
+  "bg-neutral-700": {
+    "prefix": "bg-neutral-700",
+    "body": "bg-neutral-700"
+  },
+  "bg-neutral-800": {
+    "prefix": "bg-neutral-800",
+    "body": "bg-neutral-800"
+  },
+  "bg-neutral-900": {
+    "prefix": "bg-neutral-900",
+    "body": "bg-neutral-900"
+  },
+  "bg-neutral-950": {
+    "prefix": "bg-neutral-950",
+    "body": "bg-neutral-950"
+  },
+  "bg-stone-50": {
+    "prefix": "bg-stone-50",
+    "body": "bg-stone-50"
+  },
+  "bg-stone-100": {
+    "prefix": "bg-stone-100",
+    "body": "bg-stone-100"
+  },
+  "bg-stone-200": {
+    "prefix": "bg-stone-200",
+    "body": "bg-stone-200"
+  },
+  "bg-stone-300": {
+    "prefix": "bg-stone-300",
+    "body": "bg-stone-300"
+  },
+  "bg-stone-400": {
+    "prefix": "bg-stone-400",
+    "body": "bg-stone-400"
+  },
+  "bg-stone-500": {
+    "prefix": "bg-stone-500",
+    "body": "bg-stone-500"
+  },
+  "bg-stone-600": {
+    "prefix": "bg-stone-600",
+    "body": "bg-stone-600"
+  },
+  "bg-stone-700": {
+    "prefix": "bg-stone-700",
+    "body": "bg-stone-700"
+  },
+  "bg-stone-800": {
+    "prefix": "bg-stone-800",
+    "body": "bg-stone-800"
+  },
+  "bg-stone-900": {
+    "prefix": "bg-stone-900",
+    "body": "bg-stone-900"
+  },
+  "bg-stone-950": {
+    "prefix": "bg-stone-950",
+    "body": "bg-stone-950"
+  },
+  "bg-red-50": {
+    "prefix": "bg-red-50",
+    "body": "bg-red-50"
+  },
+  "bg-red-100": {
+    "prefix": "bg-red-100",
+    "body": "bg-red-100"
+  },
+  "bg-red-200": {
+    "prefix": "bg-red-200",
+    "body": "bg-red-200"
+  },
+  "bg-red-300": {
+    "prefix": "bg-red-300",
+    "body": "bg-red-300"
+  },
+  "bg-red-400": {
+    "prefix": "bg-red-400",
+    "body": "bg-red-400"
+  },
+  "bg-red-500": {
+    "prefix": "bg-red-500",
+    "body": "bg-red-500"
+  },
+  "bg-red-600": {
+    "prefix": "bg-red-600",
+    "body": "bg-red-600"
+  },
+  "bg-red-700": {
+    "prefix": "bg-red-700",
+    "body": "bg-red-700"
+  },
+  "bg-red-800": {
+    "prefix": "bg-red-800",
+    "body": "bg-red-800"
+  },
+  "bg-red-900": {
+    "prefix": "bg-red-900",
+    "body": "bg-red-900"
+  },
+  "bg-red-950": {
+    "prefix": "bg-red-950",
+    "body": "bg-red-950"
+  },
+  "bg-orange-50": {
+    "prefix": "bg-orange-50",
+    "body": "bg-orange-50"
+  },
+  "bg-orange-100": {
+    "prefix": "bg-orange-100",
+    "body": "bg-orange-100"
+  },
+  "bg-orange-200": {
+    "prefix": "bg-orange-200",
+    "body": "bg-orange-200"
+  },
+  "bg-orange-300": {
+    "prefix": "bg-orange-300",
+    "body": "bg-orange-300"
+  },
+  "bg-orange-400": {
+    "prefix": "bg-orange-400",
+    "body": "bg-orange-400"
+  },
+  "bg-orange-500": {
+    "prefix": "bg-orange-500",
+    "body": "bg-orange-500"
+  },
+  "bg-orange-600": {
+    "prefix": "bg-orange-600",
+    "body": "bg-orange-600"
+  },
+  "bg-orange-700": {
+    "prefix": "bg-orange-700",
+    "body": "bg-orange-700"
+  },
+  "bg-orange-800": {
+    "prefix": "bg-orange-800",
+    "body": "bg-orange-800"
+  },
+  "bg-orange-900": {
+    "prefix": "bg-orange-900",
+    "body": "bg-orange-900"
+  },
+  "bg-orange-950": {
+    "prefix": "bg-orange-950",
+    "body": "bg-orange-950"
+  },
+  "bg-amber-50": {
+    "prefix": "bg-amber-50",
+    "body": "bg-amber-50"
+  },
+  "bg-amber-100": {
+    "prefix": "bg-amber-100",
+    "body": "bg-amber-100"
+  },
+  "bg-amber-200": {
+    "prefix": "bg-amber-200",
+    "body": "bg-amber-200"
+  },
+  "bg-amber-300": {
+    "prefix": "bg-amber-300",
+    "body": "bg-amber-300"
+  },
+  "bg-amber-400": {
+    "prefix": "bg-amber-400",
+    "body": "bg-amber-400"
+  },
+  "bg-amber-500": {
+    "prefix": "bg-amber-500",
+    "body": "bg-amber-500"
+  },
+  "bg-amber-600": {
+    "prefix": "bg-amber-600",
+    "body": "bg-amber-600"
+  },
+  "bg-amber-700": {
+    "prefix": "bg-amber-700",
+    "body": "bg-amber-700"
+  },
+  "bg-amber-800": {
+    "prefix": "bg-amber-800",
+    "body": "bg-amber-800"
+  },
+  "bg-amber-900": {
+    "prefix": "bg-amber-900",
+    "body": "bg-amber-900"
+  },
+  "bg-amber-950": {
+    "prefix": "bg-amber-950",
+    "body": "bg-amber-950"
+  },
+  "bg-yellow-50": {
+    "prefix": "bg-yellow-50",
+    "body": "bg-yellow-50"
+  },
+  "bg-yellow-100": {
+    "prefix": "bg-yellow-100",
+    "body": "bg-yellow-100"
+  },
+  "bg-yellow-200": {
+    "prefix": "bg-yellow-200",
+    "body": "bg-yellow-200"
+  },
+  "bg-yellow-300": {
+    "prefix": "bg-yellow-300",
+    "body": "bg-yellow-300"
+  },
+  "bg-yellow-400": {
+    "prefix": "bg-yellow-400",
+    "body": "bg-yellow-400"
+  },
+  "bg-yellow-500": {
+    "prefix": "bg-yellow-500",
+    "body": "bg-yellow-500"
+  },
+  "bg-yellow-600": {
+    "prefix": "bg-yellow-600",
+    "body": "bg-yellow-600"
+  },
+  "bg-yellow-700": {
+    "prefix": "bg-yellow-700",
+    "body": "bg-yellow-700"
+  },
+  "bg-yellow-800": {
+    "prefix": "bg-yellow-800",
+    "body": "bg-yellow-800"
+  },
+  "bg-yellow-900": {
+    "prefix": "bg-yellow-900",
+    "body": "bg-yellow-900"
+  },
+  "bg-yellow-950": {
+    "prefix": "bg-yellow-950",
+    "body": "bg-yellow-950"
+  },
+  "bg-lime-50": {
+    "prefix": "bg-lime-50",
+    "body": "bg-lime-50"
+  },
+  "bg-lime-100": {
+    "prefix": "bg-lime-100",
+    "body": "bg-lime-100"
+  },
+  "bg-lime-200": {
+    "prefix": "bg-lime-200",
+    "body": "bg-lime-200"
+  },
+  "bg-lime-300": {
+    "prefix": "bg-lime-300",
+    "body": "bg-lime-300"
+  },
+  "bg-lime-400": {
+    "prefix": "bg-lime-400",
+    "body": "bg-lime-400"
+  },
+  "bg-lime-500": {
+    "prefix": "bg-lime-500",
+    "body": "bg-lime-500"
+  },
+  "bg-lime-600": {
+    "prefix": "bg-lime-600",
+    "body": "bg-lime-600"
+  },
+  "bg-lime-700": {
+    "prefix": "bg-lime-700",
+    "body": "bg-lime-700"
+  },
+  "bg-lime-800": {
+    "prefix": "bg-lime-800",
+    "body": "bg-lime-800"
+  },
+  "bg-lime-900": {
+    "prefix": "bg-lime-900",
+    "body": "bg-lime-900"
+  },
+  "bg-lime-950": {
+    "prefix": "bg-lime-950",
+    "body": "bg-lime-950"
+  },
+  "bg-green-50": {
+    "prefix": "bg-green-50",
+    "body": "bg-green-50"
+  },
+  "bg-green-100": {
+    "prefix": "bg-green-100",
+    "body": "bg-green-100"
+  },
+  "bg-green-200": {
+    "prefix": "bg-green-200",
+    "body": "bg-green-200"
+  },
+  "bg-green-300": {
+    "prefix": "bg-green-300",
+    "body": "bg-green-300"
+  },
+  "bg-green-400": {
+    "prefix": "bg-green-400",
+    "body": "bg-green-400"
+  },
+  "bg-green-500": {
+    "prefix": "bg-green-500",
+    "body": "bg-green-500"
+  },
+  "bg-green-600": {
+    "prefix": "bg-green-600",
+    "body": "bg-green-600"
+  },
+  "bg-green-700": {
+    "prefix": "bg-green-700",
+    "body": "bg-green-700"
+  },
+  "bg-green-800": {
+    "prefix": "bg-green-800",
+    "body": "bg-green-800"
+  },
+  "bg-green-900": {
+    "prefix": "bg-green-900",
+    "body": "bg-green-900"
+  },
+  "bg-green-950": {
+    "prefix": "bg-green-950",
+    "body": "bg-green-950"
+  },
+  "bg-emerald-50": {
+    "prefix": "bg-emerald-50",
+    "body": "bg-emerald-50"
+  },
+  "bg-emerald-100": {
+    "prefix": "bg-emerald-100",
+    "body": "bg-emerald-100"
+  },
+  "bg-emerald-200": {
+    "prefix": "bg-emerald-200",
+    "body": "bg-emerald-200"
+  },
+  "bg-emerald-300": {
+    "prefix": "bg-emerald-300",
+    "body": "bg-emerald-300"
+  },
+  "bg-emerald-400": {
+    "prefix": "bg-emerald-400",
+    "body": "bg-emerald-400"
+  },
+  "bg-emerald-500": {
+    "prefix": "bg-emerald-500",
+    "body": "bg-emerald-500"
+  },
+  "bg-emerald-600": {
+    "prefix": "bg-emerald-600",
+    "body": "bg-emerald-600"
+  },
+  "bg-emerald-700": {
+    "prefix": "bg-emerald-700",
+    "body": "bg-emerald-700"
+  },
+  "bg-emerald-800": {
+    "prefix": "bg-emerald-800",
+    "body": "bg-emerald-800"
+  },
+  "bg-emerald-900": {
+    "prefix": "bg-emerald-900",
+    "body": "bg-emerald-900"
+  },
+  "bg-emerald-950": {
+    "prefix": "bg-emerald-950",
+    "body": "bg-emerald-950"
+  },
+  "bg-teal-50": {
+    "prefix": "bg-teal-50",
+    "body": "bg-teal-50"
+  },
+  "bg-teal-100": {
+    "prefix": "bg-teal-100",
+    "body": "bg-teal-100"
+  },
+  "bg-teal-200": {
+    "prefix": "bg-teal-200",
+    "body": "bg-teal-200"
+  },
+  "bg-teal-300": {
+    "prefix": "bg-teal-300",
+    "body": "bg-teal-300"
+  },
+  "bg-teal-400": {
+    "prefix": "bg-teal-400",
+    "body": "bg-teal-400"
+  },
+  "bg-teal-500": {
+    "prefix": "bg-teal-500",
+    "body": "bg-teal-500"
+  },
+  "bg-teal-600": {
+    "prefix": "bg-teal-600",
+    "body": "bg-teal-600"
+  },
+  "bg-teal-700": {
+    "prefix": "bg-teal-700",
+    "body": "bg-teal-700"
+  },
+  "bg-teal-800": {
+    "prefix": "bg-teal-800",
+    "body": "bg-teal-800"
+  },
+  "bg-teal-900": {
+    "prefix": "bg-teal-900",
+    "body": "bg-teal-900"
+  },
+  "bg-teal-950": {
+    "prefix": "bg-teal-950",
+    "body": "bg-teal-950"
+  },
+  "bg-cyan-50": {
+    "prefix": "bg-cyan-50",
+    "body": "bg-cyan-50"
+  },
+  "bg-cyan-100": {
+    "prefix": "bg-cyan-100",
+    "body": "bg-cyan-100"
+  },
+  "bg-cyan-200": {
+    "prefix": "bg-cyan-200",
+    "body": "bg-cyan-200"
+  },
+  "bg-cyan-300": {
+    "prefix": "bg-cyan-300",
+    "body": "bg-cyan-300"
+  },
+  "bg-cyan-400": {
+    "prefix": "bg-cyan-400",
+    "body": "bg-cyan-400"
+  },
+  "bg-cyan-500": {
+    "prefix": "bg-cyan-500",
+    "body": "bg-cyan-500"
+  },
+  "bg-cyan-600": {
+    "prefix": "bg-cyan-600",
+    "body": "bg-cyan-600"
+  },
+  "bg-cyan-700": {
+    "prefix": "bg-cyan-700",
+    "body": "bg-cyan-700"
+  },
+  "bg-cyan-800": {
+    "prefix": "bg-cyan-800",
+    "body": "bg-cyan-800"
+  },
+  "bg-cyan-900": {
+    "prefix": "bg-cyan-900",
+    "body": "bg-cyan-900"
+  },
+  "bg-cyan-950": {
+    "prefix": "bg-cyan-950",
+    "body": "bg-cyan-950"
+  },
+  "bg-sky-50": {
+    "prefix": "bg-sky-50",
+    "body": "bg-sky-50"
+  },
+  "bg-sky-100": {
+    "prefix": "bg-sky-100",
+    "body": "bg-sky-100"
+  },
+  "bg-sky-200": {
+    "prefix": "bg-sky-200",
+    "body": "bg-sky-200"
+  },
+  "bg-sky-300": {
+    "prefix": "bg-sky-300",
+    "body": "bg-sky-300"
+  },
+  "bg-sky-400": {
+    "prefix": "bg-sky-400",
+    "body": "bg-sky-400"
+  },
+  "bg-sky-500": {
+    "prefix": "bg-sky-500",
+    "body": "bg-sky-500"
+  },
+  "bg-sky-600": {
+    "prefix": "bg-sky-600",
+    "body": "bg-sky-600"
+  },
+  "bg-sky-700": {
+    "prefix": "bg-sky-700",
+    "body": "bg-sky-700"
+  },
+  "bg-sky-800": {
+    "prefix": "bg-sky-800",
+    "body": "bg-sky-800"
+  },
+  "bg-sky-900": {
+    "prefix": "bg-sky-900",
+    "body": "bg-sky-900"
+  },
+  "bg-sky-950": {
+    "prefix": "bg-sky-950",
+    "body": "bg-sky-950"
+  },
+  "bg-blue-50": {
+    "prefix": "bg-blue-50",
+    "body": "bg-blue-50"
+  },
+  "bg-blue-100": {
+    "prefix": "bg-blue-100",
+    "body": "bg-blue-100"
+  },
+  "bg-blue-200": {
+    "prefix": "bg-blue-200",
+    "body": "bg-blue-200"
+  },
+  "bg-blue-300": {
+    "prefix": "bg-blue-300",
+    "body": "bg-blue-300"
+  },
+  "bg-blue-400": {
+    "prefix": "bg-blue-400",
+    "body": "bg-blue-400"
+  },
+  "bg-blue-500": {
+    "prefix": "bg-blue-500",
+    "body": "bg-blue-500"
+  },
+  "bg-blue-600": {
+    "prefix": "bg-blue-600",
+    "body": "bg-blue-600"
+  },
+  "bg-blue-700": {
+    "prefix": "bg-blue-700",
+    "body": "bg-blue-700"
+  },
+  "bg-blue-800": {
+    "prefix": "bg-blue-800",
+    "body": "bg-blue-800"
+  },
+  "bg-blue-900": {
+    "prefix": "bg-blue-900",
+    "body": "bg-blue-900"
+  },
+  "bg-blue-950": {
+    "prefix": "bg-blue-950",
+    "body": "bg-blue-950"
+  },
+  "bg-indigo-50": {
+    "prefix": "bg-indigo-50",
+    "body": "bg-indigo-50"
+  },
+  "bg-indigo-100": {
+    "prefix": "bg-indigo-100",
+    "body": "bg-indigo-100"
+  },
+  "bg-indigo-200": {
+    "prefix": "bg-indigo-200",
+    "body": "bg-indigo-200"
+  },
+  "bg-indigo-300": {
+    "prefix": "bg-indigo-300",
+    "body": "bg-indigo-300"
+  },
+  "bg-indigo-400": {
+    "prefix": "bg-indigo-400",
+    "body": "bg-indigo-400"
+  },
+  "bg-indigo-500": {
+    "prefix": "bg-indigo-500",
+    "body": "bg-indigo-500"
+  },
+  "bg-indigo-600": {
+    "prefix": "bg-indigo-600",
+    "body": "bg-indigo-600"
+  },
+  "bg-indigo-700": {
+    "prefix": "bg-indigo-700",
+    "body": "bg-indigo-700"
+  },
+  "bg-indigo-800": {
+    "prefix": "bg-indigo-800",
+    "body": "bg-indigo-800"
+  },
+  "bg-indigo-900": {
+    "prefix": "bg-indigo-900",
+    "body": "bg-indigo-900"
+  },
+  "bg-indigo-950": {
+    "prefix": "bg-indigo-950",
+    "body": "bg-indigo-950"
+  },
+  "bg-violet-50": {
+    "prefix": "bg-violet-50",
+    "body": "bg-violet-50"
+  },
+  "bg-violet-100": {
+    "prefix": "bg-violet-100",
+    "body": "bg-violet-100"
+  },
+  "bg-violet-200": {
+    "prefix": "bg-violet-200",
+    "body": "bg-violet-200"
+  },
+  "bg-violet-300": {
+    "prefix": "bg-violet-300",
+    "body": "bg-violet-300"
+  },
+  "bg-violet-400": {
+    "prefix": "bg-violet-400",
+    "body": "bg-violet-400"
+  },
+  "bg-violet-500": {
+    "prefix": "bg-violet-500",
+    "body": "bg-violet-500"
+  },
+  "bg-violet-600": {
+    "prefix": "bg-violet-600",
+    "body": "bg-violet-600"
+  },
+  "bg-violet-700": {
+    "prefix": "bg-violet-700",
+    "body": "bg-violet-700"
+  },
+  "bg-violet-800": {
+    "prefix": "bg-violet-800",
+    "body": "bg-violet-800"
+  },
+  "bg-violet-900": {
+    "prefix": "bg-violet-900",
+    "body": "bg-violet-900"
+  },
+  "bg-violet-950": {
+    "prefix": "bg-violet-950",
+    "body": "bg-violet-950"
+  },
+  "bg-purple-50": {
+    "prefix": "bg-purple-50",
+    "body": "bg-purple-50"
+  },
+  "bg-purple-100": {
+    "prefix": "bg-purple-100",
+    "body": "bg-purple-100"
+  },
+  "bg-purple-200": {
+    "prefix": "bg-purple-200",
+    "body": "bg-purple-200"
+  },
+  "bg-purple-300": {
+    "prefix": "bg-purple-300",
+    "body": "bg-purple-300"
+  },
+  "bg-purple-400": {
+    "prefix": "bg-purple-400",
+    "body": "bg-purple-400"
+  },
+  "bg-purple-500": {
+    "prefix": "bg-purple-500",
+    "body": "bg-purple-500"
+  },
+  "bg-purple-600": {
+    "prefix": "bg-purple-600",
+    "body": "bg-purple-600"
+  },
+  "bg-purple-700": {
+    "prefix": "bg-purple-700",
+    "body": "bg-purple-700"
+  },
+  "bg-purple-800": {
+    "prefix": "bg-purple-800",
+    "body": "bg-purple-800"
+  },
+  "bg-purple-900": {
+    "prefix": "bg-purple-900",
+    "body": "bg-purple-900"
+  },
+  "bg-purple-950": {
+    "prefix": "bg-purple-950",
+    "body": "bg-purple-950"
+  },
+  "bg-fuchsia-50": {
+    "prefix": "bg-fuchsia-50",
+    "body": "bg-fuchsia-50"
+  },
+  "bg-fuchsia-100": {
+    "prefix": "bg-fuchsia-100",
+    "body": "bg-fuchsia-100"
+  },
+  "bg-fuchsia-200": {
+    "prefix": "bg-fuchsia-200",
+    "body": "bg-fuchsia-200"
+  },
+  "bg-fuchsia-300": {
+    "prefix": "bg-fuchsia-300",
+    "body": "bg-fuchsia-300"
+  },
+  "bg-fuchsia-400": {
+    "prefix": "bg-fuchsia-400",
+    "body": "bg-fuchsia-400"
+  },
+  "bg-fuchsia-500": {
+    "prefix": "bg-fuchsia-500",
+    "body": "bg-fuchsia-500"
+  },
+  "bg-fuchsia-600": {
+    "prefix": "bg-fuchsia-600",
+    "body": "bg-fuchsia-600"
+  },
+  "bg-fuchsia-700": {
+    "prefix": "bg-fuchsia-700",
+    "body": "bg-fuchsia-700"
+  },
+  "bg-fuchsia-800": {
+    "prefix": "bg-fuchsia-800",
+    "body": "bg-fuchsia-800"
+  },
+  "bg-fuchsia-900": {
+    "prefix": "bg-fuchsia-900",
+    "body": "bg-fuchsia-900"
+  },
+  "bg-fuchsia-950": {
+    "prefix": "bg-fuchsia-950",
+    "body": "bg-fuchsia-950"
+  },
+  "bg-pink-50": {
+    "prefix": "bg-pink-50",
+    "body": "bg-pink-50"
+  },
+  "bg-pink-100": {
+    "prefix": "bg-pink-100",
+    "body": "bg-pink-100"
+  },
+  "bg-pink-200": {
+    "prefix": "bg-pink-200",
+    "body": "bg-pink-200"
+  },
+  "bg-pink-300": {
+    "prefix": "bg-pink-300",
+    "body": "bg-pink-300"
+  },
+  "bg-pink-400": {
+    "prefix": "bg-pink-400",
+    "body": "bg-pink-400"
+  },
+  "bg-pink-500": {
+    "prefix": "bg-pink-500",
+    "body": "bg-pink-500"
+  },
+  "bg-pink-600": {
+    "prefix": "bg-pink-600",
+    "body": "bg-pink-600"
+  },
+  "bg-pink-700": {
+    "prefix": "bg-pink-700",
+    "body": "bg-pink-700"
+  },
+  "bg-pink-800": {
+    "prefix": "bg-pink-800",
+    "body": "bg-pink-800"
+  },
+  "bg-pink-900": {
+    "prefix": "bg-pink-900",
+    "body": "bg-pink-900"
+  },
+  "bg-pink-950": {
+    "prefix": "bg-pink-950",
+    "body": "bg-pink-950"
+  },
+  "bg-rose-50": {
+    "prefix": "bg-rose-50",
+    "body": "bg-rose-50"
+  },
+  "bg-rose-100": {
+    "prefix": "bg-rose-100",
+    "body": "bg-rose-100"
+  },
+  "bg-rose-200": {
+    "prefix": "bg-rose-200",
+    "body": "bg-rose-200"
+  },
+  "bg-rose-300": {
+    "prefix": "bg-rose-300",
+    "body": "bg-rose-300"
+  },
+  "bg-rose-400": {
+    "prefix": "bg-rose-400",
+    "body": "bg-rose-400"
+  },
+  "bg-rose-500": {
+    "prefix": "bg-rose-500",
+    "body": "bg-rose-500"
+  },
+  "bg-rose-600": {
+    "prefix": "bg-rose-600",
+    "body": "bg-rose-600"
+  },
+  "bg-rose-700": {
+    "prefix": "bg-rose-700",
+    "body": "bg-rose-700"
+  },
+  "bg-rose-800": {
+    "prefix": "bg-rose-800",
+    "body": "bg-rose-800"
+  },
+  "bg-rose-900": {
+    "prefix": "bg-rose-900",
+    "body": "bg-rose-900"
+  },
+  "bg-rose-950": {
+    "prefix": "bg-rose-950",
+    "body": "bg-rose-950"
+  },
+  "bg-origin-border": {
+    "prefix": "bg-origin-border",
+    "body": "bg-origin-border"
+  },
+  "bg-origin-padding": {
+    "prefix": "bg-origin-padding",
+    "body": "bg-origin-padding"
+  },
+  "bg-origin-content": {
+    "prefix": "bg-origin-content",
+    "body": "bg-origin-content"
+  },
+  "bg-bottom": {
+    "prefix": "bg-bottom",
+    "body": "bg-bottom"
+  },
+  "bg-center": {
+    "prefix": "bg-center",
+    "body": "bg-center"
+  },
+  "bg-left": {
+    "prefix": "bg-left",
+    "body": "bg-left"
+  },
+  "bg-left-bottom": {
+    "prefix": "bg-left-bottom",
+    "body": "bg-left-bottom"
+  },
+  "bg-left-top": {
+    "prefix": "bg-left-top",
+    "body": "bg-left-top"
+  },
+  "bg-right": {
+    "prefix": "bg-right",
+    "body": "bg-right"
+  },
+  "bg-right-bottom": {
+    "prefix": "bg-right-bottom",
+    "body": "bg-right-bottom"
+  },
+  "bg-right-top": {
+    "prefix": "bg-right-top",
+    "body": "bg-right-top"
+  },
+  "bg-top": {
+    "prefix": "bg-top",
+    "body": "bg-top"
+  },
+  "bg-repeat": {
+    "prefix": "bg-repeat",
+    "body": "bg-repeat"
+  },
+  "bg-no-repeat": {
+    "prefix": "bg-no-repeat",
+    "body": "bg-no-repeat"
+  },
+  "bg-repeat-x": {
+    "prefix": "bg-repeat-x",
+    "body": "bg-repeat-x"
+  },
+  "bg-repeat-y": {
+    "prefix": "bg-repeat-y",
+    "body": "bg-repeat-y"
+  },
+  "bg-repeat-round": {
+    "prefix": "bg-repeat-round",
+    "body": "bg-repeat-round"
+  },
+  "bg-repeat-space": {
+    "prefix": "bg-repeat-space",
+    "body": "bg-repeat-space"
+  },
+  "bg-auto": {
+    "prefix": "bg-auto",
+    "body": "bg-auto"
+  },
+  "bg-cover": {
+    "prefix": "bg-cover",
+    "body": "bg-cover"
+  },
+  "bg-contain": {
+    "prefix": "bg-contain",
+    "body": "bg-contain"
+  },
+  "bg-none": {
+    "prefix": "bg-none",
+    "body": "bg-none"
+  },
+  "bg-gradient-to-t": {
+    "prefix": "bg-gradient-to-t",
+    "body": "bg-gradient-to-t"
+  },
+  "bg-gradient-to-tr": {
+    "prefix": "bg-gradient-to-tr",
+    "body": "bg-gradient-to-tr"
+  },
+  "bg-gradient-to-r": {
+    "prefix": "bg-gradient-to-r",
+    "body": "bg-gradient-to-r"
+  },
+  "bg-gradient-to-br": {
+    "prefix": "bg-gradient-to-br",
+    "body": "bg-gradient-to-br"
+  },
+  "bg-gradient-to-b": {
+    "prefix": "bg-gradient-to-b",
+    "body": "bg-gradient-to-b"
+  },
+  "bg-gradient-to-bl": {
+    "prefix": "bg-gradient-to-bl",
+    "body": "bg-gradient-to-bl"
+  },
+  "bg-gradient-to-l": {
+    "prefix": "bg-gradient-to-l",
+    "body": "bg-gradient-to-l"
+  },
+  "bg-gradient-to-tl": {
+    "prefix": "bg-gradient-to-tl",
+    "body": "bg-gradient-to-tl"
+  },
+  "from-inherit": {
+    "prefix": "from-inherit",
+    "body": "from-inherit"
+  },
+  "from-current": {
+    "prefix": "from-current",
+    "body": "from-current"
+  },
+  "from-transparent": {
+    "prefix": "from-transparent",
+    "body": "from-transparent"
+  },
+  "from-black": {
+    "prefix": "from-black",
+    "body": "from-black"
+  },
+  "from-white": {
+    "prefix": "from-white",
+    "body": "from-white"
+  },
+  "from-slate-50": {
+    "prefix": "from-slate-50",
+    "body": "from-slate-50"
+  },
+  "from-slate-100": {
+    "prefix": "from-slate-100",
+    "body": "from-slate-100"
+  },
+  "from-slate-200": {
+    "prefix": "from-slate-200",
+    "body": "from-slate-200"
+  },
+  "from-slate-300": {
+    "prefix": "from-slate-300",
+    "body": "from-slate-300"
+  },
+  "from-slate-400": {
+    "prefix": "from-slate-400",
+    "body": "from-slate-400"
+  },
+  "from-slate-500": {
+    "prefix": "from-slate-500",
+    "body": "from-slate-500"
+  },
+  "from-slate-600": {
+    "prefix": "from-slate-600",
+    "body": "from-slate-600"
+  },
+  "from-slate-700": {
+    "prefix": "from-slate-700",
+    "body": "from-slate-700"
+  },
+  "from-slate-800": {
+    "prefix": "from-slate-800",
+    "body": "from-slate-800"
+  },
+  "from-slate-900": {
+    "prefix": "from-slate-900",
+    "body": "from-slate-900"
+  },
+  "from-slate-950": {
+    "prefix": "from-slate-950",
+    "body": "from-slate-950"
+  },
+  "from-gray-50": {
+    "prefix": "from-gray-50",
+    "body": "from-gray-50"
+  },
+  "from-gray-100": {
+    "prefix": "from-gray-100",
+    "body": "from-gray-100"
+  },
+  "from-gray-200": {
+    "prefix": "from-gray-200",
+    "body": "from-gray-200"
+  },
+  "from-gray-300": {
+    "prefix": "from-gray-300",
+    "body": "from-gray-300"
+  },
+  "from-gray-400": {
+    "prefix": "from-gray-400",
+    "body": "from-gray-400"
+  },
+  "from-gray-500": {
+    "prefix": "from-gray-500",
+    "body": "from-gray-500"
+  },
+  "from-gray-600": {
+    "prefix": "from-gray-600",
+    "body": "from-gray-600"
+  },
+  "from-gray-700": {
+    "prefix": "from-gray-700",
+    "body": "from-gray-700"
+  },
+  "from-gray-800": {
+    "prefix": "from-gray-800",
+    "body": "from-gray-800"
+  },
+  "from-gray-900": {
+    "prefix": "from-gray-900",
+    "body": "from-gray-900"
+  },
+  "from-gray-950": {
+    "prefix": "from-gray-950",
+    "body": "from-gray-950"
+  },
+  "from-zinc-50": {
+    "prefix": "from-zinc-50",
+    "body": "from-zinc-50"
+  },
+  "from-zinc-100": {
+    "prefix": "from-zinc-100",
+    "body": "from-zinc-100"
+  },
+  "from-zinc-200": {
+    "prefix": "from-zinc-200",
+    "body": "from-zinc-200"
+  },
+  "from-zinc-300": {
+    "prefix": "from-zinc-300",
+    "body": "from-zinc-300"
+  },
+  "from-zinc-400": {
+    "prefix": "from-zinc-400",
+    "body": "from-zinc-400"
+  },
+  "from-zinc-500": {
+    "prefix": "from-zinc-500",
+    "body": "from-zinc-500"
+  },
+  "from-zinc-600": {
+    "prefix": "from-zinc-600",
+    "body": "from-zinc-600"
+  },
+  "from-zinc-700": {
+    "prefix": "from-zinc-700",
+    "body": "from-zinc-700"
+  },
+  "from-zinc-800": {
+    "prefix": "from-zinc-800",
+    "body": "from-zinc-800"
+  },
+  "from-zinc-900": {
+    "prefix": "from-zinc-900",
+    "body": "from-zinc-900"
+  },
+  "from-zinc-950": {
+    "prefix": "from-zinc-950",
+    "body": "from-zinc-950"
+  },
+  "from-neutral-50": {
+    "prefix": "from-neutral-50",
+    "body": "from-neutral-50"
+  },
+  "from-neutral-100": {
+    "prefix": "from-neutral-100",
+    "body": "from-neutral-100"
+  },
+  "from-neutral-200": {
+    "prefix": "from-neutral-200",
+    "body": "from-neutral-200"
+  },
+  "from-neutral-300": {
+    "prefix": "from-neutral-300",
+    "body": "from-neutral-300"
+  },
+  "from-neutral-400": {
+    "prefix": "from-neutral-400",
+    "body": "from-neutral-400"
+  },
+  "from-neutral-500": {
+    "prefix": "from-neutral-500",
+    "body": "from-neutral-500"
+  },
+  "from-neutral-600": {
+    "prefix": "from-neutral-600",
+    "body": "from-neutral-600"
+  },
+  "from-neutral-700": {
+    "prefix": "from-neutral-700",
+    "body": "from-neutral-700"
+  },
+  "from-neutral-800": {
+    "prefix": "from-neutral-800",
+    "body": "from-neutral-800"
+  },
+  "from-neutral-900": {
+    "prefix": "from-neutral-900",
+    "body": "from-neutral-900"
+  },
+  "from-neutral-950": {
+    "prefix": "from-neutral-950",
+    "body": "from-neutral-950"
+  },
+  "from-stone-50": {
+    "prefix": "from-stone-50",
+    "body": "from-stone-50"
+  },
+  "from-stone-100": {
+    "prefix": "from-stone-100",
+    "body": "from-stone-100"
+  },
+  "from-stone-200": {
+    "prefix": "from-stone-200",
+    "body": "from-stone-200"
+  },
+  "from-stone-300": {
+    "prefix": "from-stone-300",
+    "body": "from-stone-300"
+  },
+  "from-stone-400": {
+    "prefix": "from-stone-400",
+    "body": "from-stone-400"
+  },
+  "from-stone-500": {
+    "prefix": "from-stone-500",
+    "body": "from-stone-500"
+  },
+  "from-stone-600": {
+    "prefix": "from-stone-600",
+    "body": "from-stone-600"
+  },
+  "from-stone-700": {
+    "prefix": "from-stone-700",
+    "body": "from-stone-700"
+  },
+  "from-stone-800": {
+    "prefix": "from-stone-800",
+    "body": "from-stone-800"
+  },
+  "from-stone-900": {
+    "prefix": "from-stone-900",
+    "body": "from-stone-900"
+  },
+  "from-stone-950": {
+    "prefix": "from-stone-950",
+    "body": "from-stone-950"
+  },
+  "from-red-50": {
+    "prefix": "from-red-50",
+    "body": "from-red-50"
+  },
+  "from-red-100": {
+    "prefix": "from-red-100",
+    "body": "from-red-100"
+  },
+  "from-red-200": {
+    "prefix": "from-red-200",
+    "body": "from-red-200"
+  },
+  "from-red-300": {
+    "prefix": "from-red-300",
+    "body": "from-red-300"
+  },
+  "from-red-400": {
+    "prefix": "from-red-400",
+    "body": "from-red-400"
+  },
+  "from-red-500": {
+    "prefix": "from-red-500",
+    "body": "from-red-500"
+  },
+  "from-red-600": {
+    "prefix": "from-red-600",
+    "body": "from-red-600"
+  },
+  "from-red-700": {
+    "prefix": "from-red-700",
+    "body": "from-red-700"
+  },
+  "from-red-800": {
+    "prefix": "from-red-800",
+    "body": "from-red-800"
+  },
+  "from-red-900": {
+    "prefix": "from-red-900",
+    "body": "from-red-900"
+  },
+  "from-red-950": {
+    "prefix": "from-red-950",
+    "body": "from-red-950"
+  },
+  "from-orange-50": {
+    "prefix": "from-orange-50",
+    "body": "from-orange-50"
+  },
+  "from-orange-100": {
+    "prefix": "from-orange-100",
+    "body": "from-orange-100"
+  },
+  "from-orange-200": {
+    "prefix": "from-orange-200",
+    "body": "from-orange-200"
+  },
+  "from-orange-300": {
+    "prefix": "from-orange-300",
+    "body": "from-orange-300"
+  },
+  "from-orange-400": {
+    "prefix": "from-orange-400",
+    "body": "from-orange-400"
+  },
+  "from-orange-500": {
+    "prefix": "from-orange-500",
+    "body": "from-orange-500"
+  },
+  "from-orange-600": {
+    "prefix": "from-orange-600",
+    "body": "from-orange-600"
+  },
+  "from-orange-700": {
+    "prefix": "from-orange-700",
+    "body": "from-orange-700"
+  },
+  "from-orange-800": {
+    "prefix": "from-orange-800",
+    "body": "from-orange-800"
+  },
+  "from-orange-900": {
+    "prefix": "from-orange-900",
+    "body": "from-orange-900"
+  },
+  "from-orange-950": {
+    "prefix": "from-orange-950",
+    "body": "from-orange-950"
+  },
+  "from-amber-50": {
+    "prefix": "from-amber-50",
+    "body": "from-amber-50"
+  },
+  "from-amber-100": {
+    "prefix": "from-amber-100",
+    "body": "from-amber-100"
+  },
+  "from-amber-200": {
+    "prefix": "from-amber-200",
+    "body": "from-amber-200"
+  },
+  "from-amber-300": {
+    "prefix": "from-amber-300",
+    "body": "from-amber-300"
+  },
+  "from-amber-400": {
+    "prefix": "from-amber-400",
+    "body": "from-amber-400"
+  },
+  "from-amber-500": {
+    "prefix": "from-amber-500",
+    "body": "from-amber-500"
+  },
+  "from-amber-600": {
+    "prefix": "from-amber-600",
+    "body": "from-amber-600"
+  },
+  "from-amber-700": {
+    "prefix": "from-amber-700",
+    "body": "from-amber-700"
+  },
+  "from-amber-800": {
+    "prefix": "from-amber-800",
+    "body": "from-amber-800"
+  },
+  "from-amber-900": {
+    "prefix": "from-amber-900",
+    "body": "from-amber-900"
+  },
+  "from-amber-950": {
+    "prefix": "from-amber-950",
+    "body": "from-amber-950"
+  },
+  "from-yellow-50": {
+    "prefix": "from-yellow-50",
+    "body": "from-yellow-50"
+  },
+  "from-yellow-100": {
+    "prefix": "from-yellow-100",
+    "body": "from-yellow-100"
+  },
+  "from-yellow-200": {
+    "prefix": "from-yellow-200",
+    "body": "from-yellow-200"
+  },
+  "from-yellow-300": {
+    "prefix": "from-yellow-300",
+    "body": "from-yellow-300"
+  },
+  "from-yellow-400": {
+    "prefix": "from-yellow-400",
+    "body": "from-yellow-400"
+  },
+  "from-yellow-500": {
+    "prefix": "from-yellow-500",
+    "body": "from-yellow-500"
+  },
+  "from-yellow-600": {
+    "prefix": "from-yellow-600",
+    "body": "from-yellow-600"
+  },
+  "from-yellow-700": {
+    "prefix": "from-yellow-700",
+    "body": "from-yellow-700"
+  },
+  "from-yellow-800": {
+    "prefix": "from-yellow-800",
+    "body": "from-yellow-800"
+  },
+  "from-yellow-900": {
+    "prefix": "from-yellow-900",
+    "body": "from-yellow-900"
+  },
+  "from-yellow-950": {
+    "prefix": "from-yellow-950",
+    "body": "from-yellow-950"
+  },
+  "from-lime-50": {
+    "prefix": "from-lime-50",
+    "body": "from-lime-50"
+  },
+  "from-lime-100": {
+    "prefix": "from-lime-100",
+    "body": "from-lime-100"
+  },
+  "from-lime-200": {
+    "prefix": "from-lime-200",
+    "body": "from-lime-200"
+  },
+  "from-lime-300": {
+    "prefix": "from-lime-300",
+    "body": "from-lime-300"
+  },
+  "from-lime-400": {
+    "prefix": "from-lime-400",
+    "body": "from-lime-400"
+  },
+  "from-lime-500": {
+    "prefix": "from-lime-500",
+    "body": "from-lime-500"
+  },
+  "from-lime-600": {
+    "prefix": "from-lime-600",
+    "body": "from-lime-600"
+  },
+  "from-lime-700": {
+    "prefix": "from-lime-700",
+    "body": "from-lime-700"
+  },
+  "from-lime-800": {
+    "prefix": "from-lime-800",
+    "body": "from-lime-800"
+  },
+  "from-lime-900": {
+    "prefix": "from-lime-900",
+    "body": "from-lime-900"
+  },
+  "from-lime-950": {
+    "prefix": "from-lime-950",
+    "body": "from-lime-950"
+  },
+  "from-green-50": {
+    "prefix": "from-green-50",
+    "body": "from-green-50"
+  },
+  "from-green-100": {
+    "prefix": "from-green-100",
+    "body": "from-green-100"
+  },
+  "from-green-200": {
+    "prefix": "from-green-200",
+    "body": "from-green-200"
+  },
+  "from-green-300": {
+    "prefix": "from-green-300",
+    "body": "from-green-300"
+  },
+  "from-green-400": {
+    "prefix": "from-green-400",
+    "body": "from-green-400"
+  },
+  "from-green-500": {
+    "prefix": "from-green-500",
+    "body": "from-green-500"
+  },
+  "from-green-600": {
+    "prefix": "from-green-600",
+    "body": "from-green-600"
+  },
+  "from-green-700": {
+    "prefix": "from-green-700",
+    "body": "from-green-700"
+  },
+  "from-green-800": {
+    "prefix": "from-green-800",
+    "body": "from-green-800"
+  },
+  "from-green-900": {
+    "prefix": "from-green-900",
+    "body": "from-green-900"
+  },
+  "from-green-950": {
+    "prefix": "from-green-950",
+    "body": "from-green-950"
+  },
+  "from-emerald-50": {
+    "prefix": "from-emerald-50",
+    "body": "from-emerald-50"
+  },
+  "from-emerald-100": {
+    "prefix": "from-emerald-100",
+    "body": "from-emerald-100"
+  },
+  "from-emerald-200": {
+    "prefix": "from-emerald-200",
+    "body": "from-emerald-200"
+  },
+  "from-emerald-300": {
+    "prefix": "from-emerald-300",
+    "body": "from-emerald-300"
+  },
+  "from-emerald-400": {
+    "prefix": "from-emerald-400",
+    "body": "from-emerald-400"
+  },
+  "from-emerald-500": {
+    "prefix": "from-emerald-500",
+    "body": "from-emerald-500"
+  },
+  "from-emerald-600": {
+    "prefix": "from-emerald-600",
+    "body": "from-emerald-600"
+  },
+  "from-emerald-700": {
+    "prefix": "from-emerald-700",
+    "body": "from-emerald-700"
+  },
+  "from-emerald-800": {
+    "prefix": "from-emerald-800",
+    "body": "from-emerald-800"
+  },
+  "from-emerald-900": {
+    "prefix": "from-emerald-900",
+    "body": "from-emerald-900"
+  },
+  "from-emerald-950": {
+    "prefix": "from-emerald-950",
+    "body": "from-emerald-950"
+  },
+  "from-teal-50": {
+    "prefix": "from-teal-50",
+    "body": "from-teal-50"
+  },
+  "from-teal-100": {
+    "prefix": "from-teal-100",
+    "body": "from-teal-100"
+  },
+  "from-teal-200": {
+    "prefix": "from-teal-200",
+    "body": "from-teal-200"
+  },
+  "from-teal-300": {
+    "prefix": "from-teal-300",
+    "body": "from-teal-300"
+  },
+  "from-teal-400": {
+    "prefix": "from-teal-400",
+    "body": "from-teal-400"
+  },
+  "from-teal-500": {
+    "prefix": "from-teal-500",
+    "body": "from-teal-500"
+  },
+  "from-teal-600": {
+    "prefix": "from-teal-600",
+    "body": "from-teal-600"
+  },
+  "from-teal-700": {
+    "prefix": "from-teal-700",
+    "body": "from-teal-700"
+  },
+  "from-teal-800": {
+    "prefix": "from-teal-800",
+    "body": "from-teal-800"
+  },
+  "from-teal-900": {
+    "prefix": "from-teal-900",
+    "body": "from-teal-900"
+  },
+  "from-teal-950": {
+    "prefix": "from-teal-950",
+    "body": "from-teal-950"
+  },
+  "from-cyan-50": {
+    "prefix": "from-cyan-50",
+    "body": "from-cyan-50"
+  },
+  "from-cyan-100": {
+    "prefix": "from-cyan-100",
+    "body": "from-cyan-100"
+  },
+  "from-cyan-200": {
+    "prefix": "from-cyan-200",
+    "body": "from-cyan-200"
+  },
+  "from-cyan-300": {
+    "prefix": "from-cyan-300",
+    "body": "from-cyan-300"
+  },
+  "from-cyan-400": {
+    "prefix": "from-cyan-400",
+    "body": "from-cyan-400"
+  },
+  "from-cyan-500": {
+    "prefix": "from-cyan-500",
+    "body": "from-cyan-500"
+  },
+  "from-cyan-600": {
+    "prefix": "from-cyan-600",
+    "body": "from-cyan-600"
+  },
+  "from-cyan-700": {
+    "prefix": "from-cyan-700",
+    "body": "from-cyan-700"
+  },
+  "from-cyan-800": {
+    "prefix": "from-cyan-800",
+    "body": "from-cyan-800"
+  },
+  "from-cyan-900": {
+    "prefix": "from-cyan-900",
+    "body": "from-cyan-900"
+  },
+  "from-cyan-950": {
+    "prefix": "from-cyan-950",
+    "body": "from-cyan-950"
+  },
+  "from-sky-50": {
+    "prefix": "from-sky-50",
+    "body": "from-sky-50"
+  },
+  "from-sky-100": {
+    "prefix": "from-sky-100",
+    "body": "from-sky-100"
+  },
+  "from-sky-200": {
+    "prefix": "from-sky-200",
+    "body": "from-sky-200"
+  },
+  "from-sky-300": {
+    "prefix": "from-sky-300",
+    "body": "from-sky-300"
+  },
+  "from-sky-400": {
+    "prefix": "from-sky-400",
+    "body": "from-sky-400"
+  },
+  "from-sky-500": {
+    "prefix": "from-sky-500",
+    "body": "from-sky-500"
+  },
+  "from-sky-600": {
+    "prefix": "from-sky-600",
+    "body": "from-sky-600"
+  },
+  "from-sky-700": {
+    "prefix": "from-sky-700",
+    "body": "from-sky-700"
+  },
+  "from-sky-800": {
+    "prefix": "from-sky-800",
+    "body": "from-sky-800"
+  },
+  "from-sky-900": {
+    "prefix": "from-sky-900",
+    "body": "from-sky-900"
+  },
+  "from-sky-950": {
+    "prefix": "from-sky-950",
+    "body": "from-sky-950"
+  },
+  "from-blue-50": {
+    "prefix": "from-blue-50",
+    "body": "from-blue-50"
+  },
+  "from-blue-100": {
+    "prefix": "from-blue-100",
+    "body": "from-blue-100"
+  },
+  "from-blue-200": {
+    "prefix": "from-blue-200",
+    "body": "from-blue-200"
+  },
+  "from-blue-300": {
+    "prefix": "from-blue-300",
+    "body": "from-blue-300"
+  },
+  "from-blue-400": {
+    "prefix": "from-blue-400",
+    "body": "from-blue-400"
+  },
+  "from-blue-500": {
+    "prefix": "from-blue-500",
+    "body": "from-blue-500"
+  },
+  "from-blue-600": {
+    "prefix": "from-blue-600",
+    "body": "from-blue-600"
+  },
+  "from-blue-700": {
+    "prefix": "from-blue-700",
+    "body": "from-blue-700"
+  },
+  "from-blue-800": {
+    "prefix": "from-blue-800",
+    "body": "from-blue-800"
+  },
+  "from-blue-900": {
+    "prefix": "from-blue-900",
+    "body": "from-blue-900"
+  },
+  "from-blue-950": {
+    "prefix": "from-blue-950",
+    "body": "from-blue-950"
+  },
+  "from-indigo-50": {
+    "prefix": "from-indigo-50",
+    "body": "from-indigo-50"
+  },
+  "from-indigo-100": {
+    "prefix": "from-indigo-100",
+    "body": "from-indigo-100"
+  },
+  "from-indigo-200": {
+    "prefix": "from-indigo-200",
+    "body": "from-indigo-200"
+  },
+  "from-indigo-300": {
+    "prefix": "from-indigo-300",
+    "body": "from-indigo-300"
+  },
+  "from-indigo-400": {
+    "prefix": "from-indigo-400",
+    "body": "from-indigo-400"
+  },
+  "from-indigo-500": {
+    "prefix": "from-indigo-500",
+    "body": "from-indigo-500"
+  },
+  "from-indigo-600": {
+    "prefix": "from-indigo-600",
+    "body": "from-indigo-600"
+  },
+  "from-indigo-700": {
+    "prefix": "from-indigo-700",
+    "body": "from-indigo-700"
+  },
+  "from-indigo-800": {
+    "prefix": "from-indigo-800",
+    "body": "from-indigo-800"
+  },
+  "from-indigo-900": {
+    "prefix": "from-indigo-900",
+    "body": "from-indigo-900"
+  },
+  "from-indigo-950": {
+    "prefix": "from-indigo-950",
+    "body": "from-indigo-950"
+  },
+  "from-violet-50": {
+    "prefix": "from-violet-50",
+    "body": "from-violet-50"
+  },
+  "from-violet-100": {
+    "prefix": "from-violet-100",
+    "body": "from-violet-100"
+  },
+  "from-violet-200": {
+    "prefix": "from-violet-200",
+    "body": "from-violet-200"
+  },
+  "from-violet-300": {
+    "prefix": "from-violet-300",
+    "body": "from-violet-300"
+  },
+  "from-violet-400": {
+    "prefix": "from-violet-400",
+    "body": "from-violet-400"
+  },
+  "from-violet-500": {
+    "prefix": "from-violet-500",
+    "body": "from-violet-500"
+  },
+  "from-violet-600": {
+    "prefix": "from-violet-600",
+    "body": "from-violet-600"
+  },
+  "from-violet-700": {
+    "prefix": "from-violet-700",
+    "body": "from-violet-700"
+  },
+  "from-violet-800": {
+    "prefix": "from-violet-800",
+    "body": "from-violet-800"
+  },
+  "from-violet-900": {
+    "prefix": "from-violet-900",
+    "body": "from-violet-900"
+  },
+  "from-violet-950": {
+    "prefix": "from-violet-950",
+    "body": "from-violet-950"
+  },
+  "from-purple-50": {
+    "prefix": "from-purple-50",
+    "body": "from-purple-50"
+  },
+  "from-purple-100": {
+    "prefix": "from-purple-100",
+    "body": "from-purple-100"
+  },
+  "from-purple-200": {
+    "prefix": "from-purple-200",
+    "body": "from-purple-200"
+  },
+  "from-purple-300": {
+    "prefix": "from-purple-300",
+    "body": "from-purple-300"
+  },
+  "from-purple-400": {
+    "prefix": "from-purple-400",
+    "body": "from-purple-400"
+  },
+  "from-purple-500": {
+    "prefix": "from-purple-500",
+    "body": "from-purple-500"
+  },
+  "from-purple-600": {
+    "prefix": "from-purple-600",
+    "body": "from-purple-600"
+  },
+  "from-purple-700": {
+    "prefix": "from-purple-700",
+    "body": "from-purple-700"
+  },
+  "from-purple-800": {
+    "prefix": "from-purple-800",
+    "body": "from-purple-800"
+  },
+  "from-purple-900": {
+    "prefix": "from-purple-900",
+    "body": "from-purple-900"
+  },
+  "from-purple-950": {
+    "prefix": "from-purple-950",
+    "body": "from-purple-950"
+  },
+  "from-fuchsia-50": {
+    "prefix": "from-fuchsia-50",
+    "body": "from-fuchsia-50"
+  },
+  "from-fuchsia-100": {
+    "prefix": "from-fuchsia-100",
+    "body": "from-fuchsia-100"
+  },
+  "from-fuchsia-200": {
+    "prefix": "from-fuchsia-200",
+    "body": "from-fuchsia-200"
+  },
+  "from-fuchsia-300": {
+    "prefix": "from-fuchsia-300",
+    "body": "from-fuchsia-300"
+  },
+  "from-fuchsia-400": {
+    "prefix": "from-fuchsia-400",
+    "body": "from-fuchsia-400"
+  },
+  "from-fuchsia-500": {
+    "prefix": "from-fuchsia-500",
+    "body": "from-fuchsia-500"
+  },
+  "from-fuchsia-600": {
+    "prefix": "from-fuchsia-600",
+    "body": "from-fuchsia-600"
+  },
+  "from-fuchsia-700": {
+    "prefix": "from-fuchsia-700",
+    "body": "from-fuchsia-700"
+  },
+  "from-fuchsia-800": {
+    "prefix": "from-fuchsia-800",
+    "body": "from-fuchsia-800"
+  },
+  "from-fuchsia-900": {
+    "prefix": "from-fuchsia-900",
+    "body": "from-fuchsia-900"
+  },
+  "from-fuchsia-950": {
+    "prefix": "from-fuchsia-950",
+    "body": "from-fuchsia-950"
+  },
+  "from-pink-50": {
+    "prefix": "from-pink-50",
+    "body": "from-pink-50"
+  },
+  "from-pink-100": {
+    "prefix": "from-pink-100",
+    "body": "from-pink-100"
+  },
+  "from-pink-200": {
+    "prefix": "from-pink-200",
+    "body": "from-pink-200"
+  },
+  "from-pink-300": {
+    "prefix": "from-pink-300",
+    "body": "from-pink-300"
+  },
+  "from-pink-400": {
+    "prefix": "from-pink-400",
+    "body": "from-pink-400"
+  },
+  "from-pink-500": {
+    "prefix": "from-pink-500",
+    "body": "from-pink-500"
+  },
+  "from-pink-600": {
+    "prefix": "from-pink-600",
+    "body": "from-pink-600"
+  },
+  "from-pink-700": {
+    "prefix": "from-pink-700",
+    "body": "from-pink-700"
+  },
+  "from-pink-800": {
+    "prefix": "from-pink-800",
+    "body": "from-pink-800"
+  },
+  "from-pink-900": {
+    "prefix": "from-pink-900",
+    "body": "from-pink-900"
+  },
+  "from-pink-950": {
+    "prefix": "from-pink-950",
+    "body": "from-pink-950"
+  },
+  "from-rose-50": {
+    "prefix": "from-rose-50",
+    "body": "from-rose-50"
+  },
+  "from-rose-100": {
+    "prefix": "from-rose-100",
+    "body": "from-rose-100"
+  },
+  "from-rose-200": {
+    "prefix": "from-rose-200",
+    "body": "from-rose-200"
+  },
+  "from-rose-300": {
+    "prefix": "from-rose-300",
+    "body": "from-rose-300"
+  },
+  "from-rose-400": {
+    "prefix": "from-rose-400",
+    "body": "from-rose-400"
+  },
+  "from-rose-500": {
+    "prefix": "from-rose-500",
+    "body": "from-rose-500"
+  },
+  "from-rose-600": {
+    "prefix": "from-rose-600",
+    "body": "from-rose-600"
+  },
+  "from-rose-700": {
+    "prefix": "from-rose-700",
+    "body": "from-rose-700"
+  },
+  "from-rose-800": {
+    "prefix": "from-rose-800",
+    "body": "from-rose-800"
+  },
+  "from-rose-900": {
+    "prefix": "from-rose-900",
+    "body": "from-rose-900"
+  },
+  "from-rose-950": {
+    "prefix": "from-rose-950",
+    "body": "from-rose-950"
+  },
+  "from-0%": {
+    "prefix": "from-0%",
+    "body": "from-0%"
+  },
+  "from-5%": {
+    "prefix": "from-5%",
+    "body": "from-5%"
+  },
+  "from-10%": {
+    "prefix": "from-10%",
+    "body": "from-10%"
+  },
+  "from-15%": {
+    "prefix": "from-15%",
+    "body": "from-15%"
+  },
+  "from-20%": {
+    "prefix": "from-20%",
+    "body": "from-20%"
+  },
+  "from-25%": {
+    "prefix": "from-25%",
+    "body": "from-25%"
+  },
+  "from-30%": {
+    "prefix": "from-30%",
+    "body": "from-30%"
+  },
+  "from-35%": {
+    "prefix": "from-35%",
+    "body": "from-35%"
+  },
+  "from-40%": {
+    "prefix": "from-40%",
+    "body": "from-40%"
+  },
+  "from-45%": {
+    "prefix": "from-45%",
+    "body": "from-45%"
+  },
+  "from-50%": {
+    "prefix": "from-50%",
+    "body": "from-50%"
+  },
+  "from-55%": {
+    "prefix": "from-55%",
+    "body": "from-55%"
+  },
+  "from-60%": {
+    "prefix": "from-60%",
+    "body": "from-60%"
+  },
+  "from-65%": {
+    "prefix": "from-65%",
+    "body": "from-65%"
+  },
+  "from-70%": {
+    "prefix": "from-70%",
+    "body": "from-70%"
+  },
+  "from-75%": {
+    "prefix": "from-75%",
+    "body": "from-75%"
+  },
+  "from-80%": {
+    "prefix": "from-80%",
+    "body": "from-80%"
+  },
+  "from-85%": {
+    "prefix": "from-85%",
+    "body": "from-85%"
+  },
+  "from-90%": {
+    "prefix": "from-90%",
+    "body": "from-90%"
+  },
+  "from-95%": {
+    "prefix": "from-95%",
+    "body": "from-95%"
+  },
+  "from-100%": {
+    "prefix": "from-100%",
+    "body": "from-100%"
+  },
+  "via-inherit": {
+    "prefix": "via-inherit",
+    "body": "via-inherit"
+  },
+  "via-current": {
+    "prefix": "via-current",
+    "body": "via-current"
+  },
+  "via-transparent": {
+    "prefix": "via-transparent",
+    "body": "via-transparent"
+  },
+  "via-black": {
+    "prefix": "via-black",
+    "body": "via-black"
+  },
+  "via-white": {
+    "prefix": "via-white",
+    "body": "via-white"
+  },
+  "via-slate-50": {
+    "prefix": "via-slate-50",
+    "body": "via-slate-50"
+  },
+  "via-slate-100": {
+    "prefix": "via-slate-100",
+    "body": "via-slate-100"
+  },
+  "via-slate-200": {
+    "prefix": "via-slate-200",
+    "body": "via-slate-200"
+  },
+  "via-slate-300": {
+    "prefix": "via-slate-300",
+    "body": "via-slate-300"
+  },
+  "via-slate-400": {
+    "prefix": "via-slate-400",
+    "body": "via-slate-400"
+  },
+  "via-slate-500": {
+    "prefix": "via-slate-500",
+    "body": "via-slate-500"
+  },
+  "via-slate-600": {
+    "prefix": "via-slate-600",
+    "body": "via-slate-600"
+  },
+  "via-slate-700": {
+    "prefix": "via-slate-700",
+    "body": "via-slate-700"
+  },
+  "via-slate-800": {
+    "prefix": "via-slate-800",
+    "body": "via-slate-800"
+  },
+  "via-slate-900": {
+    "prefix": "via-slate-900",
+    "body": "via-slate-900"
+  },
+  "via-slate-950": {
+    "prefix": "via-slate-950",
+    "body": "via-slate-950"
+  },
+  "via-gray-50": {
+    "prefix": "via-gray-50",
+    "body": "via-gray-50"
+  },
+  "via-gray-100": {
+    "prefix": "via-gray-100",
+    "body": "via-gray-100"
+  },
+  "via-gray-200": {
+    "prefix": "via-gray-200",
+    "body": "via-gray-200"
+  },
+  "via-gray-300": {
+    "prefix": "via-gray-300",
+    "body": "via-gray-300"
+  },
+  "via-gray-400": {
+    "prefix": "via-gray-400",
+    "body": "via-gray-400"
+  },
+  "via-gray-500": {
+    "prefix": "via-gray-500",
+    "body": "via-gray-500"
+  },
+  "via-gray-600": {
+    "prefix": "via-gray-600",
+    "body": "via-gray-600"
+  },
+  "via-gray-700": {
+    "prefix": "via-gray-700",
+    "body": "via-gray-700"
+  },
+  "via-gray-800": {
+    "prefix": "via-gray-800",
+    "body": "via-gray-800"
+  },
+  "via-gray-900": {
+    "prefix": "via-gray-900",
+    "body": "via-gray-900"
+  },
+  "via-gray-950": {
+    "prefix": "via-gray-950",
+    "body": "via-gray-950"
+  },
+  "via-zinc-50": {
+    "prefix": "via-zinc-50",
+    "body": "via-zinc-50"
+  },
+  "via-zinc-100": {
+    "prefix": "via-zinc-100",
+    "body": "via-zinc-100"
+  },
+  "via-zinc-200": {
+    "prefix": "via-zinc-200",
+    "body": "via-zinc-200"
+  },
+  "via-zinc-300": {
+    "prefix": "via-zinc-300",
+    "body": "via-zinc-300"
+  },
+  "via-zinc-400": {
+    "prefix": "via-zinc-400",
+    "body": "via-zinc-400"
+  },
+  "via-zinc-500": {
+    "prefix": "via-zinc-500",
+    "body": "via-zinc-500"
+  },
+  "via-zinc-600": {
+    "prefix": "via-zinc-600",
+    "body": "via-zinc-600"
+  },
+  "via-zinc-700": {
+    "prefix": "via-zinc-700",
+    "body": "via-zinc-700"
+  },
+  "via-zinc-800": {
+    "prefix": "via-zinc-800",
+    "body": "via-zinc-800"
+  },
+  "via-zinc-900": {
+    "prefix": "via-zinc-900",
+    "body": "via-zinc-900"
+  },
+  "via-zinc-950": {
+    "prefix": "via-zinc-950",
+    "body": "via-zinc-950"
+  },
+  "via-neutral-50": {
+    "prefix": "via-neutral-50",
+    "body": "via-neutral-50"
+  },
+  "via-neutral-100": {
+    "prefix": "via-neutral-100",
+    "body": "via-neutral-100"
+  },
+  "via-neutral-200": {
+    "prefix": "via-neutral-200",
+    "body": "via-neutral-200"
+  },
+  "via-neutral-300": {
+    "prefix": "via-neutral-300",
+    "body": "via-neutral-300"
+  },
+  "via-neutral-400": {
+    "prefix": "via-neutral-400",
+    "body": "via-neutral-400"
+  },
+  "via-neutral-500": {
+    "prefix": "via-neutral-500",
+    "body": "via-neutral-500"
+  },
+  "via-neutral-600": {
+    "prefix": "via-neutral-600",
+    "body": "via-neutral-600"
+  },
+  "via-neutral-700": {
+    "prefix": "via-neutral-700",
+    "body": "via-neutral-700"
+  },
+  "via-neutral-800": {
+    "prefix": "via-neutral-800",
+    "body": "via-neutral-800"
+  },
+  "via-neutral-900": {
+    "prefix": "via-neutral-900",
+    "body": "via-neutral-900"
+  },
+  "via-neutral-950": {
+    "prefix": "via-neutral-950",
+    "body": "via-neutral-950"
+  },
+  "via-stone-50": {
+    "prefix": "via-stone-50",
+    "body": "via-stone-50"
+  },
+  "via-stone-100": {
+    "prefix": "via-stone-100",
+    "body": "via-stone-100"
+  },
+  "via-stone-200": {
+    "prefix": "via-stone-200",
+    "body": "via-stone-200"
+  },
+  "via-stone-300": {
+    "prefix": "via-stone-300",
+    "body": "via-stone-300"
+  },
+  "via-stone-400": {
+    "prefix": "via-stone-400",
+    "body": "via-stone-400"
+  },
+  "via-stone-500": {
+    "prefix": "via-stone-500",
+    "body": "via-stone-500"
+  },
+  "via-stone-600": {
+    "prefix": "via-stone-600",
+    "body": "via-stone-600"
+  },
+  "via-stone-700": {
+    "prefix": "via-stone-700",
+    "body": "via-stone-700"
+  },
+  "via-stone-800": {
+    "prefix": "via-stone-800",
+    "body": "via-stone-800"
+  },
+  "via-stone-900": {
+    "prefix": "via-stone-900",
+    "body": "via-stone-900"
+  },
+  "via-stone-950": {
+    "prefix": "via-stone-950",
+    "body": "via-stone-950"
+  },
+  "via-red-50": {
+    "prefix": "via-red-50",
+    "body": "via-red-50"
+  },
+  "via-red-100": {
+    "prefix": "via-red-100",
+    "body": "via-red-100"
+  },
+  "via-red-200": {
+    "prefix": "via-red-200",
+    "body": "via-red-200"
+  },
+  "via-red-300": {
+    "prefix": "via-red-300",
+    "body": "via-red-300"
+  },
+  "via-red-400": {
+    "prefix": "via-red-400",
+    "body": "via-red-400"
+  },
+  "via-red-500": {
+    "prefix": "via-red-500",
+    "body": "via-red-500"
+  },
+  "via-red-600": {
+    "prefix": "via-red-600",
+    "body": "via-red-600"
+  },
+  "via-red-700": {
+    "prefix": "via-red-700",
+    "body": "via-red-700"
+  },
+  "via-red-800": {
+    "prefix": "via-red-800",
+    "body": "via-red-800"
+  },
+  "via-red-900": {
+    "prefix": "via-red-900",
+    "body": "via-red-900"
+  },
+  "via-red-950": {
+    "prefix": "via-red-950",
+    "body": "via-red-950"
+  },
+  "via-orange-50": {
+    "prefix": "via-orange-50",
+    "body": "via-orange-50"
+  },
+  "via-orange-100": {
+    "prefix": "via-orange-100",
+    "body": "via-orange-100"
+  },
+  "via-orange-200": {
+    "prefix": "via-orange-200",
+    "body": "via-orange-200"
+  },
+  "via-orange-300": {
+    "prefix": "via-orange-300",
+    "body": "via-orange-300"
+  },
+  "via-orange-400": {
+    "prefix": "via-orange-400",
+    "body": "via-orange-400"
+  },
+  "via-orange-500": {
+    "prefix": "via-orange-500",
+    "body": "via-orange-500"
+  },
+  "via-orange-600": {
+    "prefix": "via-orange-600",
+    "body": "via-orange-600"
+  },
+  "via-orange-700": {
+    "prefix": "via-orange-700",
+    "body": "via-orange-700"
+  },
+  "via-orange-800": {
+    "prefix": "via-orange-800",
+    "body": "via-orange-800"
+  },
+  "via-orange-900": {
+    "prefix": "via-orange-900",
+    "body": "via-orange-900"
+  },
+  "via-orange-950": {
+    "prefix": "via-orange-950",
+    "body": "via-orange-950"
+  },
+  "via-amber-50": {
+    "prefix": "via-amber-50",
+    "body": "via-amber-50"
+  },
+  "via-amber-100": {
+    "prefix": "via-amber-100",
+    "body": "via-amber-100"
+  },
+  "via-amber-200": {
+    "prefix": "via-amber-200",
+    "body": "via-amber-200"
+  },
+  "via-amber-300": {
+    "prefix": "via-amber-300",
+    "body": "via-amber-300"
+  },
+  "via-amber-400": {
+    "prefix": "via-amber-400",
+    "body": "via-amber-400"
+  },
+  "via-amber-500": {
+    "prefix": "via-amber-500",
+    "body": "via-amber-500"
+  },
+  "via-amber-600": {
+    "prefix": "via-amber-600",
+    "body": "via-amber-600"
+  },
+  "via-amber-700": {
+    "prefix": "via-amber-700",
+    "body": "via-amber-700"
+  },
+  "via-amber-800": {
+    "prefix": "via-amber-800",
+    "body": "via-amber-800"
+  },
+  "via-amber-900": {
+    "prefix": "via-amber-900",
+    "body": "via-amber-900"
+  },
+  "via-amber-950": {
+    "prefix": "via-amber-950",
+    "body": "via-amber-950"
+  },
+  "via-yellow-50": {
+    "prefix": "via-yellow-50",
+    "body": "via-yellow-50"
+  },
+  "via-yellow-100": {
+    "prefix": "via-yellow-100",
+    "body": "via-yellow-100"
+  },
+  "via-yellow-200": {
+    "prefix": "via-yellow-200",
+    "body": "via-yellow-200"
+  },
+  "via-yellow-300": {
+    "prefix": "via-yellow-300",
+    "body": "via-yellow-300"
+  },
+  "via-yellow-400": {
+    "prefix": "via-yellow-400",
+    "body": "via-yellow-400"
+  },
+  "via-yellow-500": {
+    "prefix": "via-yellow-500",
+    "body": "via-yellow-500"
+  },
+  "via-yellow-600": {
+    "prefix": "via-yellow-600",
+    "body": "via-yellow-600"
+  },
+  "via-yellow-700": {
+    "prefix": "via-yellow-700",
+    "body": "via-yellow-700"
+  },
+  "via-yellow-800": {
+    "prefix": "via-yellow-800",
+    "body": "via-yellow-800"
+  },
+  "via-yellow-900": {
+    "prefix": "via-yellow-900",
+    "body": "via-yellow-900"
+  },
+  "via-yellow-950": {
+    "prefix": "via-yellow-950",
+    "body": "via-yellow-950"
+  },
+  "via-lime-50": {
+    "prefix": "via-lime-50",
+    "body": "via-lime-50"
+  },
+  "via-lime-100": {
+    "prefix": "via-lime-100",
+    "body": "via-lime-100"
+  },
+  "via-lime-200": {
+    "prefix": "via-lime-200",
+    "body": "via-lime-200"
+  },
+  "via-lime-300": {
+    "prefix": "via-lime-300",
+    "body": "via-lime-300"
+  },
+  "via-lime-400": {
+    "prefix": "via-lime-400",
+    "body": "via-lime-400"
+  },
+  "via-lime-500": {
+    "prefix": "via-lime-500",
+    "body": "via-lime-500"
+  },
+  "via-lime-600": {
+    "prefix": "via-lime-600",
+    "body": "via-lime-600"
+  },
+  "via-lime-700": {
+    "prefix": "via-lime-700",
+    "body": "via-lime-700"
+  },
+  "via-lime-800": {
+    "prefix": "via-lime-800",
+    "body": "via-lime-800"
+  },
+  "via-lime-900": {
+    "prefix": "via-lime-900",
+    "body": "via-lime-900"
+  },
+  "via-lime-950": {
+    "prefix": "via-lime-950",
+    "body": "via-lime-950"
+  },
+  "via-green-50": {
+    "prefix": "via-green-50",
+    "body": "via-green-50"
+  },
+  "via-green-100": {
+    "prefix": "via-green-100",
+    "body": "via-green-100"
+  },
+  "via-green-200": {
+    "prefix": "via-green-200",
+    "body": "via-green-200"
+  },
+  "via-green-300": {
+    "prefix": "via-green-300",
+    "body": "via-green-300"
+  },
+  "via-green-400": {
+    "prefix": "via-green-400",
+    "body": "via-green-400"
+  },
+  "via-green-500": {
+    "prefix": "via-green-500",
+    "body": "via-green-500"
+  },
+  "via-green-600": {
+    "prefix": "via-green-600",
+    "body": "via-green-600"
+  },
+  "via-green-700": {
+    "prefix": "via-green-700",
+    "body": "via-green-700"
+  },
+  "via-green-800": {
+    "prefix": "via-green-800",
+    "body": "via-green-800"
+  },
+  "via-green-900": {
+    "prefix": "via-green-900",
+    "body": "via-green-900"
+  },
+  "via-green-950": {
+    "prefix": "via-green-950",
+    "body": "via-green-950"
+  },
+  "via-emerald-50": {
+    "prefix": "via-emerald-50",
+    "body": "via-emerald-50"
+  },
+  "via-emerald-100": {
+    "prefix": "via-emerald-100",
+    "body": "via-emerald-100"
+  },
+  "via-emerald-200": {
+    "prefix": "via-emerald-200",
+    "body": "via-emerald-200"
+  },
+  "via-emerald-300": {
+    "prefix": "via-emerald-300",
+    "body": "via-emerald-300"
+  },
+  "via-emerald-400": {
+    "prefix": "via-emerald-400",
+    "body": "via-emerald-400"
+  },
+  "via-emerald-500": {
+    "prefix": "via-emerald-500",
+    "body": "via-emerald-500"
+  },
+  "via-emerald-600": {
+    "prefix": "via-emerald-600",
+    "body": "via-emerald-600"
+  },
+  "via-emerald-700": {
+    "prefix": "via-emerald-700",
+    "body": "via-emerald-700"
+  },
+  "via-emerald-800": {
+    "prefix": "via-emerald-800",
+    "body": "via-emerald-800"
+  },
+  "via-emerald-900": {
+    "prefix": "via-emerald-900",
+    "body": "via-emerald-900"
+  },
+  "via-emerald-950": {
+    "prefix": "via-emerald-950",
+    "body": "via-emerald-950"
+  },
+  "via-teal-50": {
+    "prefix": "via-teal-50",
+    "body": "via-teal-50"
+  },
+  "via-teal-100": {
+    "prefix": "via-teal-100",
+    "body": "via-teal-100"
+  },
+  "via-teal-200": {
+    "prefix": "via-teal-200",
+    "body": "via-teal-200"
+  },
+  "via-teal-300": {
+    "prefix": "via-teal-300",
+    "body": "via-teal-300"
+  },
+  "via-teal-400": {
+    "prefix": "via-teal-400",
+    "body": "via-teal-400"
+  },
+  "via-teal-500": {
+    "prefix": "via-teal-500",
+    "body": "via-teal-500"
+  },
+  "via-teal-600": {
+    "prefix": "via-teal-600",
+    "body": "via-teal-600"
+  },
+  "via-teal-700": {
+    "prefix": "via-teal-700",
+    "body": "via-teal-700"
+  },
+  "via-teal-800": {
+    "prefix": "via-teal-800",
+    "body": "via-teal-800"
+  },
+  "via-teal-900": {
+    "prefix": "via-teal-900",
+    "body": "via-teal-900"
+  },
+  "via-teal-950": {
+    "prefix": "via-teal-950",
+    "body": "via-teal-950"
+  },
+  "via-cyan-50": {
+    "prefix": "via-cyan-50",
+    "body": "via-cyan-50"
+  },
+  "via-cyan-100": {
+    "prefix": "via-cyan-100",
+    "body": "via-cyan-100"
+  },
+  "via-cyan-200": {
+    "prefix": "via-cyan-200",
+    "body": "via-cyan-200"
+  },
+  "via-cyan-300": {
+    "prefix": "via-cyan-300",
+    "body": "via-cyan-300"
+  },
+  "via-cyan-400": {
+    "prefix": "via-cyan-400",
+    "body": "via-cyan-400"
+  },
+  "via-cyan-500": {
+    "prefix": "via-cyan-500",
+    "body": "via-cyan-500"
+  },
+  "via-cyan-600": {
+    "prefix": "via-cyan-600",
+    "body": "via-cyan-600"
+  },
+  "via-cyan-700": {
+    "prefix": "via-cyan-700",
+    "body": "via-cyan-700"
+  },
+  "via-cyan-800": {
+    "prefix": "via-cyan-800",
+    "body": "via-cyan-800"
+  },
+  "via-cyan-900": {
+    "prefix": "via-cyan-900",
+    "body": "via-cyan-900"
+  },
+  "via-cyan-950": {
+    "prefix": "via-cyan-950",
+    "body": "via-cyan-950"
+  },
+  "via-sky-50": {
+    "prefix": "via-sky-50",
+    "body": "via-sky-50"
+  },
+  "via-sky-100": {
+    "prefix": "via-sky-100",
+    "body": "via-sky-100"
+  },
+  "via-sky-200": {
+    "prefix": "via-sky-200",
+    "body": "via-sky-200"
+  },
+  "via-sky-300": {
+    "prefix": "via-sky-300",
+    "body": "via-sky-300"
+  },
+  "via-sky-400": {
+    "prefix": "via-sky-400",
+    "body": "via-sky-400"
+  },
+  "via-sky-500": {
+    "prefix": "via-sky-500",
+    "body": "via-sky-500"
+  },
+  "via-sky-600": {
+    "prefix": "via-sky-600",
+    "body": "via-sky-600"
+  },
+  "via-sky-700": {
+    "prefix": "via-sky-700",
+    "body": "via-sky-700"
+  },
+  "via-sky-800": {
+    "prefix": "via-sky-800",
+    "body": "via-sky-800"
+  },
+  "via-sky-900": {
+    "prefix": "via-sky-900",
+    "body": "via-sky-900"
+  },
+  "via-sky-950": {
+    "prefix": "via-sky-950",
+    "body": "via-sky-950"
+  },
+  "via-blue-50": {
+    "prefix": "via-blue-50",
+    "body": "via-blue-50"
+  },
+  "via-blue-100": {
+    "prefix": "via-blue-100",
+    "body": "via-blue-100"
+  },
+  "via-blue-200": {
+    "prefix": "via-blue-200",
+    "body": "via-blue-200"
+  },
+  "via-blue-300": {
+    "prefix": "via-blue-300",
+    "body": "via-blue-300"
+  },
+  "via-blue-400": {
+    "prefix": "via-blue-400",
+    "body": "via-blue-400"
+  },
+  "via-blue-500": {
+    "prefix": "via-blue-500",
+    "body": "via-blue-500"
+  },
+  "via-blue-600": {
+    "prefix": "via-blue-600",
+    "body": "via-blue-600"
+  },
+  "via-blue-700": {
+    "prefix": "via-blue-700",
+    "body": "via-blue-700"
+  },
+  "via-blue-800": {
+    "prefix": "via-blue-800",
+    "body": "via-blue-800"
+  },
+  "via-blue-900": {
+    "prefix": "via-blue-900",
+    "body": "via-blue-900"
+  },
+  "via-blue-950": {
+    "prefix": "via-blue-950",
+    "body": "via-blue-950"
+  },
+  "via-indigo-50": {
+    "prefix": "via-indigo-50",
+    "body": "via-indigo-50"
+  },
+  "via-indigo-100": {
+    "prefix": "via-indigo-100",
+    "body": "via-indigo-100"
+  },
+  "via-indigo-200": {
+    "prefix": "via-indigo-200",
+    "body": "via-indigo-200"
+  },
+  "via-indigo-300": {
+    "prefix": "via-indigo-300",
+    "body": "via-indigo-300"
+  },
+  "via-indigo-400": {
+    "prefix": "via-indigo-400",
+    "body": "via-indigo-400"
+  },
+  "via-indigo-500": {
+    "prefix": "via-indigo-500",
+    "body": "via-indigo-500"
+  },
+  "via-indigo-600": {
+    "prefix": "via-indigo-600",
+    "body": "via-indigo-600"
+  },
+  "via-indigo-700": {
+    "prefix": "via-indigo-700",
+    "body": "via-indigo-700"
+  },
+  "via-indigo-800": {
+    "prefix": "via-indigo-800",
+    "body": "via-indigo-800"
+  },
+  "via-indigo-900": {
+    "prefix": "via-indigo-900",
+    "body": "via-indigo-900"
+  },
+  "via-indigo-950": {
+    "prefix": "via-indigo-950",
+    "body": "via-indigo-950"
+  },
+  "via-violet-50": {
+    "prefix": "via-violet-50",
+    "body": "via-violet-50"
+  },
+  "via-violet-100": {
+    "prefix": "via-violet-100",
+    "body": "via-violet-100"
+  },
+  "via-violet-200": {
+    "prefix": "via-violet-200",
+    "body": "via-violet-200"
+  },
+  "via-violet-300": {
+    "prefix": "via-violet-300",
+    "body": "via-violet-300"
+  },
+  "via-violet-400": {
+    "prefix": "via-violet-400",
+    "body": "via-violet-400"
+  },
+  "via-violet-500": {
+    "prefix": "via-violet-500",
+    "body": "via-violet-500"
+  },
+  "via-violet-600": {
+    "prefix": "via-violet-600",
+    "body": "via-violet-600"
+  },
+  "via-violet-700": {
+    "prefix": "via-violet-700",
+    "body": "via-violet-700"
+  },
+  "via-violet-800": {
+    "prefix": "via-violet-800",
+    "body": "via-violet-800"
+  },
+  "via-violet-900": {
+    "prefix": "via-violet-900",
+    "body": "via-violet-900"
+  },
+  "via-violet-950": {
+    "prefix": "via-violet-950",
+    "body": "via-violet-950"
+  },
+  "via-purple-50": {
+    "prefix": "via-purple-50",
+    "body": "via-purple-50"
+  },
+  "via-purple-100": {
+    "prefix": "via-purple-100",
+    "body": "via-purple-100"
+  },
+  "via-purple-200": {
+    "prefix": "via-purple-200",
+    "body": "via-purple-200"
+  },
+  "via-purple-300": {
+    "prefix": "via-purple-300",
+    "body": "via-purple-300"
+  },
+  "via-purple-400": {
+    "prefix": "via-purple-400",
+    "body": "via-purple-400"
+  },
+  "via-purple-500": {
+    "prefix": "via-purple-500",
+    "body": "via-purple-500"
+  },
+  "via-purple-600": {
+    "prefix": "via-purple-600",
+    "body": "via-purple-600"
+  },
+  "via-purple-700": {
+    "prefix": "via-purple-700",
+    "body": "via-purple-700"
+  },
+  "via-purple-800": {
+    "prefix": "via-purple-800",
+    "body": "via-purple-800"
+  },
+  "via-purple-900": {
+    "prefix": "via-purple-900",
+    "body": "via-purple-900"
+  },
+  "via-purple-950": {
+    "prefix": "via-purple-950",
+    "body": "via-purple-950"
+  },
+  "via-fuchsia-50": {
+    "prefix": "via-fuchsia-50",
+    "body": "via-fuchsia-50"
+  },
+  "via-fuchsia-100": {
+    "prefix": "via-fuchsia-100",
+    "body": "via-fuchsia-100"
+  },
+  "via-fuchsia-200": {
+    "prefix": "via-fuchsia-200",
+    "body": "via-fuchsia-200"
+  },
+  "via-fuchsia-300": {
+    "prefix": "via-fuchsia-300",
+    "body": "via-fuchsia-300"
+  },
+  "via-fuchsia-400": {
+    "prefix": "via-fuchsia-400",
+    "body": "via-fuchsia-400"
+  },
+  "via-fuchsia-500": {
+    "prefix": "via-fuchsia-500",
+    "body": "via-fuchsia-500"
+  },
+  "via-fuchsia-600": {
+    "prefix": "via-fuchsia-600",
+    "body": "via-fuchsia-600"
+  },
+  "via-fuchsia-700": {
+    "prefix": "via-fuchsia-700",
+    "body": "via-fuchsia-700"
+  },
+  "via-fuchsia-800": {
+    "prefix": "via-fuchsia-800",
+    "body": "via-fuchsia-800"
+  },
+  "via-fuchsia-900": {
+    "prefix": "via-fuchsia-900",
+    "body": "via-fuchsia-900"
+  },
+  "via-fuchsia-950": {
+    "prefix": "via-fuchsia-950",
+    "body": "via-fuchsia-950"
+  },
+  "via-pink-50": {
+    "prefix": "via-pink-50",
+    "body": "via-pink-50"
+  },
+  "via-pink-100": {
+    "prefix": "via-pink-100",
+    "body": "via-pink-100"
+  },
+  "via-pink-200": {
+    "prefix": "via-pink-200",
+    "body": "via-pink-200"
+  },
+  "via-pink-300": {
+    "prefix": "via-pink-300",
+    "body": "via-pink-300"
+  },
+  "via-pink-400": {
+    "prefix": "via-pink-400",
+    "body": "via-pink-400"
+  },
+  "via-pink-500": {
+    "prefix": "via-pink-500",
+    "body": "via-pink-500"
+  },
+  "via-pink-600": {
+    "prefix": "via-pink-600",
+    "body": "via-pink-600"
+  },
+  "via-pink-700": {
+    "prefix": "via-pink-700",
+    "body": "via-pink-700"
+  },
+  "via-pink-800": {
+    "prefix": "via-pink-800",
+    "body": "via-pink-800"
+  },
+  "via-pink-900": {
+    "prefix": "via-pink-900",
+    "body": "via-pink-900"
+  },
+  "via-pink-950": {
+    "prefix": "via-pink-950",
+    "body": "via-pink-950"
+  },
+  "via-rose-50": {
+    "prefix": "via-rose-50",
+    "body": "via-rose-50"
+  },
+  "via-rose-100": {
+    "prefix": "via-rose-100",
+    "body": "via-rose-100"
+  },
+  "via-rose-200": {
+    "prefix": "via-rose-200",
+    "body": "via-rose-200"
+  },
+  "via-rose-300": {
+    "prefix": "via-rose-300",
+    "body": "via-rose-300"
+  },
+  "via-rose-400": {
+    "prefix": "via-rose-400",
+    "body": "via-rose-400"
+  },
+  "via-rose-500": {
+    "prefix": "via-rose-500",
+    "body": "via-rose-500"
+  },
+  "via-rose-600": {
+    "prefix": "via-rose-600",
+    "body": "via-rose-600"
+  },
+  "via-rose-700": {
+    "prefix": "via-rose-700",
+    "body": "via-rose-700"
+  },
+  "via-rose-800": {
+    "prefix": "via-rose-800",
+    "body": "via-rose-800"
+  },
+  "via-rose-900": {
+    "prefix": "via-rose-900",
+    "body": "via-rose-900"
+  },
+  "via-rose-950": {
+    "prefix": "via-rose-950",
+    "body": "via-rose-950"
+  },
+  "via-0%": {
+    "prefix": "via-0%",
+    "body": "via-0%"
+  },
+  "via-5%": {
+    "prefix": "via-5%",
+    "body": "via-5%"
+  },
+  "via-10%": {
+    "prefix": "via-10%",
+    "body": "via-10%"
+  },
+  "via-15%": {
+    "prefix": "via-15%",
+    "body": "via-15%"
+  },
+  "via-20%": {
+    "prefix": "via-20%",
+    "body": "via-20%"
+  },
+  "via-25%": {
+    "prefix": "via-25%",
+    "body": "via-25%"
+  },
+  "via-30%": {
+    "prefix": "via-30%",
+    "body": "via-30%"
+  },
+  "via-35%": {
+    "prefix": "via-35%",
+    "body": "via-35%"
+  },
+  "via-40%": {
+    "prefix": "via-40%",
+    "body": "via-40%"
+  },
+  "via-45%": {
+    "prefix": "via-45%",
+    "body": "via-45%"
+  },
+  "via-50%": {
+    "prefix": "via-50%",
+    "body": "via-50%"
+  },
+  "via-55%": {
+    "prefix": "via-55%",
+    "body": "via-55%"
+  },
+  "via-60%": {
+    "prefix": "via-60%",
+    "body": "via-60%"
+  },
+  "via-65%": {
+    "prefix": "via-65%",
+    "body": "via-65%"
+  },
+  "via-70%": {
+    "prefix": "via-70%",
+    "body": "via-70%"
+  },
+  "via-75%": {
+    "prefix": "via-75%",
+    "body": "via-75%"
+  },
+  "via-80%": {
+    "prefix": "via-80%",
+    "body": "via-80%"
+  },
+  "via-85%": {
+    "prefix": "via-85%",
+    "body": "via-85%"
+  },
+  "via-90%": {
+    "prefix": "via-90%",
+    "body": "via-90%"
+  },
+  "via-95%": {
+    "prefix": "via-95%",
+    "body": "via-95%"
+  },
+  "via-100%": {
+    "prefix": "via-100%",
+    "body": "via-100%"
+  },
+  "to-inherit": {
+    "prefix": "to-inherit",
+    "body": "to-inherit"
+  },
+  "to-current": {
+    "prefix": "to-current",
+    "body": "to-current"
+  },
+  "to-transparent": {
+    "prefix": "to-transparent",
+    "body": "to-transparent"
+  },
+  "to-black": {
+    "prefix": "to-black",
+    "body": "to-black"
+  },
+  "to-white": {
+    "prefix": "to-white",
+    "body": "to-white"
+  },
+  "to-slate-50": {
+    "prefix": "to-slate-50",
+    "body": "to-slate-50"
+  },
+  "to-slate-100": {
+    "prefix": "to-slate-100",
+    "body": "to-slate-100"
+  },
+  "to-slate-200": {
+    "prefix": "to-slate-200",
+    "body": "to-slate-200"
+  },
+  "to-slate-300": {
+    "prefix": "to-slate-300",
+    "body": "to-slate-300"
+  },
+  "to-slate-400": {
+    "prefix": "to-slate-400",
+    "body": "to-slate-400"
+  },
+  "to-slate-500": {
+    "prefix": "to-slate-500",
+    "body": "to-slate-500"
+  },
+  "to-slate-600": {
+    "prefix": "to-slate-600",
+    "body": "to-slate-600"
+  },
+  "to-slate-700": {
+    "prefix": "to-slate-700",
+    "body": "to-slate-700"
+  },
+  "to-slate-800": {
+    "prefix": "to-slate-800",
+    "body": "to-slate-800"
+  },
+  "to-slate-900": {
+    "prefix": "to-slate-900",
+    "body": "to-slate-900"
+  },
+  "to-slate-950": {
+    "prefix": "to-slate-950",
+    "body": "to-slate-950"
+  },
+  "to-gray-50": {
+    "prefix": "to-gray-50",
+    "body": "to-gray-50"
+  },
+  "to-gray-100": {
+    "prefix": "to-gray-100",
+    "body": "to-gray-100"
+  },
+  "to-gray-200": {
+    "prefix": "to-gray-200",
+    "body": "to-gray-200"
+  },
+  "to-gray-300": {
+    "prefix": "to-gray-300",
+    "body": "to-gray-300"
+  },
+  "to-gray-400": {
+    "prefix": "to-gray-400",
+    "body": "to-gray-400"
+  },
+  "to-gray-500": {
+    "prefix": "to-gray-500",
+    "body": "to-gray-500"
+  },
+  "to-gray-600": {
+    "prefix": "to-gray-600",
+    "body": "to-gray-600"
+  },
+  "to-gray-700": {
+    "prefix": "to-gray-700",
+    "body": "to-gray-700"
+  },
+  "to-gray-800": {
+    "prefix": "to-gray-800",
+    "body": "to-gray-800"
+  },
+  "to-gray-900": {
+    "prefix": "to-gray-900",
+    "body": "to-gray-900"
+  },
+  "to-gray-950": {
+    "prefix": "to-gray-950",
+    "body": "to-gray-950"
+  },
+  "to-zinc-50": {
+    "prefix": "to-zinc-50",
+    "body": "to-zinc-50"
+  },
+  "to-zinc-100": {
+    "prefix": "to-zinc-100",
+    "body": "to-zinc-100"
+  },
+  "to-zinc-200": {
+    "prefix": "to-zinc-200",
+    "body": "to-zinc-200"
+  },
+  "to-zinc-300": {
+    "prefix": "to-zinc-300",
+    "body": "to-zinc-300"
+  },
+  "to-zinc-400": {
+    "prefix": "to-zinc-400",
+    "body": "to-zinc-400"
+  },
+  "to-zinc-500": {
+    "prefix": "to-zinc-500",
+    "body": "to-zinc-500"
+  },
+  "to-zinc-600": {
+    "prefix": "to-zinc-600",
+    "body": "to-zinc-600"
+  },
+  "to-zinc-700": {
+    "prefix": "to-zinc-700",
+    "body": "to-zinc-700"
+  },
+  "to-zinc-800": {
+    "prefix": "to-zinc-800",
+    "body": "to-zinc-800"
+  },
+  "to-zinc-900": {
+    "prefix": "to-zinc-900",
+    "body": "to-zinc-900"
+  },
+  "to-zinc-950": {
+    "prefix": "to-zinc-950",
+    "body": "to-zinc-950"
+  },
+  "to-neutral-50": {
+    "prefix": "to-neutral-50",
+    "body": "to-neutral-50"
+  },
+  "to-neutral-100": {
+    "prefix": "to-neutral-100",
+    "body": "to-neutral-100"
+  },
+  "to-neutral-200": {
+    "prefix": "to-neutral-200",
+    "body": "to-neutral-200"
+  },
+  "to-neutral-300": {
+    "prefix": "to-neutral-300",
+    "body": "to-neutral-300"
+  },
+  "to-neutral-400": {
+    "prefix": "to-neutral-400",
+    "body": "to-neutral-400"
+  },
+  "to-neutral-500": {
+    "prefix": "to-neutral-500",
+    "body": "to-neutral-500"
+  },
+  "to-neutral-600": {
+    "prefix": "to-neutral-600",
+    "body": "to-neutral-600"
+  },
+  "to-neutral-700": {
+    "prefix": "to-neutral-700",
+    "body": "to-neutral-700"
+  },
+  "to-neutral-800": {
+    "prefix": "to-neutral-800",
+    "body": "to-neutral-800"
+  },
+  "to-neutral-900": {
+    "prefix": "to-neutral-900",
+    "body": "to-neutral-900"
+  },
+  "to-neutral-950": {
+    "prefix": "to-neutral-950",
+    "body": "to-neutral-950"
+  },
+  "to-stone-50": {
+    "prefix": "to-stone-50",
+    "body": "to-stone-50"
+  },
+  "to-stone-100": {
+    "prefix": "to-stone-100",
+    "body": "to-stone-100"
+  },
+  "to-stone-200": {
+    "prefix": "to-stone-200",
+    "body": "to-stone-200"
+  },
+  "to-stone-300": {
+    "prefix": "to-stone-300",
+    "body": "to-stone-300"
+  },
+  "to-stone-400": {
+    "prefix": "to-stone-400",
+    "body": "to-stone-400"
+  },
+  "to-stone-500": {
+    "prefix": "to-stone-500",
+    "body": "to-stone-500"
+  },
+  "to-stone-600": {
+    "prefix": "to-stone-600",
+    "body": "to-stone-600"
+  },
+  "to-stone-700": {
+    "prefix": "to-stone-700",
+    "body": "to-stone-700"
+  },
+  "to-stone-800": {
+    "prefix": "to-stone-800",
+    "body": "to-stone-800"
+  },
+  "to-stone-900": {
+    "prefix": "to-stone-900",
+    "body": "to-stone-900"
+  },
+  "to-stone-950": {
+    "prefix": "to-stone-950",
+    "body": "to-stone-950"
+  },
+  "to-red-50": {
+    "prefix": "to-red-50",
+    "body": "to-red-50"
+  },
+  "to-red-100": {
+    "prefix": "to-red-100",
+    "body": "to-red-100"
+  },
+  "to-red-200": {
+    "prefix": "to-red-200",
+    "body": "to-red-200"
+  },
+  "to-red-300": {
+    "prefix": "to-red-300",
+    "body": "to-red-300"
+  },
+  "to-red-400": {
+    "prefix": "to-red-400",
+    "body": "to-red-400"
+  },
+  "to-red-500": {
+    "prefix": "to-red-500",
+    "body": "to-red-500"
+  },
+  "to-red-600": {
+    "prefix": "to-red-600",
+    "body": "to-red-600"
+  },
+  "to-red-700": {
+    "prefix": "to-red-700",
+    "body": "to-red-700"
+  },
+  "to-red-800": {
+    "prefix": "to-red-800",
+    "body": "to-red-800"
+  },
+  "to-red-900": {
+    "prefix": "to-red-900",
+    "body": "to-red-900"
+  },
+  "to-red-950": {
+    "prefix": "to-red-950",
+    "body": "to-red-950"
+  },
+  "to-orange-50": {
+    "prefix": "to-orange-50",
+    "body": "to-orange-50"
+  },
+  "to-orange-100": {
+    "prefix": "to-orange-100",
+    "body": "to-orange-100"
+  },
+  "to-orange-200": {
+    "prefix": "to-orange-200",
+    "body": "to-orange-200"
+  },
+  "to-orange-300": {
+    "prefix": "to-orange-300",
+    "body": "to-orange-300"
+  },
+  "to-orange-400": {
+    "prefix": "to-orange-400",
+    "body": "to-orange-400"
+  },
+  "to-orange-500": {
+    "prefix": "to-orange-500",
+    "body": "to-orange-500"
+  },
+  "to-orange-600": {
+    "prefix": "to-orange-600",
+    "body": "to-orange-600"
+  },
+  "to-orange-700": {
+    "prefix": "to-orange-700",
+    "body": "to-orange-700"
+  },
+  "to-orange-800": {
+    "prefix": "to-orange-800",
+    "body": "to-orange-800"
+  },
+  "to-orange-900": {
+    "prefix": "to-orange-900",
+    "body": "to-orange-900"
+  },
+  "to-orange-950": {
+    "prefix": "to-orange-950",
+    "body": "to-orange-950"
+  },
+  "to-amber-50": {
+    "prefix": "to-amber-50",
+    "body": "to-amber-50"
+  },
+  "to-amber-100": {
+    "prefix": "to-amber-100",
+    "body": "to-amber-100"
+  },
+  "to-amber-200": {
+    "prefix": "to-amber-200",
+    "body": "to-amber-200"
+  },
+  "to-amber-300": {
+    "prefix": "to-amber-300",
+    "body": "to-amber-300"
+  },
+  "to-amber-400": {
+    "prefix": "to-amber-400",
+    "body": "to-amber-400"
+  },
+  "to-amber-500": {
+    "prefix": "to-amber-500",
+    "body": "to-amber-500"
+  },
+  "to-amber-600": {
+    "prefix": "to-amber-600",
+    "body": "to-amber-600"
+  },
+  "to-amber-700": {
+    "prefix": "to-amber-700",
+    "body": "to-amber-700"
+  },
+  "to-amber-800": {
+    "prefix": "to-amber-800",
+    "body": "to-amber-800"
+  },
+  "to-amber-900": {
+    "prefix": "to-amber-900",
+    "body": "to-amber-900"
+  },
+  "to-amber-950": {
+    "prefix": "to-amber-950",
+    "body": "to-amber-950"
+  },
+  "to-yellow-50": {
+    "prefix": "to-yellow-50",
+    "body": "to-yellow-50"
+  },
+  "to-yellow-100": {
+    "prefix": "to-yellow-100",
+    "body": "to-yellow-100"
+  },
+  "to-yellow-200": {
+    "prefix": "to-yellow-200",
+    "body": "to-yellow-200"
+  },
+  "to-yellow-300": {
+    "prefix": "to-yellow-300",
+    "body": "to-yellow-300"
+  },
+  "to-yellow-400": {
+    "prefix": "to-yellow-400",
+    "body": "to-yellow-400"
+  },
+  "to-yellow-500": {
+    "prefix": "to-yellow-500",
+    "body": "to-yellow-500"
+  },
+  "to-yellow-600": {
+    "prefix": "to-yellow-600",
+    "body": "to-yellow-600"
+  },
+  "to-yellow-700": {
+    "prefix": "to-yellow-700",
+    "body": "to-yellow-700"
+  },
+  "to-yellow-800": {
+    "prefix": "to-yellow-800",
+    "body": "to-yellow-800"
+  },
+  "to-yellow-900": {
+    "prefix": "to-yellow-900",
+    "body": "to-yellow-900"
+  },
+  "to-yellow-950": {
+    "prefix": "to-yellow-950",
+    "body": "to-yellow-950"
+  },
+  "to-lime-50": {
+    "prefix": "to-lime-50",
+    "body": "to-lime-50"
+  },
+  "to-lime-100": {
+    "prefix": "to-lime-100",
+    "body": "to-lime-100"
+  },
+  "to-lime-200": {
+    "prefix": "to-lime-200",
+    "body": "to-lime-200"
+  },
+  "to-lime-300": {
+    "prefix": "to-lime-300",
+    "body": "to-lime-300"
+  },
+  "to-lime-400": {
+    "prefix": "to-lime-400",
+    "body": "to-lime-400"
+  },
+  "to-lime-500": {
+    "prefix": "to-lime-500",
+    "body": "to-lime-500"
+  },
+  "to-lime-600": {
+    "prefix": "to-lime-600",
+    "body": "to-lime-600"
+  },
+  "to-lime-700": {
+    "prefix": "to-lime-700",
+    "body": "to-lime-700"
+  },
+  "to-lime-800": {
+    "prefix": "to-lime-800",
+    "body": "to-lime-800"
+  },
+  "to-lime-900": {
+    "prefix": "to-lime-900",
+    "body": "to-lime-900"
+  },
+  "to-lime-950": {
+    "prefix": "to-lime-950",
+    "body": "to-lime-950"
+  },
+  "to-green-50": {
+    "prefix": "to-green-50",
+    "body": "to-green-50"
+  },
+  "to-green-100": {
+    "prefix": "to-green-100",
+    "body": "to-green-100"
+  },
+  "to-green-200": {
+    "prefix": "to-green-200",
+    "body": "to-green-200"
+  },
+  "to-green-300": {
+    "prefix": "to-green-300",
+    "body": "to-green-300"
+  },
+  "to-green-400": {
+    "prefix": "to-green-400",
+    "body": "to-green-400"
+  },
+  "to-green-500": {
+    "prefix": "to-green-500",
+    "body": "to-green-500"
+  },
+  "to-green-600": {
+    "prefix": "to-green-600",
+    "body": "to-green-600"
+  },
+  "to-green-700": {
+    "prefix": "to-green-700",
+    "body": "to-green-700"
+  },
+  "to-green-800": {
+    "prefix": "to-green-800",
+    "body": "to-green-800"
+  },
+  "to-green-900": {
+    "prefix": "to-green-900",
+    "body": "to-green-900"
+  },
+  "to-green-950": {
+    "prefix": "to-green-950",
+    "body": "to-green-950"
+  },
+  "to-emerald-50": {
+    "prefix": "to-emerald-50",
+    "body": "to-emerald-50"
+  },
+  "to-emerald-100": {
+    "prefix": "to-emerald-100",
+    "body": "to-emerald-100"
+  },
+  "to-emerald-200": {
+    "prefix": "to-emerald-200",
+    "body": "to-emerald-200"
+  },
+  "to-emerald-300": {
+    "prefix": "to-emerald-300",
+    "body": "to-emerald-300"
+  },
+  "to-emerald-400": {
+    "prefix": "to-emerald-400",
+    "body": "to-emerald-400"
+  },
+  "to-emerald-500": {
+    "prefix": "to-emerald-500",
+    "body": "to-emerald-500"
+  },
+  "to-emerald-600": {
+    "prefix": "to-emerald-600",
+    "body": "to-emerald-600"
+  },
+  "to-emerald-700": {
+    "prefix": "to-emerald-700",
+    "body": "to-emerald-700"
+  },
+  "to-emerald-800": {
+    "prefix": "to-emerald-800",
+    "body": "to-emerald-800"
+  },
+  "to-emerald-900": {
+    "prefix": "to-emerald-900",
+    "body": "to-emerald-900"
+  },
+  "to-emerald-950": {
+    "prefix": "to-emerald-950",
+    "body": "to-emerald-950"
+  },
+  "to-teal-50": {
+    "prefix": "to-teal-50",
+    "body": "to-teal-50"
+  },
+  "to-teal-100": {
+    "prefix": "to-teal-100",
+    "body": "to-teal-100"
+  },
+  "to-teal-200": {
+    "prefix": "to-teal-200",
+    "body": "to-teal-200"
+  },
+  "to-teal-300": {
+    "prefix": "to-teal-300",
+    "body": "to-teal-300"
+  },
+  "to-teal-400": {
+    "prefix": "to-teal-400",
+    "body": "to-teal-400"
+  },
+  "to-teal-500": {
+    "prefix": "to-teal-500",
+    "body": "to-teal-500"
+  },
+  "to-teal-600": {
+    "prefix": "to-teal-600",
+    "body": "to-teal-600"
+  },
+  "to-teal-700": {
+    "prefix": "to-teal-700",
+    "body": "to-teal-700"
+  },
+  "to-teal-800": {
+    "prefix": "to-teal-800",
+    "body": "to-teal-800"
+  },
+  "to-teal-900": {
+    "prefix": "to-teal-900",
+    "body": "to-teal-900"
+  },
+  "to-teal-950": {
+    "prefix": "to-teal-950",
+    "body": "to-teal-950"
+  },
+  "to-cyan-50": {
+    "prefix": "to-cyan-50",
+    "body": "to-cyan-50"
+  },
+  "to-cyan-100": {
+    "prefix": "to-cyan-100",
+    "body": "to-cyan-100"
+  },
+  "to-cyan-200": {
+    "prefix": "to-cyan-200",
+    "body": "to-cyan-200"
+  },
+  "to-cyan-300": {
+    "prefix": "to-cyan-300",
+    "body": "to-cyan-300"
+  },
+  "to-cyan-400": {
+    "prefix": "to-cyan-400",
+    "body": "to-cyan-400"
+  },
+  "to-cyan-500": {
+    "prefix": "to-cyan-500",
+    "body": "to-cyan-500"
+  },
+  "to-cyan-600": {
+    "prefix": "to-cyan-600",
+    "body": "to-cyan-600"
+  },
+  "to-cyan-700": {
+    "prefix": "to-cyan-700",
+    "body": "to-cyan-700"
+  },
+  "to-cyan-800": {
+    "prefix": "to-cyan-800",
+    "body": "to-cyan-800"
+  },
+  "to-cyan-900": {
+    "prefix": "to-cyan-900",
+    "body": "to-cyan-900"
+  },
+  "to-cyan-950": {
+    "prefix": "to-cyan-950",
+    "body": "to-cyan-950"
+  },
+  "to-sky-50": {
+    "prefix": "to-sky-50",
+    "body": "to-sky-50"
+  },
+  "to-sky-100": {
+    "prefix": "to-sky-100",
+    "body": "to-sky-100"
+  },
+  "to-sky-200": {
+    "prefix": "to-sky-200",
+    "body": "to-sky-200"
+  },
+  "to-sky-300": {
+    "prefix": "to-sky-300",
+    "body": "to-sky-300"
+  },
+  "to-sky-400": {
+    "prefix": "to-sky-400",
+    "body": "to-sky-400"
+  },
+  "to-sky-500": {
+    "prefix": "to-sky-500",
+    "body": "to-sky-500"
+  },
+  "to-sky-600": {
+    "prefix": "to-sky-600",
+    "body": "to-sky-600"
+  },
+  "to-sky-700": {
+    "prefix": "to-sky-700",
+    "body": "to-sky-700"
+  },
+  "to-sky-800": {
+    "prefix": "to-sky-800",
+    "body": "to-sky-800"
+  },
+  "to-sky-900": {
+    "prefix": "to-sky-900",
+    "body": "to-sky-900"
+  },
+  "to-sky-950": {
+    "prefix": "to-sky-950",
+    "body": "to-sky-950"
+  },
+  "to-blue-50": {
+    "prefix": "to-blue-50",
+    "body": "to-blue-50"
+  },
+  "to-blue-100": {
+    "prefix": "to-blue-100",
+    "body": "to-blue-100"
+  },
+  "to-blue-200": {
+    "prefix": "to-blue-200",
+    "body": "to-blue-200"
+  },
+  "to-blue-300": {
+    "prefix": "to-blue-300",
+    "body": "to-blue-300"
+  },
+  "to-blue-400": {
+    "prefix": "to-blue-400",
+    "body": "to-blue-400"
+  },
+  "to-blue-500": {
+    "prefix": "to-blue-500",
+    "body": "to-blue-500"
+  },
+  "to-blue-600": {
+    "prefix": "to-blue-600",
+    "body": "to-blue-600"
+  },
+  "to-blue-700": {
+    "prefix": "to-blue-700",
+    "body": "to-blue-700"
+  },
+  "to-blue-800": {
+    "prefix": "to-blue-800",
+    "body": "to-blue-800"
+  },
+  "to-blue-900": {
+    "prefix": "to-blue-900",
+    "body": "to-blue-900"
+  },
+  "to-blue-950": {
+    "prefix": "to-blue-950",
+    "body": "to-blue-950"
+  },
+  "to-indigo-50": {
+    "prefix": "to-indigo-50",
+    "body": "to-indigo-50"
+  },
+  "to-indigo-100": {
+    "prefix": "to-indigo-100",
+    "body": "to-indigo-100"
+  },
+  "to-indigo-200": {
+    "prefix": "to-indigo-200",
+    "body": "to-indigo-200"
+  },
+  "to-indigo-300": {
+    "prefix": "to-indigo-300",
+    "body": "to-indigo-300"
+  },
+  "to-indigo-400": {
+    "prefix": "to-indigo-400",
+    "body": "to-indigo-400"
+  },
+  "to-indigo-500": {
+    "prefix": "to-indigo-500",
+    "body": "to-indigo-500"
+  },
+  "to-indigo-600": {
+    "prefix": "to-indigo-600",
+    "body": "to-indigo-600"
+  },
+  "to-indigo-700": {
+    "prefix": "to-indigo-700",
+    "body": "to-indigo-700"
+  },
+  "to-indigo-800": {
+    "prefix": "to-indigo-800",
+    "body": "to-indigo-800"
+  },
+  "to-indigo-900": {
+    "prefix": "to-indigo-900",
+    "body": "to-indigo-900"
+  },
+  "to-indigo-950": {
+    "prefix": "to-indigo-950",
+    "body": "to-indigo-950"
+  },
+  "to-violet-50": {
+    "prefix": "to-violet-50",
+    "body": "to-violet-50"
+  },
+  "to-violet-100": {
+    "prefix": "to-violet-100",
+    "body": "to-violet-100"
+  },
+  "to-violet-200": {
+    "prefix": "to-violet-200",
+    "body": "to-violet-200"
+  },
+  "to-violet-300": {
+    "prefix": "to-violet-300",
+    "body": "to-violet-300"
+  },
+  "to-violet-400": {
+    "prefix": "to-violet-400",
+    "body": "to-violet-400"
+  },
+  "to-violet-500": {
+    "prefix": "to-violet-500",
+    "body": "to-violet-500"
+  },
+  "to-violet-600": {
+    "prefix": "to-violet-600",
+    "body": "to-violet-600"
+  },
+  "to-violet-700": {
+    "prefix": "to-violet-700",
+    "body": "to-violet-700"
+  },
+  "to-violet-800": {
+    "prefix": "to-violet-800",
+    "body": "to-violet-800"
+  },
+  "to-violet-900": {
+    "prefix": "to-violet-900",
+    "body": "to-violet-900"
+  },
+  "to-violet-950": {
+    "prefix": "to-violet-950",
+    "body": "to-violet-950"
+  },
+  "to-purple-50": {
+    "prefix": "to-purple-50",
+    "body": "to-purple-50"
+  },
+  "to-purple-100": {
+    "prefix": "to-purple-100",
+    "body": "to-purple-100"
+  },
+  "to-purple-200": {
+    "prefix": "to-purple-200",
+    "body": "to-purple-200"
+  },
+  "to-purple-300": {
+    "prefix": "to-purple-300",
+    "body": "to-purple-300"
+  },
+  "to-purple-400": {
+    "prefix": "to-purple-400",
+    "body": "to-purple-400"
+  },
+  "to-purple-500": {
+    "prefix": "to-purple-500",
+    "body": "to-purple-500"
+  },
+  "to-purple-600": {
+    "prefix": "to-purple-600",
+    "body": "to-purple-600"
+  },
+  "to-purple-700": {
+    "prefix": "to-purple-700",
+    "body": "to-purple-700"
+  },
+  "to-purple-800": {
+    "prefix": "to-purple-800",
+    "body": "to-purple-800"
+  },
+  "to-purple-900": {
+    "prefix": "to-purple-900",
+    "body": "to-purple-900"
+  },
+  "to-purple-950": {
+    "prefix": "to-purple-950",
+    "body": "to-purple-950"
+  },
+  "to-fuchsia-50": {
+    "prefix": "to-fuchsia-50",
+    "body": "to-fuchsia-50"
+  },
+  "to-fuchsia-100": {
+    "prefix": "to-fuchsia-100",
+    "body": "to-fuchsia-100"
+  },
+  "to-fuchsia-200": {
+    "prefix": "to-fuchsia-200",
+    "body": "to-fuchsia-200"
+  },
+  "to-fuchsia-300": {
+    "prefix": "to-fuchsia-300",
+    "body": "to-fuchsia-300"
+  },
+  "to-fuchsia-400": {
+    "prefix": "to-fuchsia-400",
+    "body": "to-fuchsia-400"
+  },
+  "to-fuchsia-500": {
+    "prefix": "to-fuchsia-500",
+    "body": "to-fuchsia-500"
+  },
+  "to-fuchsia-600": {
+    "prefix": "to-fuchsia-600",
+    "body": "to-fuchsia-600"
+  },
+  "to-fuchsia-700": {
+    "prefix": "to-fuchsia-700",
+    "body": "to-fuchsia-700"
+  },
+  "to-fuchsia-800": {
+    "prefix": "to-fuchsia-800",
+    "body": "to-fuchsia-800"
+  },
+  "to-fuchsia-900": {
+    "prefix": "to-fuchsia-900",
+    "body": "to-fuchsia-900"
+  },
+  "to-fuchsia-950": {
+    "prefix": "to-fuchsia-950",
+    "body": "to-fuchsia-950"
+  },
+  "to-pink-50": {
+    "prefix": "to-pink-50",
+    "body": "to-pink-50"
+  },
+  "to-pink-100": {
+    "prefix": "to-pink-100",
+    "body": "to-pink-100"
+  },
+  "to-pink-200": {
+    "prefix": "to-pink-200",
+    "body": "to-pink-200"
+  },
+  "to-pink-300": {
+    "prefix": "to-pink-300",
+    "body": "to-pink-300"
+  },
+  "to-pink-400": {
+    "prefix": "to-pink-400",
+    "body": "to-pink-400"
+  },
+  "to-pink-500": {
+    "prefix": "to-pink-500",
+    "body": "to-pink-500"
+  },
+  "to-pink-600": {
+    "prefix": "to-pink-600",
+    "body": "to-pink-600"
+  },
+  "to-pink-700": {
+    "prefix": "to-pink-700",
+    "body": "to-pink-700"
+  },
+  "to-pink-800": {
+    "prefix": "to-pink-800",
+    "body": "to-pink-800"
+  },
+  "to-pink-900": {
+    "prefix": "to-pink-900",
+    "body": "to-pink-900"
+  },
+  "to-pink-950": {
+    "prefix": "to-pink-950",
+    "body": "to-pink-950"
+  },
+  "to-rose-50": {
+    "prefix": "to-rose-50",
+    "body": "to-rose-50"
+  },
+  "to-rose-100": {
+    "prefix": "to-rose-100",
+    "body": "to-rose-100"
+  },
+  "to-rose-200": {
+    "prefix": "to-rose-200",
+    "body": "to-rose-200"
+  },
+  "to-rose-300": {
+    "prefix": "to-rose-300",
+    "body": "to-rose-300"
+  },
+  "to-rose-400": {
+    "prefix": "to-rose-400",
+    "body": "to-rose-400"
+  },
+  "to-rose-500": {
+    "prefix": "to-rose-500",
+    "body": "to-rose-500"
+  },
+  "to-rose-600": {
+    "prefix": "to-rose-600",
+    "body": "to-rose-600"
+  },
+  "to-rose-700": {
+    "prefix": "to-rose-700",
+    "body": "to-rose-700"
+  },
+  "to-rose-800": {
+    "prefix": "to-rose-800",
+    "body": "to-rose-800"
+  },
+  "to-rose-900": {
+    "prefix": "to-rose-900",
+    "body": "to-rose-900"
+  },
+  "to-rose-950": {
+    "prefix": "to-rose-950",
+    "body": "to-rose-950"
+  },
+  "to-0%": {
+    "prefix": "to-0%",
+    "body": "to-0%"
+  },
+  "to-5%": {
+    "prefix": "to-5%",
+    "body": "to-5%"
+  },
+  "to-10%": {
+    "prefix": "to-10%",
+    "body": "to-10%"
+  },
+  "to-15%": {
+    "prefix": "to-15%",
+    "body": "to-15%"
+  },
+  "to-20%": {
+    "prefix": "to-20%",
+    "body": "to-20%"
+  },
+  "to-25%": {
+    "prefix": "to-25%",
+    "body": "to-25%"
+  },
+  "to-30%": {
+    "prefix": "to-30%",
+    "body": "to-30%"
+  },
+  "to-35%": {
+    "prefix": "to-35%",
+    "body": "to-35%"
+  },
+  "to-40%": {
+    "prefix": "to-40%",
+    "body": "to-40%"
+  },
+  "to-45%": {
+    "prefix": "to-45%",
+    "body": "to-45%"
+  },
+  "to-50%": {
+    "prefix": "to-50%",
+    "body": "to-50%"
+  },
+  "to-55%": {
+    "prefix": "to-55%",
+    "body": "to-55%"
+  },
+  "to-60%": {
+    "prefix": "to-60%",
+    "body": "to-60%"
+  },
+  "to-65%": {
+    "prefix": "to-65%",
+    "body": "to-65%"
+  },
+  "to-70%": {
+    "prefix": "to-70%",
+    "body": "to-70%"
+  },
+  "to-75%": {
+    "prefix": "to-75%",
+    "body": "to-75%"
+  },
+  "to-80%": {
+    "prefix": "to-80%",
+    "body": "to-80%"
+  },
+  "to-85%": {
+    "prefix": "to-85%",
+    "body": "to-85%"
+  },
+  "to-90%": {
+    "prefix": "to-90%",
+    "body": "to-90%"
+  },
+  "to-95%": {
+    "prefix": "to-95%",
+    "body": "to-95%"
+  },
+  "to-100%": {
+    "prefix": "to-100%",
+    "body": "to-100%"
+  }
+}

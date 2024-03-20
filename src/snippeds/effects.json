@@ -1,0 +1,1238 @@
+{
+  "shadow-sm": {
+    "prefix": "shadow-sm",
+    "body": "shadow-sm"
+  },
+  "shadow": {
+    "prefix": "shadow",
+    "body": "shadow"
+  },
+  "shadow-md": {
+    "prefix": "shadow-md",
+    "body": "shadow-md"
+  },
+  "shadow-lg": {
+    "prefix": "shadow-lg",
+    "body": "shadow-lg"
+  },
+  "shadow-xl": {
+    "prefix": "shadow-xl",
+    "body": "shadow-xl"
+  },
+  "shadow-2xl": {
+    "prefix": "shadow-2xl",
+    "body": "shadow-2xl"
+  },
+  "shadow-inner": {
+    "prefix": "shadow-inner",
+    "body": "shadow-inner"
+  },
+  "shadow-none": {
+    "prefix": "shadow-none",
+    "body": "shadow-none"
+  },
+  "shadow-inherit": {
+    "prefix": "shadow-inherit",
+    "body": "shadow-inherit"
+  },
+  "shadow-current": {
+    "prefix": "shadow-current",
+    "body": "shadow-current"
+  },
+  "shadow-transparent": {
+    "prefix": "shadow-transparent",
+    "body": "shadow-transparent"
+  },
+  "shadow-black": {
+    "prefix": "shadow-black",
+    "body": "shadow-black"
+  },
+  "shadow-white": {
+    "prefix": "shadow-white",
+    "body": "shadow-white"
+  },
+  "shadow-slate-50": {
+    "prefix": "shadow-slate-50",
+    "body": "shadow-slate-50"
+  },
+  "shadow-slate-100": {
+    "prefix": "shadow-slate-100",
+    "body": "shadow-slate-100"
+  },
+  "shadow-slate-200": {
+    "prefix": "shadow-slate-200",
+    "body": "shadow-slate-200"
+  },
+  "shadow-slate-300": {
+    "prefix": "shadow-slate-300",
+    "body": "shadow-slate-300"
+  },
+  "shadow-slate-400": {
+    "prefix": "shadow-slate-400",
+    "body": "shadow-slate-400"
+  },
+  "shadow-slate-500": {
+    "prefix": "shadow-slate-500",
+    "body": "shadow-slate-500"
+  },
+  "shadow-slate-600": {
+    "prefix": "shadow-slate-600",
+    "body": "shadow-slate-600"
+  },
+  "shadow-slate-700": {
+    "prefix": "shadow-slate-700",
+    "body": "shadow-slate-700"
+  },
+  "shadow-slate-800": {
+    "prefix": "shadow-slate-800",
+    "body": "shadow-slate-800"
+  },
+  "shadow-slate-900": {
+    "prefix": "shadow-slate-900",
+    "body": "shadow-slate-900"
+  },
+  "shadow-slate-950": {
+    "prefix": "shadow-slate-950",
+    "body": "shadow-slate-950"
+  },
+  "shadow-gray-50": {
+    "prefix": "shadow-gray-50",
+    "body": "shadow-gray-50"
+  },
+  "shadow-gray-100": {
+    "prefix": "shadow-gray-100",
+    "body": "shadow-gray-100"
+  },
+  "shadow-gray-200": {
+    "prefix": "shadow-gray-200",
+    "body": "shadow-gray-200"
+  },
+  "shadow-gray-300": {
+    "prefix": "shadow-gray-300",
+    "body": "shadow-gray-300"
+  },
+  "shadow-gray-400": {
+    "prefix": "shadow-gray-400",
+    "body": "shadow-gray-400"
+  },
+  "shadow-gray-500": {
+    "prefix": "shadow-gray-500",
+    "body": "shadow-gray-500"
+  },
+  "shadow-gray-600": {
+    "prefix": "shadow-gray-600",
+    "body": "shadow-gray-600"
+  },
+  "shadow-gray-700": {
+    "prefix": "shadow-gray-700",
+    "body": "shadow-gray-700"
+  },
+  "shadow-gray-800": {
+    "prefix": "shadow-gray-800",
+    "body": "shadow-gray-800"
+  },
+  "shadow-gray-900": {
+    "prefix": "shadow-gray-900",
+    "body": "shadow-gray-900"
+  },
+  "shadow-gray-950": {
+    "prefix": "shadow-gray-950",
+    "body": "shadow-gray-950"
+  },
+  "shadow-zinc-50": {
+    "prefix": "shadow-zinc-50",
+    "body": "shadow-zinc-50"
+  },
+  "shadow-zinc-100": {
+    "prefix": "shadow-zinc-100",
+    "body": "shadow-zinc-100"
+  },
+  "shadow-zinc-200": {
+    "prefix": "shadow-zinc-200",
+    "body": "shadow-zinc-200"
+  },
+  "shadow-zinc-300": {
+    "prefix": "shadow-zinc-300",
+    "body": "shadow-zinc-300"
+  },
+  "shadow-zinc-400": {
+    "prefix": "shadow-zinc-400",
+    "body": "shadow-zinc-400"
+  },
+  "shadow-zinc-500": {
+    "prefix": "shadow-zinc-500",
+    "body": "shadow-zinc-500"
+  },
+  "shadow-zinc-600": {
+    "prefix": "shadow-zinc-600",
+    "body": "shadow-zinc-600"
+  },
+  "shadow-zinc-700": {
+    "prefix": "shadow-zinc-700",
+    "body": "shadow-zinc-700"
+  },
+  "shadow-zinc-800": {
+    "prefix": "shadow-zinc-800",
+    "body": "shadow-zinc-800"
+  },
+  "shadow-zinc-900": {
+    "prefix": "shadow-zinc-900",
+    "body": "shadow-zinc-900"
+  },
+  "shadow-zinc-950": {
+    "prefix": "shadow-zinc-950",
+    "body": "shadow-zinc-950"
+  },
+  "shadow-neutral-50": {
+    "prefix": "shadow-neutral-50",
+    "body": "shadow-neutral-50"
+  },
+  "shadow-neutral-100": {
+    "prefix": "shadow-neutral-100",
+    "body": "shadow-neutral-100"
+  },
+  "shadow-neutral-200": {
+    "prefix": "shadow-neutral-200",
+    "body": "shadow-neutral-200"
+  },
+  "shadow-neutral-300": {
+    "prefix": "shadow-neutral-300",
+    "body": "shadow-neutral-300"
+  },
+  "shadow-neutral-400": {
+    "prefix": "shadow-neutral-400",
+    "body": "shadow-neutral-400"
+  },
+  "shadow-neutral-500": {
+    "prefix": "shadow-neutral-500",
+    "body": "shadow-neutral-500"
+  },
+  "shadow-neutral-600": {
+    "prefix": "shadow-neutral-600",
+    "body": "shadow-neutral-600"
+  },
+  "shadow-neutral-700": {
+    "prefix": "shadow-neutral-700",
+    "body": "shadow-neutral-700"
+  },
+  "shadow-neutral-800": {
+    "prefix": "shadow-neutral-800",
+    "body": "shadow-neutral-800"
+  },
+  "shadow-neutral-900": {
+    "prefix": "shadow-neutral-900",
+    "body": "shadow-neutral-900"
+  },
+  "shadow-neutral-950": {
+    "prefix": "shadow-neutral-950",
+    "body": "shadow-neutral-950"
+  },
+  "shadow-stone-50": {
+    "prefix": "shadow-stone-50",
+    "body": "shadow-stone-50"
+  },
+  "shadow-stone-100": {
+    "prefix": "shadow-stone-100",
+    "body": "shadow-stone-100"
+  },
+  "shadow-stone-200": {
+    "prefix": "shadow-stone-200",
+    "body": "shadow-stone-200"
+  },
+  "shadow-stone-300": {
+    "prefix": "shadow-stone-300",
+    "body": "shadow-stone-300"
+  },
+  "shadow-stone-400": {
+    "prefix": "shadow-stone-400",
+    "body": "shadow-stone-400"
+  },
+  "shadow-stone-500": {
+    "prefix": "shadow-stone-500",
+    "body": "shadow-stone-500"
+  },
+  "shadow-stone-600": {
+    "prefix": "shadow-stone-600",
+    "body": "shadow-stone-600"
+  },
+  "shadow-stone-700": {
+    "prefix": "shadow-stone-700",
+    "body": "shadow-stone-700"
+  },
+  "shadow-stone-800": {
+    "prefix": "shadow-stone-800",
+    "body": "shadow-stone-800"
+  },
+  "shadow-stone-900": {
+    "prefix": "shadow-stone-900",
+    "body": "shadow-stone-900"
+  },
+  "shadow-stone-950": {
+    "prefix": "shadow-stone-950",
+    "body": "shadow-stone-950"
+  },
+  "shadow-red-50": {
+    "prefix": "shadow-red-50",
+    "body": "shadow-red-50"
+  },
+  "shadow-red-100": {
+    "prefix": "shadow-red-100",
+    "body": "shadow-red-100"
+  },
+  "shadow-red-200": {
+    "prefix": "shadow-red-200",
+    "body": "shadow-red-200"
+  },
+  "shadow-red-300": {
+    "prefix": "shadow-red-300",
+    "body": "shadow-red-300"
+  },
+  "shadow-red-400": {
+    "prefix": "shadow-red-400",
+    "body": "shadow-red-400"
+  },
+  "shadow-red-500": {
+    "prefix": "shadow-red-500",
+    "body": "shadow-red-500"
+  },
+  "shadow-red-600": {
+    "prefix": "shadow-red-600",
+    "body": "shadow-red-600"
+  },
+  "shadow-red-700": {
+    "prefix": "shadow-red-700",
+    "body": "shadow-red-700"
+  },
+  "shadow-red-800": {
+    "prefix": "shadow-red-800",
+    "body": "shadow-red-800"
+  },
+  "shadow-red-900": {
+    "prefix": "shadow-red-900",
+    "body": "shadow-red-900"
+  },
+  "shadow-red-950": {
+    "prefix": "shadow-red-950",
+    "body": "shadow-red-950"
+  },
+  "shadow-orange-50": {
+    "prefix": "shadow-orange-50",
+    "body": "shadow-orange-50"
+  },
+  "shadow-orange-100": {
+    "prefix": "shadow-orange-100",
+    "body": "shadow-orange-100"
+  },
+  "shadow-orange-200": {
+    "prefix": "shadow-orange-200",
+    "body": "shadow-orange-200"
+  },
+  "shadow-orange-300": {
+    "prefix": "shadow-orange-300",
+    "body": "shadow-orange-300"
+  },
+  "shadow-orange-400": {
+    "prefix": "shadow-orange-400",
+    "body": "shadow-orange-400"
+  },
+  "shadow-orange-500": {
+    "prefix": "shadow-orange-500",
+    "body": "shadow-orange-500"
+  },
+  "shadow-orange-600": {
+    "prefix": "shadow-orange-600",
+    "body": "shadow-orange-600"
+  },
+  "shadow-orange-700": {
+    "prefix": "shadow-orange-700",
+    "body": "shadow-orange-700"
+  },
+  "shadow-orange-800": {
+    "prefix": "shadow-orange-800",
+    "body": "shadow-orange-800"
+  },
+  "shadow-orange-900": {
+    "prefix": "shadow-orange-900",
+    "body": "shadow-orange-900"
+  },
+  "shadow-orange-950": {
+    "prefix": "shadow-orange-950",
+    "body": "shadow-orange-950"
+  },
+  "shadow-amber-50": {
+    "prefix": "shadow-amber-50",
+    "body": "shadow-amber-50"
+  },
+  "shadow-amber-100": {
+    "prefix": "shadow-amber-100",
+    "body": "shadow-amber-100"
+  },
+  "shadow-amber-200": {
+    "prefix": "shadow-amber-200",
+    "body": "shadow-amber-200"
+  },
+  "shadow-amber-300": {
+    "prefix": "shadow-amber-300",
+    "body": "shadow-amber-300"
+  },
+  "shadow-amber-400": {
+    "prefix": "shadow-amber-400",
+    "body": "shadow-amber-400"
+  },
+  "shadow-amber-500": {
+    "prefix": "shadow-amber-500",
+    "body": "shadow-amber-500"
+  },
+  "shadow-amber-600": {
+    "prefix": "shadow-amber-600",
+    "body": "shadow-amber-600"
+  },
+  "shadow-amber-700": {
+    "prefix": "shadow-amber-700",
+    "body": "shadow-amber-700"
+  },
+  "shadow-amber-800": {
+    "prefix": "shadow-amber-800",
+    "body": "shadow-amber-800"
+  },
+  "shadow-amber-900": {
+    "prefix": "shadow-amber-900",
+    "body": "shadow-amber-900"
+  },
+  "shadow-amber-950": {
+    "prefix": "shadow-amber-950",
+    "body": "shadow-amber-950"
+  },
+  "shadow-yellow-50": {
+    "prefix": "shadow-yellow-50",
+    "body": "shadow-yellow-50"
+  },
+  "shadow-yellow-100": {
+    "prefix": "shadow-yellow-100",
+    "body": "shadow-yellow-100"
+  },
+  "shadow-yellow-200": {
+    "prefix": "shadow-yellow-200",
+    "body": "shadow-yellow-200"
+  },
+  "shadow-yellow-300": {
+    "prefix": "shadow-yellow-300",
+    "body": "shadow-yellow-300"
+  },
+  "shadow-yellow-400": {
+    "prefix": "shadow-yellow-400",
+    "body": "shadow-yellow-400"
+  },
+  "shadow-yellow-500": {
+    "prefix": "shadow-yellow-500",
+    "body": "shadow-yellow-500"
+  },
+  "shadow-yellow-600": {
+    "prefix": "shadow-yellow-600",
+    "body": "shadow-yellow-600"
+  },
+  "shadow-yellow-700": {
+    "prefix": "shadow-yellow-700",
+    "body": "shadow-yellow-700"
+  },
+  "shadow-yellow-800": {
+    "prefix": "shadow-yellow-800",
+    "body": "shadow-yellow-800"
+  },
+  "shadow-yellow-900": {
+    "prefix": "shadow-yellow-900",
+    "body": "shadow-yellow-900"
+  },
+  "shadow-yellow-950": {
+    "prefix": "shadow-yellow-950",
+    "body": "shadow-yellow-950"
+  },
+  "shadow-lime-50": {
+    "prefix": "shadow-lime-50",
+    "body": "shadow-lime-50"
+  },
+  "shadow-lime-100": {
+    "prefix": "shadow-lime-100",
+    "body": "shadow-lime-100"
+  },
+  "shadow-lime-200": {
+    "prefix": "shadow-lime-200",
+    "body": "shadow-lime-200"
+  },
+  "shadow-lime-300": {
+    "prefix": "shadow-lime-300",
+    "body": "shadow-lime-300"
+  },
+  "shadow-lime-400": {
+    "prefix": "shadow-lime-400",
+    "body": "shadow-lime-400"
+  },
+  "shadow-lime-500": {
+    "prefix": "shadow-lime-500",
+    "body": "shadow-lime-500"
+  },
+  "shadow-lime-600": {
+    "prefix": "shadow-lime-600",
+    "body": "shadow-lime-600"
+  },
+  "shadow-lime-700": {
+    "prefix": "shadow-lime-700",
+    "body": "shadow-lime-700"
+  },
+  "shadow-lime-800": {
+    "prefix": "shadow-lime-800",
+    "body": "shadow-lime-800"
+  },
+  "shadow-lime-900": {
+    "prefix": "shadow-lime-900",
+    "body": "shadow-lime-900"
+  },
+  "shadow-lime-950": {
+    "prefix": "shadow-lime-950",
+    "body": "shadow-lime-950"
+  },
+  "shadow-green-50": {
+    "prefix": "shadow-green-50",
+    "body": "shadow-green-50"
+  },
+  "shadow-green-100": {
+    "prefix": "shadow-green-100",
+    "body": "shadow-green-100"
+  },
+  "shadow-green-200": {
+    "prefix": "shadow-green-200",
+    "body": "shadow-green-200"
+  },
+  "shadow-green-300": {
+    "prefix": "shadow-green-300",
+    "body": "shadow-green-300"
+  },
+  "shadow-green-400": {
+    "prefix": "shadow-green-400",
+    "body": "shadow-green-400"
+  },
+  "shadow-green-500": {
+    "prefix": "shadow-green-500",
+    "body": "shadow-green-500"
+  },
+  "shadow-green-600": {
+    "prefix": "shadow-green-600",
+    "body": "shadow-green-600"
+  },
+  "shadow-green-700": {
+    "prefix": "shadow-green-700",
+    "body": "shadow-green-700"
+  },
+  "shadow-green-800": {
+    "prefix": "shadow-green-800",
+    "body": "shadow-green-800"
+  },
+  "shadow-green-900": {
+    "prefix": "shadow-green-900",
+    "body": "shadow-green-900"
+  },
+  "shadow-green-950": {
+    "prefix": "shadow-green-950",
+    "body": "shadow-green-950"
+  },
+  "shadow-emerald-50": {
+    "prefix": "shadow-emerald-50",
+    "body": "shadow-emerald-50"
+  },
+  "shadow-emerald-100": {
+    "prefix": "shadow-emerald-100",
+    "body": "shadow-emerald-100"
+  },
+  "shadow-emerald-200": {
+    "prefix": "shadow-emerald-200",
+    "body": "shadow-emerald-200"
+  },
+  "shadow-emerald-300": {
+    "prefix": "shadow-emerald-300",
+    "body": "shadow-emerald-300"
+  },
+  "shadow-emerald-400": {
+    "prefix": "shadow-emerald-400",
+    "body": "shadow-emerald-400"
+  },
+  "shadow-emerald-500": {
+    "prefix": "shadow-emerald-500",
+    "body": "shadow-emerald-500"
+  },
+  "shadow-emerald-600": {
+    "prefix": "shadow-emerald-600",
+    "body": "shadow-emerald-600"
+  },
+  "shadow-emerald-700": {
+    "prefix": "shadow-emerald-700",
+    "body": "shadow-emerald-700"
+  },
+  "shadow-emerald-800": {
+    "prefix": "shadow-emerald-800",
+    "body": "shadow-emerald-800"
+  },
+  "shadow-emerald-900": {
+    "prefix": "shadow-emerald-900",
+    "body": "shadow-emerald-900"
+  },
+  "shadow-emerald-950": {
+    "prefix": "shadow-emerald-950",
+    "body": "shadow-emerald-950"
+  },
+  "shadow-teal-50": {
+    "prefix": "shadow-teal-50",
+    "body": "shadow-teal-50"
+  },
+  "shadow-teal-100": {
+    "prefix": "shadow-teal-100",
+    "body": "shadow-teal-100"
+  },
+  "shadow-teal-200": {
+    "prefix": "shadow-teal-200",
+    "body": "shadow-teal-200"
+  },
+  "shadow-teal-300": {
+    "prefix": "shadow-teal-300",
+    "body": "shadow-teal-300"
+  },
+  "shadow-teal-400": {
+    "prefix": "shadow-teal-400",
+    "body": "shadow-teal-400"
+  },
+  "shadow-teal-500": {
+    "prefix": "shadow-teal-500",
+    "body": "shadow-teal-500"
+  },
+  "shadow-teal-600": {
+    "prefix": "shadow-teal-600",
+    "body": "shadow-teal-600"
+  },
+  "shadow-teal-700": {
+    "prefix": "shadow-teal-700",
+    "body": "shadow-teal-700"
+  },
+  "shadow-teal-800": {
+    "prefix": "shadow-teal-800",
+    "body": "shadow-teal-800"
+  },
+  "shadow-teal-900": {
+    "prefix": "shadow-teal-900",
+    "body": "shadow-teal-900"
+  },
+  "shadow-teal-950": {
+    "prefix": "shadow-teal-950",
+    "body": "shadow-teal-950"
+  },
+  "shadow-cyan-50": {
+    "prefix": "shadow-cyan-50",
+    "body": "shadow-cyan-50"
+  },
+  "shadow-cyan-100": {
+    "prefix": "shadow-cyan-100",
+    "body": "shadow-cyan-100"
+  },
+  "shadow-cyan-200": {
+    "prefix": "shadow-cyan-200",
+    "body": "shadow-cyan-200"
+  },
+  "shadow-cyan-300": {
+    "prefix": "shadow-cyan-300",
+    "body": "shadow-cyan-300"
+  },
+  "shadow-cyan-400": {
+    "prefix": "shadow-cyan-400",
+    "body": "shadow-cyan-400"
+  },
+  "shadow-cyan-500": {
+    "prefix": "shadow-cyan-500",
+    "body": "shadow-cyan-500"
+  },
+  "shadow-cyan-600": {
+    "prefix": "shadow-cyan-600",
+    "body": "shadow-cyan-600"
+  },
+  "shadow-cyan-700": {
+    "prefix": "shadow-cyan-700",
+    "body": "shadow-cyan-700"
+  },
+  "shadow-cyan-800": {
+    "prefix": "shadow-cyan-800",
+    "body": "shadow-cyan-800"
+  },
+  "shadow-cyan-900": {
+    "prefix": "shadow-cyan-900",
+    "body": "shadow-cyan-900"
+  },
+  "shadow-cyan-950": {
+    "prefix": "shadow-cyan-950",
+    "body": "shadow-cyan-950"
+  },
+  "shadow-sky-50": {
+    "prefix": "shadow-sky-50",
+    "body": "shadow-sky-50"
+  },
+  "shadow-sky-100": {
+    "prefix": "shadow-sky-100",
+    "body": "shadow-sky-100"
+  },
+  "shadow-sky-200": {
+    "prefix": "shadow-sky-200",
+    "body": "shadow-sky-200"
+  },
+  "shadow-sky-300": {
+    "prefix": "shadow-sky-300",
+    "body": "shadow-sky-300"
+  },
+  "shadow-sky-400": {
+    "prefix": "shadow-sky-400",
+    "body": "shadow-sky-400"
+  },
+  "shadow-sky-500": {
+    "prefix": "shadow-sky-500",
+    "body": "shadow-sky-500"
+  },
+  "shadow-sky-600": {
+    "prefix": "shadow-sky-600",
+    "body": "shadow-sky-600"
+  },
+  "shadow-sky-700": {
+    "prefix": "shadow-sky-700",
+    "body": "shadow-sky-700"
+  },
+  "shadow-sky-800": {
+    "prefix": "shadow-sky-800",
+    "body": "shadow-sky-800"
+  },
+  "shadow-sky-900": {
+    "prefix": "shadow-sky-900",
+    "body": "shadow-sky-900"
+  },
+  "shadow-sky-950": {
+    "prefix": "shadow-sky-950",
+    "body": "shadow-sky-950"
+  },
+  "shadow-blue-50": {
+    "prefix": "shadow-blue-50",
+    "body": "shadow-blue-50"
+  },
+  "shadow-blue-100": {
+    "prefix": "shadow-blue-100",
+    "body": "shadow-blue-100"
+  },
+  "shadow-blue-200": {
+    "prefix": "shadow-blue-200",
+    "body": "shadow-blue-200"
+  },
+  "shadow-blue-300": {
+    "prefix": "shadow-blue-300",
+    "body": "shadow-blue-300"
+  },
+  "shadow-blue-400": {
+    "prefix": "shadow-blue-400",
+    "body": "shadow-blue-400"
+  },
+  "shadow-blue-500": {
+    "prefix": "shadow-blue-500",
+    "body": "shadow-blue-500"
+  },
+  "shadow-blue-600": {
+    "prefix": "shadow-blue-600",
+    "body": "shadow-blue-600"
+  },
+  "shadow-blue-700": {
+    "prefix": "shadow-blue-700",
+    "body": "shadow-blue-700"
+  },
+  "shadow-blue-800": {
+    "prefix": "shadow-blue-800",
+    "body": "shadow-blue-800"
+  },
+  "shadow-blue-900": {
+    "prefix": "shadow-blue-900",
+    "body": "shadow-blue-900"
+  },
+  "shadow-blue-950": {
+    "prefix": "shadow-blue-950",
+    "body": "shadow-blue-950"
+  },
+  "shadow-indigo-50": {
+    "prefix": "shadow-indigo-50",
+    "body": "shadow-indigo-50"
+  },
+  "shadow-indigo-100": {
+    "prefix": "shadow-indigo-100",
+    "body": "shadow-indigo-100"
+  },
+  "shadow-indigo-200": {
+    "prefix": "shadow-indigo-200",
+    "body": "shadow-indigo-200"
+  },
+  "shadow-indigo-300": {
+    "prefix": "shadow-indigo-300",
+    "body": "shadow-indigo-300"
+  },
+  "shadow-indigo-400": {
+    "prefix": "shadow-indigo-400",
+    "body": "shadow-indigo-400"
+  },
+  "shadow-indigo-500": {
+    "prefix": "shadow-indigo-500",
+    "body": "shadow-indigo-500"
+  },
+  "shadow-indigo-600": {
+    "prefix": "shadow-indigo-600",
+    "body": "shadow-indigo-600"
+  },
+  "shadow-indigo-700": {
+    "prefix": "shadow-indigo-700",
+    "body": "shadow-indigo-700"
+  },
+  "shadow-indigo-800": {
+    "prefix": "shadow-indigo-800",
+    "body": "shadow-indigo-800"
+  },
+  "shadow-indigo-900": {
+    "prefix": "shadow-indigo-900",
+    "body": "shadow-indigo-900"
+  },
+  "shadow-indigo-950": {
+    "prefix": "shadow-indigo-950",
+    "body": "shadow-indigo-950"
+  },
+  "shadow-violet-50": {
+    "prefix": "shadow-violet-50",
+    "body": "shadow-violet-50"
+  },
+  "shadow-violet-100": {
+    "prefix": "shadow-violet-100",
+    "body": "shadow-violet-100"
+  },
+  "shadow-violet-200": {
+    "prefix": "shadow-violet-200",
+    "body": "shadow-violet-200"
+  },
+  "shadow-violet-300": {
+    "prefix": "shadow-violet-300",
+    "body": "shadow-violet-300"
+  },
+  "shadow-violet-400": {
+    "prefix": "shadow-violet-400",
+    "body": "shadow-violet-400"
+  },
+  "shadow-violet-500": {
+    "prefix": "shadow-violet-500",
+    "body": "shadow-violet-500"
+  },
+  "shadow-violet-600": {
+    "prefix": "shadow-violet-600",
+    "body": "shadow-violet-600"
+  },
+  "shadow-violet-700": {
+    "prefix": "shadow-violet-700",
+    "body": "shadow-violet-700"
+  },
+  "shadow-violet-800": {
+    "prefix": "shadow-violet-800",
+    "body": "shadow-violet-800"
+  },
+  "shadow-violet-900": {
+    "prefix": "shadow-violet-900",
+    "body": "shadow-violet-900"
+  },
+  "shadow-violet-950": {
+    "prefix": "shadow-violet-950",
+    "body": "shadow-violet-950"
+  },
+  "shadow-purple-50": {
+    "prefix": "shadow-purple-50",
+    "body": "shadow-purple-50"
+  },
+  "shadow-purple-100": {
+    "prefix": "shadow-purple-100",
+    "body": "shadow-purple-100"
+  },
+  "shadow-purple-200": {
+    "prefix": "shadow-purple-200",
+    "body": "shadow-purple-200"
+  },
+  "shadow-purple-300": {
+    "prefix": "shadow-purple-300",
+    "body": "shadow-purple-300"
+  },
+  "shadow-purple-400": {
+    "prefix": "shadow-purple-400",
+    "body": "shadow-purple-400"
+  },
+  "shadow-purple-500": {
+    "prefix": "shadow-purple-500",
+    "body": "shadow-purple-500"
+  },
+  "shadow-purple-600": {
+    "prefix": "shadow-purple-600",
+    "body": "shadow-purple-600"
+  },
+  "shadow-purple-700": {
+    "prefix": "shadow-purple-700",
+    "body": "shadow-purple-700"
+  },
+  "shadow-purple-800": {
+    "prefix": "shadow-purple-800",
+    "body": "shadow-purple-800"
+  },
+  "shadow-purple-900": {
+    "prefix": "shadow-purple-900",
+    "body": "shadow-purple-900"
+  },
+  "shadow-purple-950": {
+    "prefix": "shadow-purple-950",
+    "body": "shadow-purple-950"
+  },
+  "shadow-fuchsia-50": {
+    "prefix": "shadow-fuchsia-50",
+    "body": "shadow-fuchsia-50"
+  },
+  "shadow-fuchsia-100": {
+    "prefix": "shadow-fuchsia-100",
+    "body": "shadow-fuchsia-100"
+  },
+  "shadow-fuchsia-200": {
+    "prefix": "shadow-fuchsia-200",
+    "body": "shadow-fuchsia-200"
+  },
+  "shadow-fuchsia-300": {
+    "prefix": "shadow-fuchsia-300",
+    "body": "shadow-fuchsia-300"
+  },
+  "shadow-fuchsia-400": {
+    "prefix": "shadow-fuchsia-400",
+    "body": "shadow-fuchsia-400"
+  },
+  "shadow-fuchsia-500": {
+    "prefix": "shadow-fuchsia-500",
+    "body": "shadow-fuchsia-500"
+  },
+  "shadow-fuchsia-600": {
+    "prefix": "shadow-fuchsia-600",
+    "body": "shadow-fuchsia-600"
+  },
+  "shadow-fuchsia-700": {
+    "prefix": "shadow-fuchsia-700",
+    "body": "shadow-fuchsia-700"
+  },
+  "shadow-fuchsia-800": {
+    "prefix": "shadow-fuchsia-800",
+    "body": "shadow-fuchsia-800"
+  },
+  "shadow-fuchsia-900": {
+    "prefix": "shadow-fuchsia-900",
+    "body": "shadow-fuchsia-900"
+  },
+  "shadow-fuchsia-950": {
+    "prefix": "shadow-fuchsia-950",
+    "body": "shadow-fuchsia-950"
+  },
+  "shadow-pink-50": {
+    "prefix": "shadow-pink-50",
+    "body": "shadow-pink-50"
+  },
+  "shadow-pink-100": {
+    "prefix": "shadow-pink-100",
+    "body": "shadow-pink-100"
+  },
+  "shadow-pink-200": {
+    "prefix": "shadow-pink-200",
+    "body": "shadow-pink-200"
+  },
+  "shadow-pink-300": {
+    "prefix": "shadow-pink-300",
+    "body": "shadow-pink-300"
+  },
+  "shadow-pink-400": {
+    "prefix": "shadow-pink-400",
+    "body": "shadow-pink-400"
+  },
+  "shadow-pink-500": {
+    "prefix": "shadow-pink-500",
+    "body": "shadow-pink-500"
+  },
+  "shadow-pink-600": {
+    "prefix": "shadow-pink-600",
+    "body": "shadow-pink-600"
+  },
+  "shadow-pink-700": {
+    "prefix": "shadow-pink-700",
+    "body": "shadow-pink-700"
+  },
+  "shadow-pink-800": {
+    "prefix": "shadow-pink-800",
+    "body": "shadow-pink-800"
+  },
+  "shadow-pink-900": {
+    "prefix": "shadow-pink-900",
+    "body": "shadow-pink-900"
+  },
+  "shadow-pink-950": {
+    "prefix": "shadow-pink-950",
+    "body": "shadow-pink-950"
+  },
+  "shadow-rose-50": {
+    "prefix": "shadow-rose-50",
+    "body": "shadow-rose-50"
+  },
+  "shadow-rose-100": {
+    "prefix": "shadow-rose-100",
+    "body": "shadow-rose-100"
+  },
+  "shadow-rose-200": {
+    "prefix": "shadow-rose-200",
+    "body": "shadow-rose-200"
+  },
+  "shadow-rose-300": {
+    "prefix": "shadow-rose-300",
+    "body": "shadow-rose-300"
+  },
+  "shadow-rose-400": {
+    "prefix": "shadow-rose-400",
+    "body": "shadow-rose-400"
+  },
+  "shadow-rose-500": {
+    "prefix": "shadow-rose-500",
+    "body": "shadow-rose-500"
+  },
+  "shadow-rose-600": {
+    "prefix": "shadow-rose-600",
+    "body": "shadow-rose-600"
+  },
+  "shadow-rose-700": {
+    "prefix": "shadow-rose-700",
+    "body": "shadow-rose-700"
+  },
+  "shadow-rose-800": {
+    "prefix": "shadow-rose-800",
+    "body": "shadow-rose-800"
+  },
+  "shadow-rose-900": {
+    "prefix": "shadow-rose-900",
+    "body": "shadow-rose-900"
+  },
+  "shadow-rose-950": {
+    "prefix": "shadow-rose-950",
+    "body": "shadow-rose-950"
+  },
+  "opacity-0": {
+    "prefix": "opacity-0",
+    "body": "opacity-0"
+  },
+  "opacity-5": {
+    "prefix": "opacity-5",
+    "body": "opacity-5"
+  },
+  "opacity-10": {
+    "prefix": "opacity-10",
+    "body": "opacity-10"
+  },
+  "opacity-15": {
+    "prefix": "opacity-15",
+    "body": "opacity-15"
+  },
+  "opacity-20": {
+    "prefix": "opacity-20",
+    "body": "opacity-20"
+  },
+  "opacity-25": {
+    "prefix": "opacity-25",
+    "body": "opacity-25"
+  },
+  "opacity-30": {
+    "prefix": "opacity-30",
+    "body": "opacity-30"
+  },
+  "opacity-35": {
+    "prefix": "opacity-35",
+    "body": "opacity-35"
+  },
+  "opacity-40": {
+    "prefix": "opacity-40",
+    "body": "opacity-40"
+  },
+  "opacity-45": {
+    "prefix": "opacity-45",
+    "body": "opacity-45"
+  },
+  "opacity-50": {
+    "prefix": "opacity-50",
+    "body": "opacity-50"
+  },
+  "opacity-55": {
+    "prefix": "opacity-55",
+    "body": "opacity-55"
+  },
+  "opacity-60": {
+    "prefix": "opacity-60",
+    "body": "opacity-60"
+  },
+  "opacity-65": {
+    "prefix": "opacity-65",
+    "body": "opacity-65"
+  },
+  "opacity-70": {
+    "prefix": "opacity-70",
+    "body": "opacity-70"
+  },
+  "opacity-75": {
+    "prefix": "opacity-75",
+    "body": "opacity-75"
+  },
+  "opacity-80": {
+    "prefix": "opacity-80",
+    "body": "opacity-80"
+  },
+  "opacity-85": {
+    "prefix": "opacity-85",
+    "body": "opacity-85"
+  },
+  "opacity-90": {
+    "prefix": "opacity-90",
+    "body": "opacity-90"
+  },
+  "opacity-95": {
+    "prefix": "opacity-95",
+    "body": "opacity-95"
+  },
+  "opacity-100": {
+    "prefix": "opacity-100",
+    "body": "opacity-100"
+  },
+  "mix-blend-normal": {
+    "prefix": "mix-blend-normal",
+    "body": "mix-blend-normal"
+  },
+  "mix-blend-multiply": {
+    "prefix": "mix-blend-multiply",
+    "body": "mix-blend-multiply"
+  },
+  "mix-blend-screen": {
+    "prefix": "mix-blend-screen",
+    "body": "mix-blend-screen"
+  },
+  "mix-blend-overlay": {
+    "prefix": "mix-blend-overlay",
+    "body": "mix-blend-overlay"
+  },
+  "mix-blend-darken": {
+    "prefix": "mix-blend-darken",
+    "body": "mix-blend-darken"
+  },
+  "mix-blend-lighten": {
+    "prefix": "mix-blend-lighten",
+    "body": "mix-blend-lighten"
+  },
+  "mix-blend-color-dodge": {
+    "prefix": "mix-blend-color-dodge",
+    "body": "mix-blend-color-dodge"
+  },
+  "mix-blend-color-burn": {
+    "prefix": "mix-blend-color-burn",
+    "body": "mix-blend-color-burn"
+  },
+  "mix-blend-hard-light": {
+    "prefix": "mix-blend-hard-light",
+    "body": "mix-blend-hard-light"
+  },
+  "mix-blend-soft-light": {
+    "prefix": "mix-blend-soft-light",
+    "body": "mix-blend-soft-light"
+  },
+  "mix-blend-difference": {
+    "prefix": "mix-blend-difference",
+    "body": "mix-blend-difference"
+  },
+  "mix-blend-exclusion": {
+    "prefix": "mix-blend-exclusion",
+    "body": "mix-blend-exclusion"
+  },
+  "mix-blend-hue": {
+    "prefix": "mix-blend-hue",
+    "body": "mix-blend-hue"
+  },
+  "mix-blend-saturation": {
+    "prefix": "mix-blend-saturation",
+    "body": "mix-blend-saturation"
+  },
+  "mix-blend-color": {
+    "prefix": "mix-blend-color",
+    "body": "mix-blend-color"
+  },
+  "mix-blend-luminosity": {
+    "prefix": "mix-blend-luminosity",
+    "body": "mix-blend-luminosity"
+  },
+  "mix-blend-plus-lighter": {
+    "prefix": "mix-blend-plus-lighter",
+    "body": "mix-blend-plus-lighter"
+  },
+  "bg-blend-normal": {
+    "prefix": "bg-blend-normal",
+    "body": "bg-blend-normal"
+  },
+  "bg-blend-multiply": {
+    "prefix": "bg-blend-multiply",
+    "body": "bg-blend-multiply"
+  },
+  "bg-blend-screen": {
+    "prefix": "bg-blend-screen",
+    "body": "bg-blend-screen"
+  },
+  "bg-blend-overlay": {
+    "prefix": "bg-blend-overlay",
+    "body": "bg-blend-overlay"
+  },
+  "bg-blend-darken": {
+    "prefix": "bg-blend-darken",
+    "body": "bg-blend-darken"
+  },
+  "bg-blend-lighten": {
+    "prefix": "bg-blend-lighten",
+    "body": "bg-blend-lighten"
+  },
+  "bg-blend-color-dodge": {
+    "prefix": "bg-blend-color-dodge",
+    "body": "bg-blend-color-dodge"
+  },
+  "bg-blend-color-burn": {
+    "prefix": "bg-blend-color-burn",
+    "body": "bg-blend-color-burn"
+  },
+  "bg-blend-hard-light": {
+    "prefix": "bg-blend-hard-light",
+    "body": "bg-blend-hard-light"
+  },
+  "bg-blend-soft-light": {
+    "prefix": "bg-blend-soft-light",
+    "body": "bg-blend-soft-light"
+  },
+  "bg-blend-difference": {
+    "prefix": "bg-blend-difference",
+    "body": "bg-blend-difference"
+  },
+  "bg-blend-exclusion": {
+    "prefix": "bg-blend-exclusion",
+    "body": "bg-blend-exclusion"
+  },
+  "bg-blend-hue": {
+    "prefix": "bg-blend-hue",
+    "body": "bg-blend-hue"
+  },
+  "bg-blend-saturation": {
+    "prefix": "bg-blend-saturation",
+    "body": "bg-blend-saturation"
+  },
+  "bg-blend-color": {
+    "prefix": "bg-blend-color",
+    "body": "bg-blend-color"
+  },
+  "bg-blend-luminosity": {
+    "prefix": "bg-blend-luminosity",
+    "body": "bg-blend-luminosity"
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "blur-none": {
+    "prefix": "blur-none",
+    "body": "blur-none"
+  },
+  "blur-sm": {
+    "prefix": "blur-sm",
+    "body": "blur-sm"
+  },
+  "blur": {
+    "prefix": "blur",
+    "body": "blur"
+  },
+  "blur-md": {
+    "prefix": "blur-md",
+    "body": "blur-md"
+  },
+  "blur-lg": {
+    "prefix": "blur-lg",
+    "body": "blur-lg"
+  },
+  "blur-xl": {
+    "prefix": "blur-xl",
+    "body": "blur-xl"
+  },
+  "blur-2xl": {
+    "prefix": "blur-2xl",
+    "body": "blur-2xl"
+  },
+  "blur-3xl": {
+    "prefix": "blur-3xl",
+    "body": "blur-3xl"
+  },
+  "brightness-0": {
+    "prefix": "brightness-0",
+    "body": "brightness-0"
+  },
+  "brightness-50": {
+    "prefix": "brightness-50",
+    "body": "brightness-50"
+  },
+  "brightness-75": {
+    "prefix": "brightness-75",
+    "body": "brightness-75"
+  },
+  "brightness-90": {
+    "prefix": "brightness-90",
+    "body": "brightness-90"
+  },
+  "brightness-95": {
+    "prefix": "brightness-95",
+    "body": "brightness-95"
+  },
+  "brightness-100": {
+    "prefix": "brightness-100",
+    "body": "brightness-100"
+  },
+  "brightness-105": {
+    "prefix": "brightness-105",
+    "body": "brightness-105"
+  },
+  "brightness-110": {
+    "prefix": "brightness-110",
+    "body": "brightness-110"
+  },
+  "brightness-125": {
+    "prefix": "brightness-125",
+    "body": "brightness-125"
+  },
+  "brightness-150": {
+    "prefix": "brightness-150",
+    "body": "brightness-150"
+  },
+  "brightness-200": {
+    "prefix": "brightness-200",
+    "body": "brightness-200"
+  },
+  "contrast-0": {
+    "prefix": "contrast-0",
+    "body": "contrast-0"
+  },
+  "contrast-50": {
+    "prefix": "contrast-50",
+    "body": "contrast-50"
+  },
+  "contrast-75": {
+    "prefix": "contrast-75",
+    "body": "contrast-75"
+  },
+  "contrast-100": {
+    "prefix": "contrast-100",
+    "body": "contrast-100"
+  },
+  "contrast-125": {
+    "prefix": "contrast-125",
+    "body": "contrast-125"
+  },
+  "contrast-150": {
+    "prefix": "contrast-150",
+    "body": "contrast-150"
+  },
+  "contrast-200": {
+    "prefix": "contrast-200",
+    "body": "contrast-200"
+  },
+  "drop-shadow-sm": {
+    "prefix": "drop-shadow-sm",
+    "body": "drop-shadow-sm"
+  },
+  "drop-shadow": {
+    "prefix": "drop-shadow",
+    "body": "drop-shadow"
+  },
+  "drop-shadow-md": {
+    "prefix": "drop-shadow-md",
+    "body": "drop-shadow-md"
+  },
+  "drop-shadow-lg": {
+    "prefix": "drop-shadow-lg",
+    "body": "drop-shadow-lg"
+  },
+  "drop-shadow-xl": {
+    "prefix": "drop-shadow-xl",
+    "body": "drop-shadow-xl"
+  },
+  "drop-shadow-2xl": {
+    "prefix": "drop-shadow-2xl",
+    "body": "drop-shadow-2xl"
+  },
+  "drop-shadow-none": {
+    "prefix": "drop-shadow-none",
+    "body": "drop-shadow-none"
+  },
+  "grayscale-0": {
+    "prefix": "grayscale-0",
+    "body": "grayscale-0"
+  },
+  "grayscale": {
+    "prefix": "grayscale",
+    "body": "grayscale"
+  },
+  "hue-rotate-0": {
+    "prefix": "hue-rotate-0",
+    "body": "hue-rotate-0"
+  },
+  "hue-rotate-15": {
+    "prefix": "hue-rotate-15",
+    "body": "hue-rotate-15"
+  },
+  "hue-rotate-30": {
+    "prefix": "hue-rotate-30",
+    "body": "hue-rotate-30"
+  },
+  "hue-rotate-60": {
+    "prefix": "hue-rotate-60",
+    "body": "hue-rotate-60"
+  },
+  "hue-rotate-90": {
+    "prefix": "hue-rotate-90",
+    "body": "hue-rotate-90"
+  },
+  "hue-rotate-180": {
+    "prefix": "hue-rotate-180",
+    "body": "hue-rotate-180"
+  },
+  "invert-0": {
+    "prefix": "invert-0",
+    "body": "invert-0"
+  },
+  "invert": {
+    "prefix": "invert",
+    "body": "invert"
+  },
+  "saturate-0": {
+    "prefix": "saturate-0",
+    "body": "saturate-0"
+  },
+  "saturate-50": {
+    "prefix": "saturate-50",
+    "body": "saturate-50"
+  },
+  "saturate-100": {
+    "prefix": "saturate-100",
+    "body": "saturate-100"
+  },
+  "saturate-150": {
+    "prefix": "saturate-150",
+    "body": "saturate-150"
+  },
+  "saturate-200": {
+    "prefix": "saturate-200",
+    "body": "saturate-200"
+  },
+  "sepia-0": {
+    "prefix": "sepia-0",
+    "body": "sepia-0"
+  },
+  "sepia": {
+    "prefix": "sepia",
+    "body": "sepia"
+  },
+  "backdrop-blur-none": {
+    "prefix": "backdrop-blur-none",
+    "body": "backdrop-blur-none"
+  },
+  "backdrop-blur-sm": {
+    "prefix": "backdrop-blur-sm",
+    "body": "backdrop-blur-sm"
+  },
+  "backdrop-blur": {
+    "prefix": "backdrop-blur",
+    "body": "backdrop-blur"
+  },
+  "backdrop-blur-md": {
+    "prefix": "backdrop-blur-md",
+    "body": "backdrop-blur-md"
+  },
+  "backdrop-blur-lg": {
+    "prefix": "backdrop-blur-lg",
+    "body": "backdrop-blur-lg"
+  },
+  "backdrop-blur-xl": {
+    "prefix": "backdrop-blur-xl",
+    "body": "backdrop-blur-xl"
+  },
+  "backdrop-blur-2xl": {
+    "prefix": "backdrop-blur-2xl",
+    "body": "backdrop-blur-2xl"
+  },
+  "backdrop-blur-3xl": {
+    "prefix": "backdrop-blur-3xl",
+    "body": "backdrop-blur-3xl"
+  },
+  "backdrop-brightness-0": {
+    "prefix": "backdrop-brightness-0",
+    "body": "backdrop-brightness-0"
+  },
+  "backdrop-brightness-50": {
+    "prefix": "backdrop-brightness-50",
+    "body": "backdrop-brightness-50"
+  },
+  "backdrop-brightness-75": {
+    "prefix": "backdrop-brightness-75",
+    "body": "backdrop-brightness-75"
+  },
+  "backdrop-brightness-90": {
+    "prefix": "backdrop-brightness-90",
+    "body": "backdrop-brightness-90"
+  },
+  "backdrop-brightness-95": {
+    "prefix": "backdrop-brightness-95",
+    "body": "backdrop-brightness-95"
+  },
+  "backdrop-brightness-100": {
+    "prefix": "backdrop-brightness-100",
+    "body": "backdrop-brightness-100"
+  },
+  "backdrop-brightness-105": {
+    "prefix": "backdrop-brightness-105",
+    "body": "backdrop-brightness-105"
+  },
+  "backdrop-brightness-110": {
+    "prefix": "backdrop-brightness-110",
+    "body": "backdrop-brightness-110"
+  },
+  "backdrop-brightness-125": {
+    "prefix": "backdrop-brightness-125",
+    "body": "backdrop-brightness-125"
+  },
+  "backdrop-brightness-150": {
+    "prefix": "backdrop-brightness-150",
+    "body": "backdrop-brightness-150"
+  },
+  "backdrop-brightness-200": {
+    "prefix": "backdrop-brightness-200",
+    "body": "backdrop-brightness-200"
+  },
+  "backdrop-contrast-0": {
+    "prefix": "backdrop-contrast-0",
+    "body": "backdrop-contrast-0"
+  },
+  "backdrop-contrast-50": {
+    "prefix": "backdrop-contrast-50",
+    "body": "backdrop-contrast-50"
+  },
+  "backdrop-contrast-75": {
+    "prefix": "backdrop-contrast-75",
+    "body": "backdrop-contrast-75"
+  },
+  "backdrop-contrast-100": {
+    "prefix": "backdrop-contrast-100",
+    "body": "backdrop-contrast-100"
+  },
+  "backdrop-contrast-125": {
+    "prefix": "backdrop-contrast-125",
+    "body": "backdrop-contrast-125"
+  },
+  "backdrop-contrast-150": {
+    "prefix": "backdrop-contrast-150",
+    "body": "backdrop-contrast-150"
+  },
+  "backdrop-contrast-200": {
+    "prefix": "backdrop-contrast-200",
+    "body": "backdrop-contrast-200"
+  },
+  "backdrop-grayscale-0": {
+    "prefix": "backdrop-grayscale-0",
+    "body": "backdrop-grayscale-0"
+  },
+  "backdrop-grayscale": {
+    "prefix": "backdrop-grayscale",
+    "body": "backdrop-grayscale"
+  },
+  "backdrop-hue-rotate-0": {
+    "prefix": "backdrop-hue-rotate-0",
+    "body": "backdrop-hue-rotate-0"
+  },
+  "backdrop-hue-rotate-15": {
+    "prefix": "backdrop-hue-rotate-15",
+    "body": "backdrop-hue-rotate-15"
+  },
+  "backdrop-hue-rotate-30": {
+    "prefix": "backdrop-hue-rotate-30",
+    "body": "backdrop-hue-rotate-30"
+  },
+  "backdrop-hue-rotate-60": {
+    "prefix": "backdrop-hue-rotate-60",
+    "body": "backdrop-hue-rotate-60"
+  },
+  "backdrop-hue-rotate-90": {
+    "prefix": "backdrop-hue-rotate-90",
+    "body": "backdrop-hue-rotate-90"
+  },
+  "backdrop-hue-rotate-180": {
+    "prefix": "backdrop-hue-rotate-180",
+    "body": "backdrop-hue-rotate-180"
+  },
+  "backdrop-invert-0": {
+    "prefix": "backdrop-invert-0",
+    "body": "backdrop-invert-0"
+  },
+  "backdrop-invert": {
+    "prefix": "backdrop-invert",
+    "body": "backdrop-invert"
+  },
+  "backdrop-opacity-0": {
+    "prefix": "backdrop-opacity-0",
+    "body": "backdrop-opacity-0"
+  },
+  "backdrop-opacity-5": {
+    "prefix": "backdrop-opacity-5",
+    "body": "backdrop-opacity-5"
+  },
+  "backdrop-opacity-10": {
+    "prefix": "backdrop-opacity-10",
+    "body": "backdrop-opacity-10"
+  },
+  "backdrop-opacity-15": {
+    "prefix": "backdrop-opacity-15",
+    "body": "backdrop-opacity-15"
+  },
+  "backdrop-opacity-20": {
+    "prefix": "backdrop-opacity-20",
+    "body": "backdrop-opacity-20"
+  },
+  "backdrop-opacity-25": {
+    "prefix": "backdrop-opacity-25",
+    "body": "backdrop-opacity-25"
+  },
+  "backdrop-opacity-30": {
+    "prefix": "backdrop-opacity-30",
+    "body": "backdrop-opacity-30"
+  },
+  "backdrop-opacity-35": {
+    "prefix": "backdrop-opacity-35",
+    "body": "backdrop-opacity-35"
+  },
+  "backdrop-opacity-40": {
+    "prefix": "backdrop-opacity-40",
+    "body": "backdrop-opacity-40"
+  },
+  "backdrop-opacity-45": {
+    "prefix": "backdrop-opacity-45",
+    "body": "backdrop-opacity-45"
+  },
+  "backdrop-opacity-50": {
+    "prefix": "backdrop-opacity-50",
+    "body": "backdrop-opacity-50"
+  },
+  "backdrop-opacity-55": {
+    "prefix": "backdrop-opacity-55",
+    "body": "backdrop-opacity-55"
+  },
+  "backdrop-opacity-60": {
+    "prefix": "backdrop-opacity-60",
+    "body": "backdrop-opacity-60"
+  },
+  "backdrop-opacity-65": {
+    "prefix": "backdrop-opacity-65",
+    "body": "backdrop-opacity-65"
+  },
+  "backdrop-opacity-70": {
+    "prefix": "backdrop-opacity-70",
+    "body": "backdrop-opacity-70"
+  },
+  "backdrop-opacity-75": {
+    "prefix": "backdrop-opacity-75",
+    "body": "backdrop-opacity-75"
+  },
+  "backdrop-opacity-80": {
+    "prefix": "backdrop-opacity-80",
+    "body": "backdrop-opacity-80"
+  },
+  "backdrop-opacity-85": {
+    "prefix": "backdrop-opacity-85",
+    "body": "backdrop-opacity-85"
+  },
+  "backdrop-opacity-90": {
+    "prefix": "backdrop-opacity-90",
+    "body": "backdrop-opacity-90"
+  },
+  "backdrop-opacity-95": {
+    "prefix": "backdrop-opacity-95",
+    "body": "backdrop-opacity-95"
+  },
+  "backdrop-opacity-100": {
+    "prefix": "backdrop-opacity-100",
+    "body": "backdrop-opacity-100"
+  },
+  "backdrop-saturate-0": {
+    "prefix": "backdrop-saturate-0",
+    "body": "backdrop-saturate-0"
+  },
+  "backdrop-saturate-50": {
+    "prefix": "backdrop-saturate-50",
+    "body": "backdrop-saturate-50"
+  },
+  "backdrop-saturate-100": {
+    "prefix": "backdrop-saturate-100",
+    "body": "backdrop-saturate-100"
+  },
+  "backdrop-saturate-150": {
+    "prefix": "backdrop-saturate-150",
+    "body": "backdrop-saturate-150"
+  },
+  "backdrop-saturate-200": {
+    "prefix": "backdrop-saturate-200",
+    "body": "backdrop-saturate-200"
+  },
+  "backdrop-sepia-0": {
+    "prefix": "backdrop-sepia-0",
+    "body": "backdrop-sepia-0"
+  },
+  "backdrop-sepia": {
+    "prefix": "backdrop-sepia",
+    "body": "backdrop-sepia"
+  }
+}

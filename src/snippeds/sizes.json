@@ -1,0 +1,1514 @@
+{
+  "w-0": {
+    "prefix": "w-0",
+    "body": "w-0"
+  },
+  "w-px": {
+    "prefix": "w-px",
+    "body": "w-px"
+  },
+  "w-0.5": {
+    "prefix": "w-0.5",
+    "body": "w-0.5"
+  },
+  "w-1": {
+    "prefix": "w-1",
+    "body": "w-1"
+  },
+  "w-1.5": {
+    "prefix": "w-1.5",
+    "body": "w-1.5"
+  },
+  "w-2": {
+    "prefix": "w-2",
+    "body": "w-2"
+  },
+  "w-2.5": {
+    "prefix": "w-2.5",
+    "body": "w-2.5"
+  },
+  "w-3": {
+    "prefix": "w-3",
+    "body": "w-3"
+  },
+  "w-3.5": {
+    "prefix": "w-3.5",
+    "body": "w-3.5"
+  },
+  "w-4": {
+    "prefix": "w-4",
+    "body": "w-4"
+  },
+  "w-5": {
+    "prefix": "w-5",
+    "body": "w-5"
+  },
+  "w-6": {
+    "prefix": "w-6",
+    "body": "w-6"
+  },
+  "w-7": {
+    "prefix": "w-7",
+    "body": "w-7"
+  },
+  "w-8": {
+    "prefix": "w-8",
+    "body": "w-8"
+  },
+  "w-9": {
+    "prefix": "w-9",
+    "body": "w-9"
+  },
+  "w-10": {
+    "prefix": "w-10",
+    "body": "w-10"
+  },
+  "w-11": {
+    "prefix": "w-11",
+    "body": "w-11"
+  },
+  "w-12": {
+    "prefix": "w-12",
+    "body": "w-12"
+  },
+  "w-14": {
+    "prefix": "w-14",
+    "body": "w-14"
+  },
+  "w-16": {
+    "prefix": "w-16",
+    "body": "w-16"
+  },
+  "w-20": {
+    "prefix": "w-20",
+    "body": "w-20"
+  },
+  "w-24": {
+    "prefix": "w-24",
+    "body": "w-24"
+  },
+  "w-28": {
+    "prefix": "w-28",
+    "body": "w-28"
+  },
+  "w-32": {
+    "prefix": "w-32",
+    "body": "w-32"
+  },
+  "w-36": {
+    "prefix": "w-36",
+    "body": "w-36"
+  },
+  "w-40": {
+    "prefix": "w-40",
+    "body": "w-40"
+  },
+  "w-44": {
+    "prefix": "w-44",
+    "body": "w-44"
+  },
+  "w-48": {
+    "prefix": "w-48",
+    "body": "w-48"
+  },
+  "w-52": {
+    "prefix": "w-52",
+    "body": "w-52"
+  },
+  "w-56": {
+    "prefix": "w-56",
+    "body": "w-56"
+  },
+  "w-60": {
+    "prefix": "w-60",
+    "body": "w-60"
+  },
+  "w-64": {
+    "prefix": "w-64",
+    "body": "w-64"
+  },
+  "w-72": {
+    "prefix": "w-72",
+    "body": "w-72"
+  },
+  "w-80": {
+    "prefix": "w-80",
+    "body": "w-80"
+  },
+  "w-96": {
+    "prefix": "w-96",
+    "body": "w-96"
+  },
+  "w-auto": {
+    "prefix": "w-auto",
+    "body": "w-auto"
+  },
+  "w-1/2": {
+    "prefix": "w-1/2",
+    "body": "w-1/2"
+  },
+  "w-1/3": {
+    "prefix": "w-1/3",
+    "body": "w-1/3"
+  },
+  "w-2/3": {
+    "prefix": "w-2/3",
+    "body": "w-2/3"
+  },
+  "w-1/4": {
+    "prefix": "w-1/4",
+    "body": "w-1/4"
+  },
+  "w-2/4": {
+    "prefix": "w-2/4",
+    "body": "w-2/4"
+  },
+  "w-3/4": {
+    "prefix": "w-3/4",
+    "body": "w-3/4"
+  },
+  "w-1/5": {
+    "prefix": "w-1/5",
+    "body": "w-1/5"
+  },
+  "w-2/5": {
+    "prefix": "w-2/5",
+    "body": "w-2/5"
+  },
+  "w-3/5": {
+    "prefix": "w-3/5",
+    "body": "w-3/5"
+  },
+  "w-4/5": {
+    "prefix": "w-4/5",
+    "body": "w-4/5"
+  },
+  "w-1/6": {
+    "prefix": "w-1/6",
+    "body": "w-1/6"
+  },
+  "w-2/6": {
+    "prefix": "w-2/6",
+    "body": "w-2/6"
+  },
+  "w-3/6": {
+    "prefix": "w-3/6",
+    "body": "w-3/6"
+  },
+  "w-4/6": {
+    "prefix": "w-4/6",
+    "body": "w-4/6"
+  },
+  "w-5/6": {
+    "prefix": "w-5/6",
+    "body": "w-5/6"
+  },
+  "w-1/12": {
+    "prefix": "w-1/12",
+    "body": "w-1/12"
+  },
+  "w-2/12": {
+    "prefix": "w-2/12",
+    "body": "w-2/12"
+  },
+  "w-3/12": {
+    "prefix": "w-3/12",
+    "body": "w-3/12"
+  },
+  "w-4/12": {
+    "prefix": "w-4/12",
+    "body": "w-4/12"
+  },
+  "w-5/12": {
+    "prefix": "w-5/12",
+    "body": "w-5/12"
+  },
+  "w-6/12": {
+    "prefix": "w-6/12",
+    "body": "w-6/12"
+  },
+  "w-7/12": {
+    "prefix": "w-7/12",
+    "body": "w-7/12"
+  },
+  "w-8/12": {
+    "prefix": "w-8/12",
+    "body": "w-8/12"
+  },
+  "w-9/12": {
+    "prefix": "w-9/12",
+    "body": "w-9/12"
+  },
+  "w-10/12": {
+    "prefix": "w-10/12",
+    "body": "w-10/12"
+  },
+  "w-11/12": {
+    "prefix": "w-11/12",
+    "body": "w-11/12"
+  },
+  "w-full": {
+    "prefix": "w-full",
+    "body": "w-full"
+  },
+  "w-screen": {
+    "prefix": "w-screen",
+    "body": "w-screen"
+  },
+  "w-svw": {
+    "prefix": "w-svw",
+    "body": "w-svw"
+  },
+  "w-lvw": {
+    "prefix": "w-lvw",
+    "body": "w-lvw"
+  },
+  "w-dvw": {
+    "prefix": "w-dvw",
+    "body": "w-dvw"
+  },
+  "w-min": {
+    "prefix": "w-min",
+    "body": "w-min"
+  },
+  "w-max": {
+    "prefix": "w-max",
+    "body": "w-max"
+  },
+  "w-fit": {
+    "prefix": "w-fit",
+    "body": "w-fit"
+  },
+  "min-w-0": {
+    "prefix": "min-w-0",
+    "body": "min-w-0"
+  },
+  "min-w-1": {
+    "prefix": "min-w-1",
+    "body": "min-w-1"
+  },
+  "min-w-2": {
+    "prefix": "min-w-2",
+    "body": "min-w-2"
+  },
+  "min-w-3": {
+    "prefix": "min-w-3",
+    "body": "min-w-3"
+  },
+  "min-w-4": {
+    "prefix": "min-w-4",
+    "body": "min-w-4"
+  },
+  "min-w-5": {
+    "prefix": "min-w-5",
+    "body": "min-w-5"
+  },
+  "min-w-6": {
+    "prefix": "min-w-6",
+    "body": "min-w-6"
+  },
+  "min-w-7": {
+    "prefix": "min-w-7",
+    "body": "min-w-7"
+  },
+  "min-w-8": {
+    "prefix": "min-w-8",
+    "body": "min-w-8"
+  },
+  "min-w-9": {
+    "prefix": "min-w-9",
+    "body": "min-w-9"
+  },
+  "min-w-10": {
+    "prefix": "min-w-10",
+    "body": "min-w-10"
+  },
+  "min-w-11": {
+    "prefix": "min-w-11",
+    "body": "min-w-11"
+  },
+  "min-w-12": {
+    "prefix": "min-w-12",
+    "body": "min-w-12"
+  },
+  "min-w-14": {
+    "prefix": "min-w-14",
+    "body": "min-w-14"
+  },
+  "min-w-16": {
+    "prefix": "min-w-16",
+    "body": "min-w-16"
+  },
+  "min-w-20": {
+    "prefix": "min-w-20",
+    "body": "min-w-20"
+  },
+  "min-w-24": {
+    "prefix": "min-w-24",
+    "body": "min-w-24"
+  },
+  "min-w-28": {
+    "prefix": "min-w-28",
+    "body": "min-w-28"
+  },
+  "min-w-32": {
+    "prefix": "min-w-32",
+    "body": "min-w-32"
+  },
+  "min-w-36": {
+    "prefix": "min-w-36",
+    "body": "min-w-36"
+  },
+  "min-w-40": {
+    "prefix": "min-w-40",
+    "body": "min-w-40"
+  },
+  "min-w-44": {
+    "prefix": "min-w-44",
+    "body": "min-w-44"
+  },
+  "min-w-48": {
+    "prefix": "min-w-48",
+    "body": "min-w-48"
+  },
+  "min-w-52": {
+    "prefix": "min-w-52",
+    "body": "min-w-52"
+  },
+  "min-w-56": {
+    "prefix": "min-w-56",
+    "body": "min-w-56"
+  },
+  "min-w-60": {
+    "prefix": "min-w-60",
+    "body": "min-w-60"
+  },
+  "min-w-64": {
+    "prefix": "min-w-64",
+    "body": "min-w-64"
+  },
+  "min-w-72": {
+    "prefix": "min-w-72",
+    "body": "min-w-72"
+  },
+  "min-w-80": {
+    "prefix": "min-w-80",
+    "body": "min-w-80"
+  },
+  "min-w-96": {
+    "prefix": "min-w-96",
+    "body": "min-w-96"
+  },
+  "min-w-px": {
+    "prefix": "min-w-px",
+    "body": "min-w-px"
+  },
+  "min-w-0.5": {
+    "prefix": "min-w-0.5",
+    "body": "min-w-0.5"
+  },
+  "min-w-1.5": {
+    "prefix": "min-w-1.5",
+    "body": "min-w-1.5"
+  },
+  "min-w-2.5": {
+    "prefix": "min-w-2.5",
+    "body": "min-w-2.5"
+  },
+  "min-w-3.5": {
+    "prefix": "min-w-3.5",
+    "body": "min-w-3.5"
+  },
+  "min-w-full": {
+    "prefix": "min-w-full",
+    "body": "min-w-full"
+  },
+  "min-w-min": {
+    "prefix": "min-w-min",
+    "body": "min-w-min"
+  },
+  "min-w-max": {
+    "prefix": "min-w-max",
+    "body": "min-w-max"
+  },
+  "min-w-fit": {
+    "prefix": "min-w-fit",
+    "body": "min-w-fit"
+  },
+  "max-w-0": {
+    "prefix": "max-w-0",
+    "body": "max-w-0"
+  },
+  "max-w-px": {
+    "prefix": "max-w-px",
+    "body": "max-w-px"
+  },
+  "max-w-0.5": {
+    "prefix": "max-w-0.5",
+    "body": "max-w-0.5"
+  },
+  "max-w-1": {
+    "prefix": "max-w-1",
+    "body": "max-w-1"
+  },
+  "max-w-1.5": {
+    "prefix": "max-w-1.5",
+    "body": "max-w-1.5"
+  },
+  "max-w-2": {
+    "prefix": "max-w-2",
+    "body": "max-w-2"
+  },
+  "max-w-2.5": {
+    "prefix": "max-w-2.5",
+    "body": "max-w-2.5"
+  },
+  "max-w-3": {
+    "prefix": "max-w-3",
+    "body": "max-w-3"
+  },
+  "max-w-3.5": {
+    "prefix": "max-w-3.5",
+    "body": "max-w-3.5"
+  },
+  "max-w-4": {
+    "prefix": "max-w-4",
+    "body": "max-w-4"
+  },
+  "max-w-5": {
+    "prefix": "max-w-5",
+    "body": "max-w-5"
+  },
+  "max-w-6": {
+    "prefix": "max-w-6",
+    "body": "max-w-6"
+  },
+  "max-w-7": {
+    "prefix": "max-w-7",
+    "body": "max-w-7"
+  },
+  "max-w-8": {
+    "prefix": "max-w-8",
+    "body": "max-w-8"
+  },
+  "max-w-9": {
+    "prefix": "max-w-9",
+    "body": "max-w-9"
+  },
+  "max-w-10": {
+    "prefix": "max-w-10",
+    "body": "max-w-10"
+  },
+  "max-w-11": {
+    "prefix": "max-w-11",
+    "body": "max-w-11"
+  },
+  "max-w-12": {
+    "prefix": "max-w-12",
+    "body": "max-w-12"
+  },
+  "max-w-14": {
+    "prefix": "max-w-14",
+    "body": "max-w-14"
+  },
+  "max-w-16": {
+    "prefix": "max-w-16",
+    "body": "max-w-16"
+  },
+  "max-w-20": {
+    "prefix": "max-w-20",
+    "body": "max-w-20"
+  },
+  "max-w-24": {
+    "prefix": "max-w-24",
+    "body": "max-w-24"
+  },
+  "max-w-28": {
+    "prefix": "max-w-28",
+    "body": "max-w-28"
+  },
+  "max-w-32": {
+    "prefix": "max-w-32",
+    "body": "max-w-32"
+  },
+  "max-w-36": {
+    "prefix": "max-w-36",
+    "body": "max-w-36"
+  },
+  "max-w-40": {
+    "prefix": "max-w-40",
+    "body": "max-w-40"
+  },
+  "max-w-44": {
+    "prefix": "max-w-44",
+    "body": "max-w-44"
+  },
+  "max-w-48": {
+    "prefix": "max-w-48",
+    "body": "max-w-48"
+  },
+  "max-w-52": {
+    "prefix": "max-w-52",
+    "body": "max-w-52"
+  },
+  "max-w-56": {
+    "prefix": "max-w-56",
+    "body": "max-w-56"
+  },
+  "max-w-60": {
+    "prefix": "max-w-60",
+    "body": "max-w-60"
+  },
+  "max-w-64": {
+    "prefix": "max-w-64",
+    "body": "max-w-64"
+  },
+  "max-w-72": {
+    "prefix": "max-w-72",
+    "body": "max-w-72"
+  },
+  "max-w-80": {
+    "prefix": "max-w-80",
+    "body": "max-w-80"
+  },
+  "max-w-96": {
+    "prefix": "max-w-96",
+    "body": "max-w-96"
+  },
+  "max-w-none": {
+    "prefix": "max-w-none",
+    "body": "max-w-none"
+  },
+  "max-w-xs": {
+    "prefix": "max-w-xs",
+    "body": "max-w-xs"
+  },
+  "max-w-sm": {
+    "prefix": "max-w-sm",
+    "body": "max-w-sm"
+  },
+  "max-w-md": {
+    "prefix": "max-w-md",
+    "body": "max-w-md"
+  },
+  "max-w-lg": {
+    "prefix": "max-w-lg",
+    "body": "max-w-lg"
+  },
+  "max-w-xl": {
+    "prefix": "max-w-xl",
+    "body": "max-w-xl"
+  },
+  "max-w-2xl": {
+    "prefix": "max-w-2xl",
+    "body": "max-w-2xl"
+  },
+  "max-w-3xl": {
+    "prefix": "max-w-3xl",
+    "body": "max-w-3xl"
+  },
+  "max-w-4xl": {
+    "prefix": "max-w-4xl",
+    "body": "max-w-4xl"
+  },
+  "max-w-5xl": {
+    "prefix": "max-w-5xl",
+    "body": "max-w-5xl"
+  },
+  "max-w-6xl": {
+    "prefix": "max-w-6xl",
+    "body": "max-w-6xl"
+  },
+  "max-w-7xl": {
+    "prefix": "max-w-7xl",
+    "body": "max-w-7xl"
+  },
+  "max-w-full": {
+    "prefix": "max-w-full",
+    "body": "max-w-full"
+  },
+  "max-w-min": {
+    "prefix": "max-w-min",
+    "body": "max-w-min"
+  },
+  "max-w-max": {
+    "prefix": "max-w-max",
+    "body": "max-w-max"
+  },
+  "max-w-fit": {
+    "prefix": "max-w-fit",
+    "body": "max-w-fit"
+  },
+  "max-w-prose": {
+    "prefix": "max-w-prose",
+    "body": "max-w-prose"
+  },
+  "max-w-screen-sm": {
+    "prefix": "max-w-screen-sm",
+    "body": "max-w-screen-sm"
+  },
+  "max-w-screen-md": {
+    "prefix": "max-w-screen-md",
+    "body": "max-w-screen-md"
+  },
+  "max-w-screen-lg": {
+    "prefix": "max-w-screen-lg",
+    "body": "max-w-screen-lg"
+  },
+  "max-w-screen-xl": {
+    "prefix": "max-w-screen-xl",
+    "body": "max-w-screen-xl"
+  },
+  "max-w-screen-2xl": {
+    "prefix": "max-w-screen-2xl",
+    "body": "max-w-screen-2xl"
+  },
+  "h-0": {
+    "prefix": "h-0",
+    "body": "h-0"
+  },
+  "h-px": {
+    "prefix": "h-px",
+    "body": "h-px"
+  },
+  "h-0.5": {
+    "prefix": "h-0.5",
+    "body": "h-0.5"
+  },
+  "h-1": {
+    "prefix": "h-1",
+    "body": "h-1"
+  },
+  "h-1.5": {
+    "prefix": "h-1.5",
+    "body": "h-1.5"
+  },
+  "h-2": {
+    "prefix": "h-2",
+    "body": "h-2"
+  },
+  "h-2.5": {
+    "prefix": "h-2.5",
+    "body": "h-2.5"
+  },
+  "h-3": {
+    "prefix": "h-3",
+    "body": "h-3"
+  },
+  "h-3.5": {
+    "prefix": "h-3.5",
+    "body": "h-3.5"
+  },
+  "h-4": {
+    "prefix": "h-4",
+    "body": "h-4"
+  },
+  "h-5": {
+    "prefix": "h-5",
+    "body": "h-5"
+  },
+  "h-6": {
+    "prefix": "h-6",
+    "body": "h-6"
+  },
+  "h-7": {
+    "prefix": "h-7",
+    "body": "h-7"
+  },
+  "h-8": {
+    "prefix": "h-8",
+    "body": "h-8"
+  },
+  "h-9": {
+    "prefix": "h-9",
+    "body": "h-9"
+  },
+  "h-10": {
+    "prefix": "h-10",
+    "body": "h-10"
+  },
+  "h-11": {
+    "prefix": "h-11",
+    "body": "h-11"
+  },
+  "h-12": {
+    "prefix": "h-12",
+    "body": "h-12"
+  },
+  "h-14": {
+    "prefix": "h-14",
+    "body": "h-14"
+  },
+  "h-16": {
+    "prefix": "h-16",
+    "body": "h-16"
+  },
+  "h-20": {
+    "prefix": "h-20",
+    "body": "h-20"
+  },
+  "h-24": {
+    "prefix": "h-24",
+    "body": "h-24"
+  },
+  "h-28": {
+    "prefix": "h-28",
+    "body": "h-28"
+  },
+  "h-32": {
+    "prefix": "h-32",
+    "body": "h-32"
+  },
+  "h-36": {
+    "prefix": "h-36",
+    "body": "h-36"
+  },
+  "h-40": {
+    "prefix": "h-40",
+    "body": "h-40"
+  },
+  "h-44": {
+    "prefix": "h-44",
+    "body": "h-44"
+  },
+  "h-48": {
+    "prefix": "h-48",
+    "body": "h-48"
+  },
+  "h-52": {
+    "prefix": "h-52",
+    "body": "h-52"
+  },
+  "h-56": {
+    "prefix": "h-56",
+    "body": "h-56"
+  },
+  "h-60": {
+    "prefix": "h-60",
+    "body": "h-60"
+  },
+  "h-64": {
+    "prefix": "h-64",
+    "body": "h-64"
+  },
+  "h-72": {
+    "prefix": "h-72",
+    "body": "h-72"
+  },
+  "h-80": {
+    "prefix": "h-80",
+    "body": "h-80"
+  },
+  "h-96": {
+    "prefix": "h-96",
+    "body": "h-96"
+  },
+  "h-auto": {
+    "prefix": "h-auto",
+    "body": "h-auto"
+  },
+  "h-1/2": {
+    "prefix": "h-1/2",
+    "body": "h-1/2"
+  },
+  "h-1/3": {
+    "prefix": "h-1/3",
+    "body": "h-1/3"
+  },
+  "h-2/3": {
+    "prefix": "h-2/3",
+    "body": "h-2/3"
+  },
+  "h-1/4": {
+    "prefix": "h-1/4",
+    "body": "h-1/4"
+  },
+  "h-2/4": {
+    "prefix": "h-2/4",
+    "body": "h-2/4"
+  },
+  "h-3/4": {
+    "prefix": "h-3/4",
+    "body": "h-3/4"
+  },
+  "h-1/5": {
+    "prefix": "h-1/5",
+    "body": "h-1/5"
+  },
+  "h-2/5": {
+    "prefix": "h-2/5",
+    "body": "h-2/5"
+  },
+  "h-3/5": {
+    "prefix": "h-3/5",
+    "body": "h-3/5"
+  },
+  "h-4/5": {
+    "prefix": "h-4/5",
+    "body": "h-4/5"
+  },
+  "h-1/6": {
+    "prefix": "h-1/6",
+    "body": "h-1/6"
+  },
+  "h-2/6": {
+    "prefix": "h-2/6",
+    "body": "h-2/6"
+  },
+  "h-3/6": {
+    "prefix": "h-3/6",
+    "body": "h-3/6"
+  },
+  "h-4/6": {
+    "prefix": "h-4/6",
+    "body": "h-4/6"
+  },
+  "h-5/6": {
+    "prefix": "h-5/6",
+    "body": "h-5/6"
+  },
+  "h-full": {
+    "prefix": "h-full",
+    "body": "h-full"
+  },
+  "h-screen": {
+    "prefix": "h-screen",
+    "body": "h-screen"
+  },
+  "h-svh": {
+    "prefix": "h-svh",
+    "body": "h-svh"
+  },
+  "h-lvh": {
+    "prefix": "h-lvh",
+    "body": "h-lvh"
+  },
+  "h-dvh": {
+    "prefix": "h-dvh",
+    "body": "h-dvh"
+  },
+  "h-min": {
+    "prefix": "h-min",
+    "body": "h-min"
+  },
+  "h-max": {
+    "prefix": "h-max",
+    "body": "h-max"
+  },
+  "h-fit": {
+    "prefix": "h-fit",
+    "body": "h-fit"
+  },
+  "min-h-0": {
+    "prefix": "min-h-0",
+    "body": "min-h-0"
+  },
+  "min-h-1": {
+    "prefix": "min-h-1",
+    "body": "min-h-1"
+  },
+  "min-h-2": {
+    "prefix": "min-h-2",
+    "body": "min-h-2"
+  },
+  "min-h-3": {
+    "prefix": "min-h-3",
+    "body": "min-h-3"
+  },
+  "min-h-4": {
+    "prefix": "min-h-4",
+    "body": "min-h-4"
+  },
+  "min-h-5": {
+    "prefix": "min-h-5",
+    "body": "min-h-5"
+  },
+  "min-h-6": {
+    "prefix": "min-h-6",
+    "body": "min-h-6"
+  },
+  "min-h-7": {
+    "prefix": "min-h-7",
+    "body": "min-h-7"
+  },
+  "min-h-8": {
+    "prefix": "min-h-8",
+    "body": "min-h-8"
+  },
+  "min-h-9": {
+    "prefix": "min-h-9",
+    "body": "min-h-9"
+  },
+  "min-h-10": {
+    "prefix": "min-h-10",
+    "body": "min-h-10"
+  },
+  "min-h-11": {
+    "prefix": "min-h-11",
+    "body": "min-h-11"
+  },
+  "min-h-12": {
+    "prefix": "min-h-12",
+    "body": "min-h-12"
+  },
+  "min-h-14": {
+    "prefix": "min-h-14",
+    "body": "min-h-14"
+  },
+  "min-h-16": {
+    "prefix": "min-h-16",
+    "body": "min-h-16"
+  },
+  "min-h-20": {
+    "prefix": "min-h-20",
+    "body": "min-h-20"
+  },
+  "min-h-24": {
+    "prefix": "min-h-24",
+    "body": "min-h-24"
+  },
+  "min-h-28": {
+    "prefix": "min-h-28",
+    "body": "min-h-28"
+  },
+  "min-h-32": {
+    "prefix": "min-h-32",
+    "body": "min-h-32"
+  },
+  "min-h-36": {
+    "prefix": "min-h-36",
+    "body": "min-h-36"
+  },
+  "min-h-40": {
+    "prefix": "min-h-40",
+    "body": "min-h-40"
+  },
+  "min-h-44": {
+    "prefix": "min-h-44",
+    "body": "min-h-44"
+  },
+  "min-h-48": {
+    "prefix": "min-h-48",
+    "body": "min-h-48"
+  },
+  "min-h-52": {
+    "prefix": "min-h-52",
+    "body": "min-h-52"
+  },
+  "min-h-56": {
+    "prefix": "min-h-56",
+    "body": "min-h-56"
+  },
+  "min-h-60": {
+    "prefix": "min-h-60",
+    "body": "min-h-60"
+  },
+  "min-h-64": {
+    "prefix": "min-h-64",
+    "body": "min-h-64"
+  },
+  "min-h-72": {
+    "prefix": "min-h-72",
+    "body": "min-h-72"
+  },
+  "min-h-80": {
+    "prefix": "min-h-80",
+    "body": "min-h-80"
+  },
+  "min-h-96": {
+    "prefix": "min-h-96",
+    "body": "min-h-96"
+  },
+  "min-h-px": {
+    "prefix": "min-h-px",
+    "body": "min-h-px"
+  },
+  "min-h-0.5": {
+    "prefix": "min-h-0.5",
+    "body": "min-h-0.5"
+  },
+  "min-h-1.5": {
+    "prefix": "min-h-1.5",
+    "body": "min-h-1.5"
+  },
+  "min-h-2.5": {
+    "prefix": "min-h-2.5",
+    "body": "min-h-2.5"
+  },
+  "min-h-3.5": {
+    "prefix": "min-h-3.5",
+    "body": "min-h-3.5"
+  },
+  "min-h-full": {
+    "prefix": "min-h-full",
+    "body": "min-h-full"
+  },
+  "min-h-screen": {
+    "prefix": "min-h-screen",
+    "body": "min-h-screen"
+  },
+  "min-h-svh": {
+    "prefix": "min-h-svh",
+    "body": "min-h-svh"
+  },
+  "min-h-lvh": {
+    "prefix": "min-h-lvh",
+    "body": "min-h-lvh"
+  },
+  "min-h-dvh": {
+    "prefix": "min-h-dvh",
+    "body": "min-h-dvh"
+  },
+  "min-h-min": {
+    "prefix": "min-h-min",
+    "body": "min-h-min"
+  },
+  "min-h-max": {
+    "prefix": "min-h-max",
+    "body": "min-h-max"
+  },
+  "min-h-fit": {
+    "prefix": "min-h-fit",
+    "body": "min-h-fit"
+  },
+  "max-h-0": {
+    "prefix": "max-h-0",
+    "body": "max-h-0"
+  },
+  "max-h-px": {
+    "prefix": "max-h-px",
+    "body": "max-h-px"
+  },
+  "max-h-0.5": {
+    "prefix": "max-h-0.5",
+    "body": "max-h-0.5"
+  },
+  "max-h-1": {
+    "prefix": "max-h-1",
+    "body": "max-h-1"
+  },
+  "max-h-1.5": {
+    "prefix": "max-h-1.5",
+    "body": "max-h-1.5"
+  },
+  "max-h-2": {
+    "prefix": "max-h-2",
+    "body": "max-h-2"
+  },
+  "max-h-2.5": {
+    "prefix": "max-h-2.5",
+    "body": "max-h-2.5"
+  },
+  "max-h-3": {
+    "prefix": "max-h-3",
+    "body": "max-h-3"
+  },
+  "max-h-3.5": {
+    "prefix": "max-h-3.5",
+    "body": "max-h-3.5"
+  },
+  "max-h-4": {
+    "prefix": "max-h-4",
+    "body": "max-h-4"
+  },
+  "max-h-5": {
+    "prefix": "max-h-5",
+    "body": "max-h-5"
+  },
+  "max-h-6": {
+    "prefix": "max-h-6",
+    "body": "max-h-6"
+  },
+  "max-h-7": {
+    "prefix": "max-h-7",
+    "body": "max-h-7"
+  },
+  "max-h-8": {
+    "prefix": "max-h-8",
+    "body": "max-h-8"
+  },
+  "max-h-9": {
+    "prefix": "max-h-9",
+    "body": "max-h-9"
+  },
+  "max-h-10": {
+    "prefix": "max-h-10",
+    "body": "max-h-10"
+  },
+  "max-h-11": {
+    "prefix": "max-h-11",
+    "body": "max-h-11"
+  },
+  "max-h-12": {
+    "prefix": "max-h-12",
+    "body": "max-h-12"
+  },
+  "max-h-14": {
+    "prefix": "max-h-14",
+    "body": "max-h-14"
+  },
+  "max-h-16": {
+    "prefix": "max-h-16",
+    "body": "max-h-16"
+  },
+  "max-h-20": {
+    "prefix": "max-h-20",
+    "body": "max-h-20"
+  },
+  "max-h-24": {
+    "prefix": "max-h-24",
+    "body": "max-h-24"
+  },
+  "max-h-28": {
+    "prefix": "max-h-28",
+    "body": "max-h-28"
+  },
+  "max-h-32": {
+    "prefix": "max-h-32",
+    "body": "max-h-32"
+  },
+  "max-h-36": {
+    "prefix": "max-h-36",
+    "body": "max-h-36"
+  },
+  "max-h-40": {
+    "prefix": "max-h-40",
+    "body": "max-h-40"
+  },
+  "max-h-44": {
+    "prefix": "max-h-44",
+    "body": "max-h-44"
+  },
+  "max-h-48": {
+    "prefix": "max-h-48",
+    "body": "max-h-48"
+  },
+  "max-h-52": {
+    "prefix": "max-h-52",
+    "body": "max-h-52"
+  },
+  "max-h-56": {
+    "prefix": "max-h-56",
+    "body": "max-h-56"
+  },
+  "max-h-60": {
+    "prefix": "max-h-60",
+    "body": "max-h-60"
+  },
+  "max-h-64": {
+    "prefix": "max-h-64",
+    "body": "max-h-64"
+  },
+  "max-h-72": {
+    "prefix": "max-h-72",
+    "body": "max-h-72"
+  },
+  "max-h-80": {
+    "prefix": "max-h-80",
+    "body": "max-h-80"
+  },
+  "max-h-96": {
+    "prefix": "max-h-96",
+    "body": "max-h-96"
+  },
+  "max-h-none": {
+    "prefix": "max-h-none",
+    "body": "max-h-none"
+  },
+  "max-h-full": {
+    "prefix": "max-h-full",
+    "body": "max-h-full"
+  },
+  "max-h-screen": {
+    "prefix": "max-h-screen",
+    "body": "max-h-screen"
+  },
+  "max-h-svh": {
+    "prefix": "max-h-svh",
+    "body": "max-h-svh"
+  },
+  "max-h-lvh": {
+    "prefix": "max-h-lvh",
+    "body": "max-h-lvh"
+  },
+  "max-h-dvh": {
+    "prefix": "max-h-dvh",
+    "body": "max-h-dvh"
+  },
+  "max-h-min": {
+    "prefix": "max-h-min",
+    "body": "max-h-min"
+  },
+  "max-h-max": {
+    "prefix": "max-h-max",
+    "body": "max-h-max"
+  },
+  "max-h-fit": {
+    "prefix": "max-h-fit",
+    "body": "max-h-fit"
+  },
+  "size-0": {
+    "prefix": "size-0",
+    "body": "size-0"
+  },
+  "size-px": {
+    "prefix": "size-px",
+    "body": "size-px"
+  },
+  "size-0.5": {
+    "prefix": "size-0.5",
+    "body": "size-0.5"
+  },
+  "size-1": {
+    "prefix": "size-1",
+    "body": "size-1"
+  },
+  "size-1.5": {
+    "prefix": "size-1.5",
+    "body": "size-1.5"
+  },
+  "size-2": {
+    "prefix": "size-2",
+    "body": "size-2"
+  },
+  "size-2.5": {
+    "prefix": "size-2.5",
+    "body": "size-2.5"
+  },
+  "size-3": {
+    "prefix": "size-3",
+    "body": "size-3"
+  },
+  "size-3.5": {
+    "prefix": "size-3.5",
+    "body": "size-3.5"
+  },
+  "size-4": {
+    "prefix": "size-4",
+    "body": "size-4"
+  },
+  "size-5": {
+    "prefix": "size-5",
+    "body": "size-5"
+  },
+  "size-6": {
+    "prefix": "size-6",
+    "body": "size-6"
+  },
+  "size-7": {
+    "prefix": "size-7",
+    "body": "size-7"
+  },
+  "size-8": {
+    "prefix": "size-8",
+    "body": "size-8"
+  },
+  "size-9": {
+    "prefix": "size-9",
+    "body": "size-9"
+  },
+  "size-10": {
+    "prefix": "size-10",
+    "body": "size-10"
+  },
+  "size-11": {
+    "prefix": "size-11",
+    "body": "size-11"
+  },
+  "size-12": {
+    "prefix": "size-12",
+    "body": "size-12"
+  },
+  "size-14": {
+    "prefix": "size-14",
+    "body": "size-14"
+  },
+  "size-16": {
+    "prefix": "size-16",
+    "body": "size-16"
+  },
+  "size-20": {
+    "prefix": "size-20",
+    "body": "size-20"
+  },
+  "size-24": {
+    "prefix": "size-24",
+    "body": "size-24"
+  },
+  "size-28": {
+    "prefix": "size-28",
+    "body": "size-28"
+  },
+  "size-32": {
+    "prefix": "size-32",
+    "body": "size-32"
+  },
+  "size-36": {
+    "prefix": "size-36",
+    "body": "size-36"
+  },
+  "size-40": {
+    "prefix": "size-40",
+    "body": "size-40"
+  },
+  "size-44": {
+    "prefix": "size-44",
+    "body": "size-44"
+  },
+  "size-48": {
+    "prefix": "size-48",
+    "body": "size-48"
+  },
+  "size-52": {
+    "prefix": "size-52",
+    "body": "size-52"
+  },
+  "size-56": {
+    "prefix": "size-56",
+    "body": "size-56"
+  },
+  "size-60": {
+    "prefix": "size-60",
+    "body": "size-60"
+  },
+  "size-64": {
+    "prefix": "size-64",
+    "body": "size-64"
+  },
+  "size-72": {
+    "prefix": "size-72",
+    "body": "size-72"
+  },
+  "size-80": {
+    "prefix": "size-80",
+    "body": "size-80"
+  },
+  "size-96": {
+    "prefix": "size-96",
+    "body": "size-96"
+  },
+  "size-auto": {
+    "prefix": "size-auto",
+    "body": "size-auto"
+  },
+  "size-1/2": {
+    "prefix": "size-1/2",
+    "body": "size-1/2"
+  },
+  "size-1/3": {
+    "prefix": "size-1/3",
+    "body": "size-1/3"
+  },
+  "size-2/3": {
+    "prefix": "size-2/3",
+    "body": "size-2/3"
+  },
+  "size-1/4": {
+    "prefix": "size-1/4",
+    "body": "size-1/4"
+  },
+  "size-2/4": {
+    "prefix": "size-2/4",
+    "body": "size-2/4"
+  },
+  "size-3/4": {
+    "prefix": "size-3/4",
+    "body": "size-3/4"
+  },
+  "size-1/5": {
+    "prefix": "size-1/5",
+    "body": "size-1/5"
+  },
+  "size-2/5": {
+    "prefix": "size-2/5",
+    "body": "size-2/5"
+  },
+  "size-3/5": {
+    "prefix": "size-3/5",
+    "body": "size-3/5"
+  },
+  "size-4/5": {
+    "prefix": "size-4/5",
+    "body": "size-4/5"
+  },
+  "size-1/6": {
+    "prefix": "size-1/6",
+    "body": "size-1/6"
+  },
+  "size-2/6": {
+    "prefix": "size-2/6",
+    "body": "size-2/6"
+  },
+  "size-3/6": {
+    "prefix": "size-3/6",
+    "body": "size-3/6"
+  },
+  "size-4/6": {
+    "prefix": "size-4/6",
+    "body": "size-4/6"
+  },
+  "size-5/6": {
+    "prefix": "size-5/6",
+    "body": "size-5/6"
+  },
+  "size-1/12": {
+    "prefix": "size-1/12",
+    "body": "size-1/12"
+  },
+  "size-2/12": {
+    "prefix": "size-2/12",
+    "body": "size-2/12"
+  },
+  "size-3/12": {
+    "prefix": "size-3/12",
+    "body": "size-3/12"
+  },
+  "size-4/12": {
+    "prefix": "size-4/12",
+    "body": "size-4/12"
+  },
+  "size-5/12": {
+    "prefix": "size-5/12",
+    "body": "size-5/12"
+  },
+  "size-6/12": {
+    "prefix": "size-6/12",
+    "body": "size-6/12"
+  },
+  "size-7/12": {
+    "prefix": "size-7/12",
+    "body": "size-7/12"
+  },
+  "size-8/12": {
+    "prefix": "size-8/12",
+    "body": "size-8/12"
+  },
+  "size-9/12": {
+    "prefix": "size-9/12",
+    "body": "size-9/12"
+  },
+  "size-10/12": {
+    "prefix": "size-10/12",
+    "body": "size-10/12"
+  },
+  "size-11/12": {
+    "prefix": "size-11/12",
+    "body": "size-11/12"
+  },
+  "size-full": {
+    "prefix": "size-full",
+    "body": "size-full"
+  },
+  "size-min": {
+    "prefix": "size-min",
+    "body": "size-min"
+  },
+  "size-max": {
+    "prefix": "size-max",
+    "body": "size-max"
+  },
+  "size-fit": {
+    "prefix": "size-fit",
+    "body": "size-fit"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "transition-none": {
+    "prefix": "transition-none",
+    "body": "transition-none"
+  },
+  "transition-all": {
+    "prefix": "transition-all",
+    "body": "transition-all"
+  },
+  "transition": {
+    "prefix": "transition",
+    "body": "transition"
+  },
+  "transition-colors": {
+    "prefix": "transition-colors",
+    "body": "transition-colors"
+  },
+  "transition-opacity": {
+    "prefix": "transition-opacity",
+    "body": "transition-opacity"
+  },
+  "transition-shadow": {
+    "prefix": "transition-shadow",
+    "body": "transition-shadow"
+  },
+  "transition-transform": {
+    "prefix": "transition-transform",
+    "body": "transition-transform"
+  },
+  "duration-0": {
+    "prefix": "duration-0",
+    "body": "duration-0"
+  },
+  "duration-75": {
+    "prefix": "duration-75",
+    "body": "duration-75"
+  },
+  "duration-100": {
+    "prefix": "duration-100",
+    "body": "duration-100"
+  },
+  "duration-150": {
+    "prefix": "duration-150",
+    "body": "duration-150"
+  },
+  "duration-200": {
+    "prefix": "duration-200",
+    "body": "duration-200"
+  },
+  "duration-300": {
+    "prefix": "duration-300",
+    "body": "duration-300"
+  },
+  "duration-500": {
+    "prefix": "duration-500",
+    "body": "duration-500"
+  },
+  "duration-700": {
+    "prefix": "duration-700",
+    "body": "duration-700"
+  },
+  "duration-1000": {
+    "prefix": "duration-1000",
+    "body": "duration-1000"
+  },
+  "ease-linear": {
+    "prefix": "ease-linear",
+    "body": "ease-linear"
+  },
+  "ease-in": {
+    "prefix": "ease-in",
+    "body": "ease-in"
+  },
+  "ease-out": {
+    "prefix": "ease-out",
+    "body": "ease-out"
+  },
+  "ease-in-out": {
+    "prefix": "ease-in-out",
+    "body": "ease-in-out"
+  },
+  "delay-0": {
+    "prefix": "delay-0",
+    "body": "delay-0"
+  },
+  "delay-75": {
+    "prefix": "delay-75",
+    "body": "delay-75"
+  },
+  "delay-100": {
+    "prefix": "delay-100",
+    "body": "delay-100"
+  },
+  "delay-150": {
+    "prefix": "delay-150",
+    "body": "delay-150"
+  },
+  "delay-200": {
+    "prefix": "delay-200",
+    "body": "delay-200"
+  },
+  "delay-300": {
+    "prefix": "delay-300",
+    "body": "delay-300"
+  },
+  "delay-500": {
+    "prefix": "delay-500",
+    "body": "delay-500"
+  },
+  "delay-700": {
+    "prefix": "delay-700",
+    "body": "delay-700"
+  },
+  "delay-1000": {
+    "prefix": "delay-1000",
+    "body": "delay-1000"
+  },
+  "animate-none": {
+    "prefix": "animate-none",
+    "body": "animate-none"
+  },
+  "animate-spin": {
+    "prefix": "animate-spin",
+    "body": [
+      "animation: spin 1s linear infinite;",
+      "@keyframes spin {",
+      "  from {",
+      "    transform: rotate(0deg);",
+      "  }",
+      "  to {",
+      "    transform: rotate(360deg);",
+      "  }",
+      "}"
+    ]
+  },
+  "animate-ping": {
+    "prefix": "animate-ping",
+    "body": [
+      "animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;",
+      "@keyframes ping {",
+      "  75%, 100% {",
+      "    transform: scale(2);",
+      "    opacity: 0;",
+      "  }",
+      "}"
+    ]
+  },
+  "animate-pulse": {
+    "prefix": "animate-pulse",
+    "body": [
+      "animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;",
+      "@keyframes pulse {",
+      "  0%, 100% {",
+      "    opacity: 1;",
+      "  }",
+      "  50% {",
+      "    opacity: .5;",
+      "  }",
+      "}"
+    ]
+  },
+  "animate-bounce": {
+    "prefix": "animate-bounce",
+    "body": [
+      "animation: bounce 1s infinite;",
+      "@keyframes bounce {",
+      "  0%, 100% {",
+      "    transform: translateY(-25%);",
+      "    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);",
+      "  }",
+      "  50% {",
+      "    transform: translateY(0);",
+      "    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);",
+      "  }",
+      "}"
+    ]
+  }
+}
